@@ -1,6 +1,6 @@
 # Invocation (as Internal Libation) #
 
-Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, after my formative Egyptian Period and enrapture with [Bastet](https://en.wikipedia.org/wiki/Bastet) and viewed Classically-themed artworks with intent from circa 13 year old, but it was this dramatic work and the critical readings I read, specifically [Dodds](https://en.wikipedia.org/wiki/E._R._Dodds) (1951) and [Graves](https://en.wikipedia.org/wiki/Robert_Graves) (1955), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage. I have done [Bibliomancy](https://en.wikipedia.org/wiki/Bibliomancy)-*cum*-[Theurgy](https://en.wikipedia.org/wiki/Theurgy) in different forms with my two-volume impression of Graves (1955), countless times over the years. I had read brief curated extracts of Dodds (1951) a few years prior, provided by my secondary school English Literature teacher, to inform the literary critique of a poem, who was a truly exceptional and passionate teacher and I am ashamed, I do not remember her name. She was the one who taught me about Kore/Persephone, with which I inaugurate the Introduction to this volume and instilled a love for [Plath](https://en.wikipedia.org/wiki/Sylvia_Plath) and due fascination with the theme of Fear-Fascination in Plath's  'Bee Cycle' of five (5) poems (1962).
+Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, after my formative Egyptian Period and enrapture with [Bastet](https://en.wikipedia.org/wiki/Bastet) and viewed Classically-themed artworks with intent from circa 13 year old, but it was this dramatic work and the critical readings I read, specifically [Dodds](https://en.wikipedia.org/wiki/E._R._Dodds) (1951), the rendering of Nietzsche (1872) by Haussmann (1909) and [Graves](https://en.wikipedia.org/wiki/Robert_Graves) (1955), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage. I have done [Bibliomancy](https://en.wikipedia.org/wiki/Bibliomancy)-*cum*-[Theurgy](https://en.wikipedia.org/wiki/Theurgy) in different forms with my two-volume impression of Graves (1955), countless times over the years. I had read brief curated extracts of Dodds (1951) a few years prior, provided by my secondary school English Literature teacher, to inform the literary critique of a poem, who was a truly exceptional and passionate teacher and I am ashamed, I do not remember her name. She was the one who taught me about Kore/Persephone, with which I inaugurate the Introduction to this volume and instilled a love for [Plath](https://en.wikipedia.org/wiki/Sylvia_Plath) and due fascination with the theme of Fear-Fascination in Plath's  'Bee Cycle' of five (5) poems (1962).
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
@@ -478,3 +478,46 @@ Citations:
 [8] Timeline: Greek Mythology - World History Encyclopedia https://www.worldhistory.org/timeline/Greek_Mythology/
 [9] Greek mythology | Gods, Goddesses, Stories, Names, & History https://www.britannica.com/topic/Greek-mythology
 [10] Mythical Chronology - Greek Mythology Link https://www.maicar.com/GML/MythicalChronology.html
+
+
+
+Nietzche's 'Birth of Tragedy' dates in German and Germanic title and first English translation, translator and dates?
+
+Here are the key publication details for Nietzsche’s **"The Birth of Tragedy"**:
+
+- **Original German title:**  
+  *Die Geburt der Tragödie aus dem Geiste der Musik*
+
+- **First German publication:**  
+  **1872** (Leipzig: E. W. Fritzsch)[1][4][5][6][8]
+
+- **Reissued German title (1886):**  
+  *Die Geburt der Tragödie, Oder: Griechentum und Pessimismus*  
+  (with Nietzsche’s new preface, "Versuch einer Selbstkritik")[1][5][6][7][9]
+
+- **First English translation:**  
+  **1909** by William August Haussmann, published as *The Birth of Tragedy* (London: T. N. Foulis)[1]
+
+**Summary Table**
+
+| Edition/Translation         | Title (German/English)                                  | Year  | Translator               |
+|----------------------------|--------------------------------------------------------|-------|--------------------------|
+| First German edition       | Die Geburt der Tragödie aus dem Geiste der Musik        | 1872  | —                        |
+| Reissue (German)           | Die Geburt der Tragödie, Oder: Griechentum und Pessimismus | 1886  | —                        |
+| First English translation  | The Birth of Tragedy                                   | 1909  | William August Haussmann |
+
+These are the authoritative dates and titles for Nietzsche’s influential work.[1][4][5][6][8]
+
+Citations:
+[1] The Birth of Tragedy https://en.wikipedia.org/wiki/The_Birth_of_Tragedy
+[2] The Birth of Tragedy https://nochrisis.blog/die-geburt-der-tragodie-aus-dem-geiste-der-musik/
+[3] Die Geburt der Tragödie: Versuch einer Selbstkritik by ... http://www.gutenberg.org/ebooks/7206
+[4] Die Geburt der Tragödie (The Birth of Tragedy) 1872 https://www.biblio.com/book/die-geburt-tragodie-birth-tragedy-nietzsche/d/1276615550
+[5] The Birth of Tragedy - Wikiwand https://www.wikiwand.com/en/articles/Birth_of_Tragedy
+[6] The Birth of Tragedy - Wikipedia https://en.wikipedia.org/wiki/The_Birth_of_Tragedy_from_the_Spirit_of_Music
+[7] The Birth of Tragedy: Or Hellenism and Pessimism https://books.google.com/books/about/The_Birth_of_Tragedy_Or_Hellenism_and_Pe.html?id=ONLeEAAAQBAJ
+[8] The Birth of Tragedy | Philosophical, Cultural, Literary https://www.britannica.com/topic/The-Birth-of-Tragedy
+[9] History | Birth of Tragedy Wikipedia https://www.gradesaver.com/birth-of-tragedy/wikipedia/history
+[10] The Birth of Tragedy https://www.klassik-stiftung.de/en/home/digital/collection-highlights/the-birth-of-tragedy/
+
+
