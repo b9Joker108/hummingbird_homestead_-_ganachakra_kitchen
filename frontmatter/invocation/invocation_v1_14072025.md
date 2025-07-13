@@ -1,6 +1,6 @@
 # Invocation #
 
-Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, but it was this dramatic work and the critical readings I read to inform my understanding and writing on the subject, was a rite-of-passage.
+Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, but it was this dramatic work and the critical readings I read, specifically Dodds (1951), to inform my understanding and writing on the subject, was a rite-of-passage.
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
@@ -91,3 +91,24 @@ Citations:
 [8] Dionysus - the God of wine and theatre in Greek Mythology https://greekmythologytours.com/blog/greek-mythology/dionysus-greek-god
 [9] Greek God Dionysos - Liberating God of Wine and Ecstasy https://learning-history.com/greek-god-dionysos/
 [10] Dionysus: God of Wine and Ecstasy - Greece Is https://www.greece-is.com/dionysus-god-wine-ecstasy/
+
+
+What year was the 'Irrationality and the Greeks'(?) published, famous monographic work, may have title wrong?
+
+The monograph you’re referring to is **"The Greeks and the Irrational" by E. R. Dodds**. It was **first published in 1951** as Volume 25 of the Sather Classical Lectures series[3][6][9][10][11].
+
+Citations:
+[1] THE GREEKS AND THE IRRATIONAL by Dodds, E. R | Softcover https://www.biblio.com/book/greeks-irrational-dodds-e-r/d/1616602196
+[2] The Greeks and the Irrational book by E. R. Dodds: 9780520242302 https://www.betterworldbooks.com/product/detail/the-greeks-and-the-irrational-9780520242302
+[3] The Greeks and the Irrational - Fullers Bookshop https://shop.fullersbookshop.com.au/p/the-greeks-and-the-irrational
+[4] The Greeks and the Irrational by E.R. Dodds, Paperback ... - The Nile https://www.thenile.com.au/books/er-dodds/the-greeks-and-the-irrational/9798886770247
+[5] The Greeks and the Irrational / Edition 2|Paperback https://www.barnesandnoble.com/w/the-greeks-and-the-irrational-eric-r-dodds/1101609463
+[6] The Greeks and the Irrational, E.R. Dodds | 9780520242302 | Livres | bol https://www.bol.com/be/fr/f/-/30216848/
+[7] The Greeks and the Irrational (Hardcover) https://www.harvard.com/book/9798886770254
+[8] The Greeks and the Irrational by E.R. Dodds (English) Hardcover Book https://www.ebay.com.au/itm/146693799944
+[9] The Greeks and the Irrational by Eric R. Dodds - Paper https://www.ucpress.edu/books/the-greeks-and-the-irrational/paper
+[10] The Greeks and the Irrational by Eric R. Dodds - ePub + PDF https://www.ucpress.edu/books/the-greeks-and-the-irrational/epub-pdf
+[11] Why read The Greeks and the Irrational? https://shepherd.com/book/the-greeks-and-the-irrational
+[12] The Greeks and the Irrational https://www.booktopia.com.au/the-greeks-and-the-irrational-eric-r-dodds/book/9780520242302.html
+
+
