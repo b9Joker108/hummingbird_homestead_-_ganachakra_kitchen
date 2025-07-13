@@ -1,6 +1,6 @@
 # Invocation (as Internal Libation) #
 
-Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, after my formative Egyptian Period and erapture with [Bastet](https://en.wikipedia.org/wiki/Bastet) and viewed Classically-themed artworks with intent from circa 13 year old, but it was this dramatic work and the critical readings I read, specifically [Dodds](https://en.wikipedia.org/wiki/E._R._Dodds) (1951), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage. I had read brief curated extracts of Dodds (1951) a few years prior, provided by my secondary school English Literature teacher, to inform the literary critique of a poem, who was a truly exceptional and passionate teacher and I am ashamed, I do not remember her name. She was the one who taught me about Kore/Persephone and instilled a love for [Plath](https://en.wikipedia.org/wiki/Sylvia_Plath).
+Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, after my formative Egyptian Period and erapture with [Bastet](https://en.wikipedia.org/wiki/Bastet) and viewed Classically-themed artworks with intent from circa 13 year old, but it was this dramatic work and the critical readings I read, specifically [Dodds](https://en.wikipedia.org/wiki/E._R._Dodds) (1951) and [Graves](https://en.wikipedia.org/wiki/Robert_Graves) (1955), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage. I had read brief curated extracts of Dodds (1951) a few years prior, provided by my secondary school English Literature teacher, to inform the literary critique of a poem, who was a truly exceptional and passionate teacher and I am ashamed, I do not remember her name. She was the one who taught me about Kore/Persephone and instilled a love for [Plath](https://en.wikipedia.org/wiki/Sylvia_Plath).
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
@@ -456,3 +456,25 @@ If you’re thinking of a term used in anthropology and religious studies for fo
 **However, if you meant the technical term for religious food laws, the most widely recognized word is “cultural code” or “commensal code.”** If you recall more context or a different letter, let me know!
 
 
+Dates for Grave 'Greek Myths'?
+
+If you are asking for the **dates of Robert Graves’ "The Greek Myths"**, the famous two-volume work:
+
+- **First published:** 1955
+
+If you are asking about the **chronological framework of the Greek myths themselves**, the traditional mythic timeline (as reconstructed by ancient and modern chronographers) runs from the **Primordial Creation (c. 1700s BCE, mythically)** through the **Heroic Age (Trojan War, c. 13th–12th century BCE, mythically)**, with the stories first recorded in literary form in the **Archaic and Classical periods (c. 8th–4th century BCE)**[4][5][6][9].
+
+But for the book:  
+**Robert Graves, "The Greek Myths" — 1955**
+
+Citations:
+[1] Greek mythology - Wikipedia https://en.wikipedia.org/wiki/Greek_mythology
+[2] Timeline of Greek Mythology Stories - StorytellingDB https://storytellingdb.com/greek-mythology-stories/
+[3] Mythical Chronology of Greece - Hellenica World https://www.hellenicaworld.com/Greece/Mythology/en/MythicalChronology.html
+[4] Greek myths in chronological order - Abagond - WordPress.com https://abagond.wordpress.com/2023/06/30/greek-myths-in-chronological-order/
+[5] Development Greek Mythology timeline. https://www.timetoast.com/timelines/development-greek-mythology
+[6] Greek Mythology And The Historical Timeline Of Greece | UKEssays.com https://www.ukessays.com/essays/history/greek-mythology-and-the-historical-timeline-of-greece-history-essay.php
+[7] Rough chronology of Greek Myth? : r/history - Reddit https://www.reddit.com/r/history/comments/ofqj7w/rough_chronology_of_greek_myth/
+[8] Timeline: Greek Mythology - World History Encyclopedia https://www.worldhistory.org/timeline/Greek_Mythology/
+[9] Greek mythology | Gods, Goddesses, Stories, Names, & History https://www.britannica.com/topic/Greek-mythology
+[10] Mythical Chronology - Greek Mythology Link https://www.maicar.com/GML/MythicalChronology.html
