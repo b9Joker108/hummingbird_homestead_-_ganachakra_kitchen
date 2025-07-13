@@ -1,6 +1,6 @@
 # Invocation #
 
-Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, but it was this dramatic work and the critical readings I read, specifically Dodds (1951), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage.
+Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, including Dionysus, but it was this dramatic work and the critical readings I read, specifically [Dodds](https://en.wikipedia.org/wiki/E._R._Dodds) (1951), to inform my understanding and writing on the subject, was a transformative and palpable rite-of-passage. I had read extracts of Dodds (1951) a few years prior, provided by my English Literature, who was truly exceptional and I am ashamed, I do not remember her name.
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
