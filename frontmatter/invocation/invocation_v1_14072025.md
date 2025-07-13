@@ -1,6 +1,6 @@
 # Invocation #
 
-Whilst a youth emerging into manhood in a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposurw to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation.
+Whilst a youth, emerging into manhood within a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposure to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation. I had of course read of many of the Greek Myths long prior, but it was this dramatic work and the critical readings I read to inform my understanding and writing on the subject, was a rite-of-passage.
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
