@@ -1,6 +1,4 @@
-
-
-
+# Gulab Jamun #
 
 Please survey the culinary and devotional tradition, historicity, proxemics and spatio-temporal flows of the Gulab Jaman sweet. Linguistics is most important, use all indigenous and appropriate scripts, IAST, etymology, roots, attestations, usages, academic pronunciation, lay pronunciation, polysemy for all salient terms AND INGREDIENTS and COOKING utensils involved.
 
