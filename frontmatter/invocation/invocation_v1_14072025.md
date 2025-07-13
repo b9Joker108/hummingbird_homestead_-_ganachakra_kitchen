@@ -340,3 +340,119 @@ Citations:
 
 
 
+I meant the diametrical opposite of: aprobation
+
+Thank you for clarifying! The **diametrical opposite of "aprobation" is "disapprobation"** (meaning disapproval or condemnation).
+
+### **Restated Thesis:**
+If your question is:  
+*"Was the Shramana-complex the point of origin of Indic disapprobation (disapproval) of alcohol?"*
+
+### **Answer: Yes, the Shramana-complex is indeed the primary point of origin for systematic Indic disapprobation of alcohol.**
+
+## **Explanation**
+
+### **1. Pre-Shramana Context:**
+- **Vedic and Pre-Vedic Society:**  
+  Alcoholic beverages (*surā*, *madhu*, etc.) were widely consumed, both ritually and socially. The Vedas do not universally condemn alcohol; in fact, some drinks (like Soma) were revered, and others (like *surā*) were accepted, though sometimes with reservations for certain classes (e.g., Brahmins).
+- **No Systematic Disapproval:**  
+  While some Vedic texts express mild caution about excess, there is no blanket condemnation or ethical prohibition of alcohol.
+
+### **2. The Shramana-Complex (6th c. BCE onward):**
+- **Who were the Shramanas?**  
+  Jain, Buddhist, Ajivika, and other heterodox ascetic traditions that arose in reaction to Vedic ritualism and Brahmanical orthodoxy.
+- **Systematic Disapprobation:**  
+  - **Buddhism:** The fifth precept (*pañcaśīla*) strictly prohibits intoxicants (*surā-meraya-majja-pamādaṭṭhānā*).
+  - **Jainism:** Complete abstention from intoxicants is a core ethical vow for both monks and laypeople.
+  - **Ajivikas and others:** Similar ascetic codes, often including abstinence from alcohol.
+- **Motivation:**  
+  The Shramana traditions viewed intoxication as a source of ignorance, moral downfall, and a barrier to liberation (*moksha*, *nirvana*).
+
+### **3. Impact and Legacy**
+- **Spread of Disapprobation:**  
+  The Shramana critique influenced later Hindu law codes (e.g., Manusmṛti), which became more restrictive about alcohol, especially for Brahmins and ascetics.
+- **Cultural Memory:**  
+  The association of alcohol with moral and spiritual danger in Indian thought can be traced directly to the Shramana ethical revolution.
+
+## **Summary Table: Disapprobation of Alcohol in Ancient India**
+
+| Period/Tradition         | Attitude Toward Alcohol             | Notable Features                   |
+|-------------------------|--------------------------------------|------------------------------------|
+| Pre-Vedic/Indus         | Neutral/Positive                     | Ritual and social use              |
+| Vedic                   | Mixed (some caution, no blanket ban) | Soma revered, surā accepted        |
+| Shramana (Buddhist, Jain, Ajivika) | Systematic disapprobation             | Ethical codes, abstention, precepts|
+| Later Hinduism          | Increasingly restrictive             | Influence of Shramana ethics       |
+
+### **Conclusion**
+
+**The Shramana-complex is the historical and philosophical origin of systematic disapprobation of alcohol in Indic civilization.**  
+Their ascetic and ethical teachings marked a turning point, introducing the first explicit, widespread condemnation of intoxicants in South Asian religious and moral thought.
+
+
+So, Tantra in one purview was a counter or devolution of the shramana commensurate (food laws?) imperative?
+
+Your intuition is correct: **Tantra, in one major purview, emerged as a counter-movement or deliberate inversion of the Shramana and Brahmanical food and purity imperatives**—especially regarding prohibitions on meat, alcohol, and sexual activity. This is particularly evident in the so-called *pañcamakāra* (five Ms) practices of both Hindu and Buddhist Tantra, which intentionally transgressed established food laws and purity codes[2][3][8].
+
+### **Context: Shramana and Brahmanical Food Laws**
+
+- **Shramana traditions** (Buddhism, Jainism, etc.) and mainstream Brahmanism developed increasingly strict food laws, emphasizing vegetarianism, ritual purity, and abstention from intoxicants and sexual activity as central to spiritual progress[5][6][8].
+- **Ahimsa** (non-violence) and *śuddhi* (purity) were core values, leading to elaborate rules on what could be eaten, when, and by whom[5][6].
+
+### **Tantra as Counter-Imperative**
+
+- **Tantric practice**—in both Shaiva, Shakta, and Vajrayana Buddhist forms—*deliberately engaged with what was considered impure or taboo* in orthodox systems:  
+  - **Meat (māṃsa, मांस)**
+  - **Fish (matsya, मत्स्य)**
+  - **Alcohol (madya, मद्य)**
+  - **Parched grain or gesture (mudrā, मुद्रा)**
+  - **Sexual union (maithuna, मैथुन)**[2][3][8]
+- These are known as the **pañcamakāra** or "five Ms," and their consumption or ritual use was framed as a means to transcend dualistic notions of pure and impure, and to break attachment to social and ritual conventions[2][3][8].
+
+#### **Ritual Logic**
+- In Tantric ritual, the consumption of taboo substances was not for indulgence, but to:
+  - **Transmute the impure into the pure** through yogic realization.
+  - **Demonstrate non-duality** (advaya) and the emptiness of concepts.
+  - **Access and harness energies** considered dangerous or polluting by mainstream codes[2][3][8].
+- This was often restricted to advanced initiates, not lay practitioners, and was surrounded by strict ritual controls[7].
+
+### **Food Laws: Inversion and Devolution**
+
+- **Whereas Shramana and Brahmanical codes** sought to *regulate* and *purify* food intake to augment *sattva* (purity) and avoid *rajas* (passion) and *tamas* (darkness)[5][6], **Tantra** often sought to *confront* and *transmute* the very substances and acts considered most polluting[2][3][8].
+- **Brahmanical devotion to the five products of the cow (pañcagavya)**—milk, curd, ghee, urine, dung—was *inverted* in Tantra through the ritual use of the five Ms, which included animal flesh and alcohol[8].
+
+### **Summary Table: Food Law Imperatives**
+
+| Tradition         | Food Law Imperative     | Attitude Toward Meat/Alcohol/Sex      | Ritual Logic                     |
+|-------------------|------------------------|---------------------------------------|----------------------------------|
+| Shramana/Brahmanical | Purification, abstention | Prohibited or highly restricted       | Maintain purity, avoid passion   |
+| Tantra            | Transgression, inversion | Ritualized, sometimes required        | Transmute taboo, realize non-duality |
+
+### **Conclusion**
+
+**Tantra, especially in its classical and antinomian forms, arose as a counterpoint to the Shramana and Brahmanical food and purity laws—deliberately engaging with and ritually inverting those imperatives as a means of spiritual realization.** This “devolution” is not a decline but a deliberate, sophisticated strategy to transcend dualities and social conditioning, using food and ritual as powerful tools for transformation[2][3][8].
+
+Citations:
+[1] What are some key similarities and differences between Tantra and ... https://www.reddit.com/r/vajrayana/comments/1chrv14/what_are_some_key_similarities_and_differences/
+[2] How is tantric sex, meat eating and alcohol consumption justified? https://hinduism.stackexchange.com/questions/18918/how-is-tantric-sex-meat-eating-and-alcohol-consumption-justified
+[3] Tantra - Wikipedia https://en.wikipedia.org/wiki/Tantra
+[4] Is Shingon lesser because it has less tantras than Tibetan vajrayana? https://www.dharmawheel.net/viewtopic.php?t=39531&start=60
+[5] Ahara Niyamanam - Guidelines on Eating as Per Sastras https://www.scribd.com/document/9652885/Ahara-Niyamanam-Guidelines-on-Eating-as-Per-Sastras
+[6] Rules associated with meals and meal timings under Sanatan Dharma https://www.timesnownews.com/spiritual/sanatan-dharma-provides-rules-for-our-meals-article-106353622
+[7] killing - Teachings From Tibet https://teachingsfromtibet.com/tag/killing/
+[8] Food_1-8.indd https://www.rug.nl/staff/p.berger/berger-food-2011.pdf
+[9] Why Vegetarian? | SamyeLing.org https://www.samyeling.org/buddhism-and-meditation/teaching-archive-2/khenpo-tsultrim-lodro/why-vegetarian/
+[10] Śramaṇa - Wikipedia https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a
+
+
+
+What is the fancy word for food-laws it starts with c by memory?
+
+The word you’re recalling is **“commensality”** (from Latin *com* “together” + *mensa* “table”), but more precisely, the **fancy term for food-laws starting with “c” is “cuisine” in a broad sense, but specifically “codex alimentarius” or “comestible codes.”** However, the **most precise and academic term is “cultural codex” or “culinary code.”**
+
+Yet, in the context of religious or ritual food laws, the term you may be seeking is **“cultural codification”** or, more technically, **“carnal code”** (though this is rare). But the **standard scholarly term is “commensal code”** or **“commensal laws.”**
+
+If you’re thinking of a term used in anthropology and religious studies for food laws, **“commensality”** refers to the rules and practices governing who eats with whom and under what circumstances, but **“cultural code”** or **“commensal code”** is often used for the broader system of food laws.
+
+**However, if you meant the technical term for religious food laws, the most widely recognized word is “cultural code” or “commensal code.”** If you recall more context or a different letter, let me know!
+
+
