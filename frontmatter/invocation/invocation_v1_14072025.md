@@ -1,6 +1,6 @@
 # Invocation #
 
-[Dionysus](https://en.wikipedia.org/wiki/Dionysus)
+Whilst a youth emerging into manhood in a mandir's Brahmachari ashrama and attending university, I read '[The Bacchae](https://en.wikipedia.org/wiki/The_Bacchae)' and exposurw to [Dionysus](https://en.wikipedia.org/wiki/Dionysus), was a revelation.
 
 
 Please write on Dionysus and culinary and experiential ecstacy. You know how I like the linguistics. Focus on theurgy, hierophany and the Gustatory of Ecstacy.
