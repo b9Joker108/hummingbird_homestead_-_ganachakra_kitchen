@@ -160,7 +160,7 @@ Citations:
 [10] The Influence of Ancient Graeco-Roman Mystery Cults on ... https://brewminate.com/the-influence-of-ancient-graeco-roman-mystery-cults-on-early-christianity/
 
 
-I remember in-passing, hearing Malcolm Turnbull relate his experience of Baldur in his experience at [Brasenose College, Oxford](https://en.wikipedia.org/wiki/Brasenose_College,_Oxford).
+I remember in-passing, hearing Malcolm Turnbull relate his experience of Baldur, whilst sequestered at [Brasenose College, Oxford](https://en.wikipedia.org/wiki/Brasenose_College,_Oxford).
 
 No, the traditions of that college are Heathen amplified in Christian context. Rember, Baldur in Britain is venerable  and amplification with Christ 'Standing-Up' Resurrection Daimon/Genius.
 
