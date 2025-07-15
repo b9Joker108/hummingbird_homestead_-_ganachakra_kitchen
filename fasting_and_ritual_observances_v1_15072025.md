@@ -1,5 +1,4 @@
-
-
+# Fasting and Ritual Observances #
 
 For my homesteading book, with recipes, I need a section on Ekadasi of Vaishnavism and the Padmasambhava/Dakini Day that happens on a comparable monthly lunar frequency. I am in Melboure, Victoria, Australia.
 
