@@ -5,30 +5,30 @@ To the [wights](https://en.wikipedia.org/w/index.php?title=Wight&oldid=129214688
 
 ## A Poetic Hallowed Fancy: To Mote and Morsel ##
 
-To the unseen dwellers—root and runner,  
-soil’s intelligence and earthen breath—  
-mushroom and mite, microbe and mineral,  
-all that seethe beneath our step.
+To the unseen Dwellers: Root and Runner,  
+Soil’s intelligence and earthen Breath —  
+Mushroom and Mite, Microbe and Mineral,  
+all that seethe beneath Our step.
 
-To the rain-shaded splay of leaves,  
-the pulse of sap down vascular green,  
-the fruit that’s lifted and the seed that drops,  
-the low-born, foraging, sun-making kin.
+To the rain-shaded splay of Leaves,  
+the pulse of Sap down vascular Green,  
+the Fruit that’s lifted and the Seed that drops,  
+the low-born, foraging, sky-making Kin.
 
-To the storied beasts—hoof and wing,  
-to fur, to shell, to the silent, blinking life  
-that grazes dusk and is gathered,  
-to the honeyed labor and the blood unspoken.
+To the storied beasts: Hoof and Wing,  
+to Fur, to Shell, to Nut; to the silent, blinking life  
+that Grazes dusk and is gathered,  
+to the Honeyed labor and the Blood unspoken.
 
-To the ancient pulse of yeast and fire,  
-to the blade, the berry, the leavening crust,  
-to all that once drew breath  
-and all who break and bless.
+To the ancient Pulse of Yeast and Fire,  
+to the Blade, the Berry, the leavening Crust,  
+to all that once drew Breath  
+and all who Break and Bless.
 
-To the chorus of sustenance, wild and humble,  
-wights in the unseen parliament of Earth:  
-without thee, our feasts are hollow,  
-our days, unbuttered.
+To the Chorus of Sustenance, Wild and Humble,  
+Wights in the Unseen Parliament of Earth:  
+without Thee, Our feasts are hollow,  
+Our days, unbuttered.
 
 *This is a poetic invocation in the tradition of food poetry—echoing the mode of Pablo Neruda’s "Ode to the Onion," Robert Frost’s "Blueberries," Virgil’s "Salad," and the bread and fruit verses of classic English and American writers[5][6][7]. It draws on an animist sense of gratitude towards the vital but often-unseen presences—the “wights” or spirits—supporting the chain of nourishment that sustains mortal life.*
 
