@@ -21,7 +21,7 @@ that Grazes dusk and is gathered,
 to the Honeyed labour and the Blood unspoken.
 
 To the ancient Pulse of Yeast and Fire,  
-to the Blade, the Berry, the leavening Crust,  
+to the Blade, the Berry, the Leavening crust,  
 to all that once drew Breath  
 and all who Break and Bless.
 
