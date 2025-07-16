@@ -18,7 +18,7 @@ the Low-born, Foraging, Sky-making Kin.
 To the storied beasts: Hoof and Wing,  
 to Fur, to Shell, to Nut; to the silent, blinking Life  
 that Grazes dusk and is gathered,  
-to the Honeyed labor and the Blood unspoken.
+to the Honeyed labour and the Blood unspoken.
 
 To the ancient Pulse of Yeast and Fire,  
 to the Blade, the Berry, the leavening Crust,  
