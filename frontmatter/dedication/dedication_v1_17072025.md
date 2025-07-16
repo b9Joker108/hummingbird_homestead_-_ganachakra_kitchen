@@ -5,8 +5,8 @@ To the [wights](https://en.wikipedia.org/w/index.php?title=Wight&oldid=129214688
 
 ## A Poetic Hallowed Fancy: To Mote and Morsel ##
 
-To the unseen Dwellers: Root and Runner,  
-Soil’s intelligence and earthen Breath —  
+To the Unseen Dwellers: Root and Runner,  
+Soil’s Intelligence and earthen Breath —  
 Mushroom and Mite, Microbe and Mineral,  
 all that seethe beneath Our step.
 
