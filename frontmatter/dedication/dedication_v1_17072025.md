@@ -49,7 +49,7 @@ Citations:
 
 ## Artisanal To-Do ##
 
-illuminated script
+### An Illumination ###
 
 **Illuminated Script** refers to the art form of hand-lettered manuscripts—often from the medieval and early modern eras—decorated with gold or silver leaf, vibrant pigments, and intricate borders, initials, and miniature illustrations. Such works are commonly found in religious texts (like psalters, Books of Hours, and bibles), as well as in poetry and culinary manuscripts[9].
 
