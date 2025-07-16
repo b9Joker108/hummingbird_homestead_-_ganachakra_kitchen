@@ -28,7 +28,7 @@ and all who break and bless.
 To the chorus of sustenance, wild and humble,  
 wights in the unseen parliament of Earth:  
 without thee, our feasts are hollow syllable,  
-our days, unbuttered bread.
+our days, unbuttered.
 
 *This is a poetic invocation in the tradition of food poetry—echoing the mode of Pablo Neruda’s "Ode to the Onion," Robert Frost’s "Blueberries," Virgil’s "Salad," and the bread and fruit verses of classic English and American writers[5][6][7]. It draws on an animist sense of gratitude towards the vital but often-unseen presences—the “wights” or spirits—supporting the chain of nourishment that sustains mortal life.*
 
