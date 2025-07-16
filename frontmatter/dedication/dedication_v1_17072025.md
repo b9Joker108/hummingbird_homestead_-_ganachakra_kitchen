@@ -1,18 +1,9 @@
 # Dedication #
 
-To that uponwhich we subsist: To the wights that supporteth life.
-
-
-
-
-# Dedication #
-
-To that uponwhich we subsist: To the wights that supporteth life.
-
 To that upon which we subsist:  
-To the wights that supporteth life.
+To the [wights](https://en.wikipedia.org/w/index.php?title=Wight&oldid=1292146887) that supporteth life.
 
-**Dedication**
+**A Poetic Fancy: Mote and Morsel**
 
 To the unseen dwellers—root and runner,  
 soil’s intelligence and earthen breath—  
