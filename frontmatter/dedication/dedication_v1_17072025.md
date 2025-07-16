@@ -26,7 +26,7 @@ to all that once drew breath
 and all who break and bless.
 
 To the chorus of sustenance, wild and humble,  
-wights in the unseen parliament of earth:  
+wights in the unseen parliament of Earth:  
 without thee, our feasts are hollow syllable,  
 our days, unbuttered bread.
 
