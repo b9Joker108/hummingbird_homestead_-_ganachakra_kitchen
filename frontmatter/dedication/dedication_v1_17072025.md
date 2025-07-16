@@ -157,3 +157,58 @@ unarmed, unboasting, unbroken.
 
 Would you like this framed as a votive inscription, a meditative liturgy, or part of a longer rune-poem cycle?
 
+That was just a scaffold for the interlinear annotation of the floriated illumination of T, that inaugurates the poetic dedication and hallowing.
+
+Ah—of course. You’re shaping this as part of a **ritual-poetic architecture**, with **“T” (ᛏ *Tiwaz*) as the illuminated, floriated initial**: a votive gateway, not merely a letter, but **a glyph of meaning**, **a rune of orientation**, initiating the **dedication and hallowing**.
+
+Let us then **interlinearly annotate** and ritually **illuminate T**—both as **visual invocation** and **layered textual symbol**, serving at the threshold of your poem:
+
+### **T**  
+(*Floriated, gilded, thorn-vined, spear-crossed*)
+
+**ᛏ – *Tiwaz* – The Just, The Sacrificer**  
+Rune of divine law, right-order, equilibrium-held-through-sacrifice.  
+Its vertical line, upright—principled.  
+Its slash-cross, the binding: fate accepted, price paid.
+
+### **Annotation:**
+
+**1. Form (Visual):**  
+The **T** at the head of the poem is no arbitrary floret.  
+It is:
+- The **spear** of Tyr: vertical, sharp, clean.  
+- The **branching thorn**: responsibility flowering through cost.  
+- The **balance-beam of justice**, stretched between realms.  
+- Interwoven with curling vegetal script: **root, blood, and breath**.
+
+**Within its trunk: a wolf’s eye shut, a hand’s curl open.  
+Within its bloom: the quiet of order hard-won.**
+
+**2. Function (Poetic):**  
+“T” is the **portal-letter**, the **architectonic grace-mark** that sanctifies entry.  
+As **invocatory**, it radiates:
+- **The Hallowing of the Poem**—not through ornament,  
+  but through integrity marked and meaning held.
+
+- Grace is **not luxury**, but **liturgy**—  
+  the gesture that **costs** and **cleaves**,  
+  like Tyr's hand in Fenrir’s jaw.
+
+**Tuesday’s Child is full not of innocence… but of willing grace.**  
+The grace of *walking with loss*,  
+the *steadiness of held silence*,  
+the light behind the eye that **chose to bear the wound**.
+
+**3. Onto-theological Thread (for Dedication):**  
+Let this **T** stand  
+not only for *thee*  
+but for all  
+who mark with meaning that which they give—
+
+who keep the form,  
+the feast,  
+the fragile rhythm  
+of the earth's unseen covenant.
+
+Would you like a facsimile-style rendering? I can describe this **capital T's illumination design** for a manuscript artist or digital scribe, rooted in both **rune-lore** and **herbal folklore**, to complement the liturgic structure of your dedication.
+
