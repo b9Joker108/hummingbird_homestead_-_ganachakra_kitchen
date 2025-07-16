@@ -25,8 +25,8 @@ to the Blade, the Berry, the Leavening crust,
 to all that once drew Breath  
 and all who Break and Bless.
 
-To the Chorus of Sustenance, Wild and Humble,  
-Wights in the Unseen Parliament of Earth:  
+To the Chorus of Sustenance: Wild, Exotic, Sumptuous, Humble -  
+Wights in the Unseen Parliament-of-Earth:  
 without Thee, Our feasts are hollow,  
 Our days, unbuttered.
 
