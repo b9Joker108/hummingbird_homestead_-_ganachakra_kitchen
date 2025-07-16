@@ -1204,3 +1204,62 @@ Citations:
 [8] The Story of The Indo-European Conquest of Ireland - [Part 2: Origins of The Irish] https://www.youtube.com/watch?v=69jv8nxpyxg
 [9] A Table of Correspondences for the Mythological 'Takings of Ireland' https://www.academia.edu/51332053/A_Table_of_Correspondences_for_the_Mythological_Takings_of_Ireland
 [10] John T Koch: Thinking About Indo-European And Celtic Myths https://ansionnachfionn.com/2019/03/23/john-t-koch-thinking-about-indo-european-and-celtic-myths/
+
+
+
+
+
+Cherrypicked readings for our proteacted thread please ...
+
+## Cherrypicked Readings for Our Protracted Thread
+
+Here is a curated selection of key academic works, articles, and translations relevant to the cross-cultural, mytho-linguistic, and ritual-historical explorations of our discussion—ranging from Indo-European studies and Irish myth to Norse-Irish entanglements, the sacred tree complex, and deeper questions of oracular practice and ancestral mounds.
+
+### Foundational Indo-European & Comparative Mythology
+
+- **J.P. Mallory, _In Search of the Indo-Europeans_:** An accessible and authoritative overview of IE migrations, with attention to ritual and mythic survivals, including in Ireland.
+- **Bruce Lincoln, _Death, War, and Sacrifice_:** Deep dives into ritual and poetic structures across IE cultures, including horse sacrifice and prophetic cults.
+- **Wendy Doniger, _The Hindus: An Alternative History_:** Valuable for understanding Indo-European ritual continuities (especially _siddhi_), oral traditions, and myth exchange.
+
+### Irish Myth, Prehistory, and Mythopoesis
+
+- **John Carey, _The Irish National Origin-Legend: Synthetic Pseudohistory_:** On the _Lebor Gabála Érenn_ and the layering of mythic “invasions.”
+- **Barry Cunliffe, _The Ancient Celts_:** Superb resource for understanding the archeological and mythological strata of insular Celtic cultures.
+- **James MacKillop, _Dictionary of Celtic Mythology_:** For concise entries on key terms—Sídhe, sovereignty, ritual, horses, and more.
+
+### Norse–Irish–Insular Cross-Pollination
+
+- **Judith Jesch, _The Viking Diaspora_:** Explores the multicultural texture of Norse settlements in the British Isles, highlighting Norse-Gael hybridities and storyworlds.
+- **Rudolf Simek, _The Vanir: An Obituary_:** Examines non-Aesir, “indigenous” mythic beings of Norse cosmology, including parallels to the Sídhe.
+- **Kaaren Grimstad, “The Structure of Old Norse _Vǫluspá_”:** Probes oracular tradition, ancestry, and mound-topologies in the poetics of the _Edda_.
+
+### Sacred Trees, Rood, and Yew Lore
+
+- **Miranda Green, _Symbol and Image in Celtic Religious Art_:** Analyzes yews, sacred groves, and tree iconography in British Celtic tradition.
+- **Hilda Ellis Davidson, _Forest Trees in Norse Mythology and Cosmology_:** Essential work on the world tree, bleeding trees, and Norse–Celtic analogues.
+- **Catherine Swift, “Early Irish Church Sites and Sacred Trees”:** Explores the co-existence and repurposing of yews, churchyards, and ancient pagan precincts.
+
+### Oracular Practice, Mounds, and Ritual Technology
+
+- **Patricia Lysaght, _The Banshee: The Irish Death Messenger_:** Detailed ethnographic survey of how ancestral/feminine oracular beings are situated in Irish tradition.
+- **Neil Price, _The Viking Way: Magic and Mind in Late Iron Age Scandinavia_:** Groundbreaking analysis of seiðr, oracular possession, and mound rituals in the North.
+- **Máire Herbert, “Otherworld, Moral World and Women's World: Images of the Otherworld in Early Irish Literature” (_Proceedings of Harvard Celtic Colloquium_)**: Shows the profound overlap between Irish mound lore, female prophecy, and transformational power.
+
+### Etymology, Linguistics, and Mythic Semantics
+
+- **J.A. MacCulloch, _The Religion of the Ancient Celts_:** Foundational coverage of linguistic and mythic continuities.
+- **Joseph Falaky Nagy, _Conversing with Angels and Ancestors: Literary Myths of Medieval Ireland_:** On the transmission, transformation, and performance of otherworld voices.
+
+### Primary Texts: Key Translations
+
+- **_The Táin Bó Cúailnge_ (Thomas Kinsella/ Ciaran Carson translations):** Central to understanding cosmological and sovereignty motifs.
+- **_The Poetic Edda_ (Carolyn Larrington/ Ursala Dronke translations):** Includes _Völuspá_ and _Hávamál_—crucial for world tree/fate/prophecy motifs.
+- **_Lebor Gabála Érenn_ (“The Book of Invasions”):** Most available in R.A. Stewart Macalister’s edition, for tracing legendary immigrations and mythic layering.
+
+### Thematic Overviews and Synthesis
+
+- **John Koch & Barry Cunliffe (eds.), _Celtic from the West_:** New research on “Celtic” origins in Atlantic façade, explores multi-layered migrations and syncretism.
+- **Patrick Sims-Williams, “Common Celtic, Gallo-Brittonic, and Insular Celtic” (_Cambridge Handbook of Celtic Linguistics_)**: For tracing possible substrate and adstrate influences across time.
+
+These works will equip you to dig deeper into every stratum and crossing addressed in our thread—from the Indo-European substratum and epic cycles to the ritual psychogeography of mounds, magical practices, and cultural entanglements. If you want further recommendations narrowed to poetry, primary texts, or a particular mythic motif, let me know.
+
