@@ -12,11 +12,11 @@ all that seethe beneath Our step.
 
 To the Rain-shaded splay of Leaves,  
 the pulse of Sap down vascular Green,  
-the Fruit that’s lifted and the Seed that drops,  
+the Fruit that’s lifted and the Seed and Nut that drops,  
 the Low-born, Foraging, Sky-making Kin.
 
 To the storied beasts: Hoof and Wing,  
-to Fur, to Shell, to Nut; to the silent, blinking Life  
+to Fur, to Shell; to the silent, blinking Life  
 that Grazes dusk and is gathered,  
 to the Honeyed labour and the Blood unspoken.
 
