@@ -16,7 +16,7 @@ the Fruit that’s lifted and the Seed that drops,
 the Low-born, Foraging, Sky-making Kin.
 
 To the storied beasts: Hoof and Wing,  
-to Fur, to Shell, to Nut; to the silent, blinking life  
+to Fur, to Shell, to Nut; to the silent, blinking Life  
 that Grazes dusk and is gathered,  
 to the Honeyed labor and the Blood unspoken.
 
