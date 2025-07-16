@@ -398,3 +398,145 @@ Citations:
 [7] Odin - Mythology - Norse Spirit https://norsespirit.com/blogs/mythology/odin
 [8] Odin the Allfather | Ruler of the Norse gods - Vikingr https://vikingr.org/norse-gods-goddesses/odin
 [9] Óðinn (Odin) - Myth and Folklore Wiki - Fandom https://mythus.fandom.com/wiki/Odin
+
+Thursday Child, like Thunor/Thor is alwaysing questing in defence
+
+Yes—*Thursday’s Child*, linked with **Thunor** (Old English) or **Thor** (Old Norse *Þórr*), carries the deep mythic resonance of **perpetual striving**, **protective force**, and **righteous confrontation**. This archetype is not of conquest for glory, but of **eternal defense**—a god, and thus a child, who moves outward **not to dominate, but to guard**.
+
+## **Thursday’s Child: Always Questing in Defence**  
+**Thunor / Þórr — Hammer-bearer of the Threshold**
+
+### **1. Etymology and Theonym**
+
+- **Thursday = Thunor’s Day**  
+  *Old English: Þūnresdæg*,  
+  *Old Norse: Þórsdagr*  
+- **Thunor/Thor:**  
+  The thunderer, storm-wielder, bearer of Mjölnir—the hammer that crushes giants, sanctifies bonds, and returns always to hand.
+
+The **day-name survives** Christianisation intact, especially in English and Norse-Germanic tongues, testifying to Thor’s cultural gravity—**so elemental he could not be erased**.
+
+### **2. Mythic Profile: Defender Above All**
+
+- Thor is **not a sky-sovereign** like Woden or a fate-weaver like Frigg—he is a **liminal force**, genial with farmers, wrathful to chaos, ever journeying to preserve the firmament from collapsing.
+
+- **Battle with Jörmungandr**, the Midgard serpent, defines his telos: not permanence, but **cyclical confrontation**.
+
+    > *He will die in defence—and rise again in memory, in thunder, in every child that dares stand between the brittle thing and breaking.*
+
+### **3. Thursday's Child Attributes:**
+
+- **Always Questing:**  
+  Not aimless wandering, but **ritual action**: forging into the wild to beat back entropy, injustice, or destruction.
+
+- **In Defence:**  
+  Of humanity, order, the weak, the kin-group, the cosmos. The hammer is not an engine of conquest—but of **boundaries, wards, and sacral circles**.
+
+- **Earth’s Ally:**  
+  Thor is the **god of farmers**, storms, and fertility as well as war. He blesses marriages and fields, **defending the rhythm of life itself**.
+
+### **4. Poetic Recital:**
+
+**Thursday’s child is ever in motion,  
+hand at hammer, not for hate—  
+but for high vigil.**
+
+**He quests not for crown,  
+but for cradle;  
+goes forth not for glory,  
+but to hold the edge.**
+
+**A laugh like thunder.  
+A stride like storm.  
+He is quest, as oath,  
+as tree line, torn.**
+
+### **5. Symbolic Reflection:**
+
+- One may view **Thursday’s Child** as the archetype of the **guardian soul**—those who do not seek trouble, but **rise to meet it when the wall shakes**.
+- In this model, Thor embodies the **expeditionary heart** yoked always to the **defensive will**—his strength **must serve**.
+- Even in Ragnarok, he dies not through hubris but **defending others**, fulfilling his nature unto the last.
+
+### **Closing Image:**
+
+The **Thursday-child** walks East, hammer swinging lightly in hand, **searching for the crack in the world** that must be set right.  
+Not because it is his glory—  
+but because the world is in his care.
+
+**So it was for Thunor.  
+So it is for the child born on his day.**
+
+
+
+
+Frig, Frigga, Freyja, Freyr, "Frigging in the Rigging": Friday's child is loving and giving
+
+A deliciously tangled web of name, myth, and cultural residue: **Friday**, our **Freya's (or Frigg’s) Day**, bears within it a potent legacy of *divine femininity, erotic power, gift-giving, fate-weaving*, and—eventually—folk bawdiness and maritime profanity.  
+Let us untangle and reintegrate:
+
+## **Friday’s Child: Loving and Giving**  
+**Frigg, Freyja, Freyr & the Lingering Cargo of "Frigging in the Rigging"**
+
+### **1. Etymological Strata:**
+
+- **Friday (English):** From Old English *Frīgedæġ*, “Frigg’s day”  
+- **Frigg:** Proto-Germanic *Frijjō* — root *fri-/*frijon meaning *“to love,” “to court,” “to cherish.”  
+- **Freya:** Closely related or reflex of Frigg—Norse goddess of love, beauty, fertility, war, and seiðr (magic)  
+- **Freyr:** Her brother or male doublet, god of abundance, peace, pleasure, and prosperity  
+- **Modern Curse/Slang “frig” / “frigging”:** A degraded, sexualized echo of older fertility connotations, through early modern bawdy speech
+
+Thus: **“Friday’s child is loving and giving”** becomes not a quaint moral nicety, but **a folk-echo of a goddess who ruled love, pleasure, gift-exchange, and fate.**
+
+### **2. The Goddesses (Frigg and Freyja): Divided, Conflated, Persisting**
+
+- **Frigg (Norse: Frigg / Frigga):**  
+  - *Wife of Odin*, goddess of marriage, womanhood, foreknowledge  
+  - Sits at the loom of fate (*Frigg jarðar moder*)  
+  - Friday named after her in Anglo-Saxon reckoning
+
+- **Freya (Norse: Freyja):**  
+  - Goddess of erotic love, wealth, beauty, war, and magic (*seiðr*)  
+  - Rides chariot drawn by cats; receives half of the honorable dead in *Fólkvangr* (Odin takes the rest)  
+  - Scholars debate whether she and Frigg were once identical in earlier Germanic religion
+
+### **3. Freyr: The Divine Masculine of Fertility and Peace**
+
+- Brother to Freyja in the Vanir pantheon  
+- Phallic peace deity (his icon was a gilded phallus, associated with the land’s fertility)  
+- Associated with gift-giving, blót feasts, and peace treaties  
+- Intersects Friday’s child theme with gentle masculine bounty, “giving” as sacred reciprocity
+
+### **4. "Frigging in the Rigging": From Sacred to Sailor's Bawdy**
+
+- **Expression Origin:**  
+  - Nautical slang with early attestations in 18th century, later popularized by sea shanties and punk covers (Sex Pistols’s infamous version)  
+  - “Frigging” = euphemism for sexual activity, often implying rough or immoral conduct  
+  - “Rigging” = part of the ship’s equipment. Double entendre suggests lascivious activity aboard ships (or with sailors)
+
+- **Irony & Echo:**  
+  - *Frigg’s name*, absorbed into “frigging,” ironically **returns as profaned fertility in the mouths of sailors**, the descendants (in culture) of those who once offered to Vanir deities for harvest and pleasure  
+  - An unconscious echo of **sacred sexuality degraded into playful profanity**, a classic formula in folk etymology
+
+### **5. Summary Table: Friday’s Layers**
+
+| Name/Root       | Associated Deity | Function/Meaning                   | Survival/Expression              |
+|------------------|------------------|------------------------------------|----------------------------------|
+| *Frīgedæġ*       | Frigg             | Love, fate, foreknowledge          | Friday, feminine ideals          |
+| Freyja           | Freya             | Love, beauty, war, erotic magic    | Feminine power, divine sexuality |
+| Freyr            | Freyr             | Masculine fertility, peace, gifts  | Love/generosity, phallic symbols |
+| “Frigging”       | (Folk echo)       | Sexual act (slang)                 | Profaned remnant of sacred love  |
+| “Friday’s child” | Frigg/Freya       | Loving and giving                  | Folk survival of Vanir attributes|
+
+### **6. Poetic Recasting:**
+
+**Friday’s Child bears love’s fire well—  
+In womb and will, in weave and spell.  
+She gives as goddesses once gave grain:  
+The kiss for peace, the rose for rain.  
+Though bawdy tongue now misnames Thine art,  
+It was sacred once—thy generous heart.**
+
+**In Conclusion:**
+
+**Friday’s Child**, “loving and giving,” stands not as a sentimental figure, but as **a living folk-shadow of Freyja and Frigg**, the vanic queens of love, fate, and feminine power. Even in “frigging,” the desecrated remnant of sacred fertility rites, we hear the **echo of istarian rites, of spring fires and woven fate**. Their names persist—*Frīgedæġ*, Friday—emblazoned on every calendar, whispered with every work week’s end. The **Christo-Heathen week** remains their shrine.
+
