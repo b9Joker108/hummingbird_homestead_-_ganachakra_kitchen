@@ -10,7 +10,7 @@ Soil’s Intelligence and earthen Breath —
 Mushroom and Mite, Microbe and Mineral,  
 all that seethe beneath Our step.
 
-To the rain-shaded splay of Leaves,  
+To the Rain-shaded splay of Leaves,  
 the pulse of Sap down vascular Green,  
 the Fruit that’s lifted and the Seed that drops,  
 the low-born, foraging, sky-making Kin.
