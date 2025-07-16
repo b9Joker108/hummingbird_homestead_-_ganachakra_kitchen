@@ -1,3 +1,8 @@
+<a href="https://youtu.be/3mu9jhI1xDA?si=ewM45zYXcXbcYkNx" target="_blank">
+  <img src="https://img.youtube.com/vi/3mu9jhI1xDA/maxresdefault.jpg" alt="Watch on YouTube" width="100%">
+</a>
+
+
 # Red Rice Dosha/Dosa #
 
 Please survey the Indian Red Rice Dosa. Be sure to use salient Indic scripts and IAST for all salient terms in recipes: ingredients, process, utensils, really draw out linguistics and spatio-temporality, trade networks, provenance of all saliences, academic and lay pronunciations, etymologies and roots.
