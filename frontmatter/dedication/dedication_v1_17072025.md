@@ -540,3 +540,79 @@ It was sacred once—thy generous heart.**
 
 **Friday’s Child**, “loving and giving,” stands not as a sentimental figure, but as **a living folk-shadow of Freyja and Frigg**, the vanic queens of love, fate, and feminine power. Even in “frigging,” the desecrated remnant of sacred fertility rites, we hear the **echo of istarian rites, of spring fires and woven fate**. Their names persist—*Frīgedæġ*, Friday—emblazoned on every calendar, whispered with every work week’s end. The **Christo-Heathen week** remains their shrine.
 
+
+
+The Resurrection, Dying-and-Rising motif and mythologem of the Sun (Suday's Chikd) is in more religio-cultural system than could ever be discussed.
+
+Indeed, the **Resurrection, Dying-and-Rising motif**—especially as it relates to the **Sun** and the **Sunday Child**—is one of the most pervasive and powerful **mythologems** across human religious and cultural systems. It touches the oldest agricultural rites, cosmologies of light and dark, and the sacred architecture of gods and kings.
+
+The motif is so **archetypal**, so **psychospiritual**, and so **rooted in the cycles of nature**, that it manifests **across continents and epochs**, often in convergent forms.
+
+## **Sunday’s Child: Light-Born, Risen, Solar Crowned**
+
+- *"Sunday's child is fair and wise and good and gay”* — a folk memory of **solar favor**, transfigured into **grace, joy, and transcendence**.
+
+To be born on the **Sun’s Day** is to carry the weight and radiance of **life-giver and returner**, of the **one who must set to rise again**.
+
+## **Dying–and–Rising Sun-God / Solar Mythologem**
+
+### **Core Pattern** *(after Frazer, Campbell, Jungian studies)*:
+
+- The Sun **rises**, matures, peaks (**zenith**)  
+- It **descends**, **dies** (twilight, night, winter, underworld journeys)  
+- After necessary rites, trials, or time in death—it **rises again**, reborn, renewed  
+
+This **cosmic pattern** becomes projected into divine, royal, and mythic forms:
+
+## **Global Expressions of the Solar Dying-and-Rising Motif**
+
+### **1. Egyptian: Horus / Osiris / Ra**
+- **Ra**: Sun-god travels through night’s Duat (underworld) in his solar barque, battling Apophis, and rising at dawn — *daily resurrection*.
+- **Osiris**: Slain, dismembered, entombed; then restored by Isis. His **resurrection** becomes the **guarantee of renewal**.
+
+### **2. Mesopotamian: Tammuz / Dumuzi**
+- Shepherd-lover of Inanna/Ishtar; descends to the underworld, mourned, ritually lamented
+- Returns for half the year — a myth tied to plant death and renewal through seasonal rhythm
+
+### **3. Greco-Roman: Dionysus, Helios, Mithras**
+- **Dionysus Zagreus:** Dismembered and reborn; god of vegetative tumult and divine ecstasy
+- **Helios:** Solar charioteer who dies into Ocean’s cup and rises anew
+- **Mithras:** Slays the cosmic bull; associated with light triumphing over darkness—dies and rises in solar allegory
+
+### **4. Norse: Baldr**
+- **Baldr**, the light-god, slain by Höðr, mourned by all creation; prophesied to return after Ragnarök—*sun reborn in the new world*  
+- **Sól (Sun-goddess)** will be killed by the wolf at Ragnarök, but her **daughter** will rise in her place—a **renewed solar age**
+
+### **5. Christian: Christ as Solar Logos**
+- Christ’s crucifixion and resurrection align with **Passover** and **spring equinox** themes
+- Early Christian art shows **Christ-Horus or Christ-Helios** riding a solar chariot
+- **Sunday** becomes the *day of resurrection*, *day of light*, *day of the sun-Son*
+
+## **Sunday in Folk Traditions**
+- **Dies Solis** in Latin → *Sunday*  
+- Pre-Christian Anglo-Saxon term: *Sunnandæg*  
+- In Christian time-reckoning: *dies resurrectionis* — the **eighth day**, sign of eternity  
+- In folklore: Sunday-born children are **radiant, destined, set-apart**—a sacramental reflection of the **sunchild** archetype
+
+## **Sunday's Child in Ritual Time**
+
+- **Solar festivals** mark equinoxes, solstices, and the resurrection myth:  
+  - **Easter**, aligned with spring full moon, originally overlaying festivals of Ostara, Ishtar, and the springing sun  
+  - **Yule/Midwinter**, sol invictus, when the sun is "reborn"  
+  - **Midsummer**, solar zenith, often connected to fertility and fire rituals
+
+## **Summary: Why This Mythologem Persists**
+
+The **Sun’s cycle** mirrors human hopes:  
+- That light returns from darkness  
+- That death is penultimate  
+- That **sacrifice leads to renewal**, not void
+
+The Sunday Child inherits this cosmic promise:  
+- **Child of light**  
+- **Bearer of renewal**  
+- **Marked by joy and inner sovereignty**  
+- But also—like all solar figures—must pass *through darkness to return with grace*
+
+Would you like a poetic liturgy or invocation to accompany the Sunday Child, composed in elevated style, drawing together these solar echoes and myths?
+
