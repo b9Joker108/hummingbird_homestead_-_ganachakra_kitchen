@@ -3,7 +3,7 @@
 To that upon which we subsist:  
 To the [wights](https://en.wikipedia.org/w/index.php?title=Wight&oldid=1292146887) that supporteth life.
 
-## A Poetic Hallowed Fancy: To Mote and Morsel ##
+## A Hallowed Poetic Fancy: To Mote and Morsel ##
 
 To the Unseen Dwellers: Root and Runner,  
 Soil’s Intelligence and earthen Breath —  
