@@ -13,7 +13,7 @@ all that seethe beneath Our step.
 To the Rain-shaded splay of Leaves,  
 the pulse of Sap down vascular Green,  
 the Fruit that’s lifted and the Seed that drops,  
-the low-born, foraging, sky-making Kin.
+the Low-born, Foraging, Sky-making Kin.
 
 To the storied beasts: Hoof and Wing,  
 to Fur, to Shell, to Nut; to the silent, blinking life  
