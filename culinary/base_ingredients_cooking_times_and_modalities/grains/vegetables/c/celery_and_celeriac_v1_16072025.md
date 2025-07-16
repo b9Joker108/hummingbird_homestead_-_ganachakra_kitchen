@@ -1,7 +1,7 @@
 
 
 
-Please explain the point-of-origin and spatio-temporal flow of Celeriac and its inclusion in attested signature dishes and showcase its diverse applications. Remember how I value deep linguistic treatment to ascertain cultural fkow by trade and conquest.
+Please explain the point-of-origin and spatio-temporal flow of Celeriac and its inclusion in attested signature dishes and showcase its diverse applications. Remember how I value deep linguistic treatment to ascertain cultural flow by trade and conquest.
 
 # Celeriac: Point-of-Origin, Spatio-Temporal Flow, Dishes, and Linguistic-Cultural Analysis
 
