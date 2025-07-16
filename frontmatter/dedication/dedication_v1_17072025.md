@@ -91,3 +91,69 @@ Citations:
 [8] A Man For All Seasonings - HMML https://hmml.org/stories/series-food-a-man-for-all-seasonings/
 [9] Medieval Illuminated Manuscripts - Minneapolis Institute of Art https://new.artsmia.org/programs/teachers-and-students/teaching-the-arts/five-ideas/medieval-illuminated-manuscripts
 [10] [PDF] language of the edible in John Keats's letters and poems https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=2926&context=legacy-etd
+
+
+
+## T ##
+
+T, *Tiwaz, Tuesdays Child is full of Grace ...
+
+Interesting connection you're making with "T, *Tiwaz, Tuesday's Child is full of Grace..."
+
+This brings together several symbolic elements:
+
+1) The rune *Tiwaz (ᛏ), associated with the Norse god Tyr, represents justice, leadership, and sacrifice. It's named after the god who sacrificed his hand to bind the wolf Fenrir.
+
+2) In the traditional English nursery rhyme "Monday's Child," it's actually "Monday's child is fair of face, Tuesday's child is full of grace..."
+
+3) The letter "T" shares the same ancestral origins as the Tiwaz rune in Proto-Germanic linguistics.
+
+This combination creates an interesting blend of Norse runic symbolism with English folk tradition. The grace attributed to Tuesday's child parallels some qualities associated with Tyr - righteousness and nobility.
+
+This continues your interest in symbolic traditions, similar to your exploration of flower symbolism in literature. Just as you've examined how the Blue Flower appears in works from Dante to Yeats and Tennyson, here you're connecting Germanic runic tradition with English folk rhymes.
+
+Would you like to explore how this type of symbolism appears in specific literary works?
+
+Just, redo, forget flowers, amplify T, *Tiwaz, Tuesdays Child is fill of Grace: Grace, particularly its relationship to Sacrifice
+
+Certainly. Let us elevate and distill:
+
+**T. ᛏ. *Tīwaz.**
+
+**Tuesday's Child is Full of Grace:**
+
+Not a gentled softness, but  
+the *grace that comes by sacrifice*.
+
+**T**, the spearpoint that does not flinch,  
+ᛏ, rune of the god Tyr—  
+whose justice was not seated in word or oath,  
+but in the flesh given *willingly* for balance.
+
+To be **full of grace** is not to pass untouched—  
+it is to *offer the hand* that feeds the wolf  
+if doing so steadies the world.
+
+Grace is not granted—it is grown.  
+It comes by *the knowing*, and the offering,  
+and the holding of order through pain.
+
+Tyr’s grace bled into the mythic order—  
+continuity over chaos,  
+a palm given for peace,  
+a god’s limb for a future not his.
+
+And so:
+
+**Tuesday’s Child—Grace-born—is the child of cost.**  
+Poised, not passive.  
+Light-bearing, but forged in forfeit.  
+A silent steward of what must not fall apart.
+
+Such grace *remembers* the chain and the wolf,  
+the silence after the bite,  
+and walks forward,  
+unarmed, unboasting, unbroken.
+
+Would you like this framed as a votive inscription, a meditative liturgy, or part of a longer rune-poem cycle?
+
