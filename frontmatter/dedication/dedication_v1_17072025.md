@@ -278,3 +278,123 @@ Citations:
 
 
 
+Mondays Child bears deep Heathen roots, with most of the days bearing the attributes of the Germanic/Teutonic/Norse wights associated with the given days, which even survives Christianisation and is properly a Christo-Heathen artefact.
+
+Your insight is well-supported: **the English weekday names—especially Monday through Friday—bear deep roots in the Germanic, Norse, and broader Heathen mythological tradition**, surviving through Christianization as enduring “Christo-Heathen” artefacts[1][2][4][5][6][7][8]. Each day not only encodes a calendrical rhythm but *quietly invokes ancient wights and cosmic powers*, a living palimpsest of belief and daily life.
+
+## **Heathen Roots of the Days: Names and Attributes**
+
+### **Monday – Moon’s Day (Old English: Mōnandæg, Old Norse: Mánadagr)**
+- **Origin:** Named for **Máni**, the Norse personified Moon, Sól’s brother, who rides his chariot across the sky and governs lunations and the rhythm of months[1][2][4][6][7][8].
+- **Survival:** The moon as a gentle, guiding, mysterious wight—his myth continues in the English “Monday” and its continental siblings (“Montag,” “lundi”).
+
+### **Tuesday – Tiw’s Day (Old English: Tīwesdæg, Old Norse: Týsdagr)**
+- **Origin:** Named for **Tiw (Tyr)**, one of the eldest sky and war gods, later primarily the god of justice, sacrifice, and oaths. The *Tiwaz* rune (ᛏ) is his mark.
+- **Survival:** “Tuesday” in English, “Tisdag” (Swedish), “Dienstag” (German, later adapted)—all bear the memory of Tyr, the one-handed wight who gave his hand for cosmic order[2][4][5][6][7].
+- **Attributes:** Honour, bravery, sacrifice, rule of law—*grace through cost*.
+
+### **Wednesday – Woden’s Day (Old English: Wōdnesdæg, Old Norse: Óðinsdagr)**
+- **Origin:** Named for **Woden/Odin**, god of wisdom, poetry, sorcery, and the dead; *Allfather*, knower of runes, and the sacrificed[4][5][6][7].
+- **Survival:** “Wednesday” echoes the One-eyed God’s cult, despite later Christian overlays (compare “mercredi” < Mercury in French).
+
+### **Thursday – Thor’s Day (Old English: Þūnresdæg, Old Norse: Þórsdagr)**
+- **Origin:** Named for **Thor (Þórr)**, thunderer, defender of gods and men, flinger of Mjolnir.
+- **Survival:** “Thursday,” “torsdag,” “Donnerstag” (“Donar” being the continental Germanic Thor).
+
+### **Friday – Freya’s or Frigg’s Day (Old English: Frīgedæg, Old Norse: Frjádagr)**
+- **Origin:** Disputed between **Freya** (goddess of love, magic, battle) and **Frigg** (wife of Odin, foreknowing, wise)[4][8].
+- **Survival:** “Friday”/“Freitag”—ever linked with feminine mysteries in folklore.
+
+## **Christo-Heathen Synthesis**
+
+- **Persistence through Christianization:**  
+  Despite centuries of Christian overlay, the *folk calendar* kept the old gods by recasting them as planetary influences, saints’ companions, or “pagan shadows”[5].  
+  The naming schema survived not only through language but also in rural beliefs, stories, and superstitions (e.g., auspicious/unlucky Mondays, Thursday as a day for certain rituals).
+
+- **Artefact of syncretism:**  
+  The weekday names in English and all Germanic languages are **literal relics of Heathen cosmology**, baptized into daily life:  
+    - **Monday:** lunar rhythm;  
+    - **Tuesday:** valor/sacrifice;  
+    - **Wednesday:** wisdom/mystery;  
+    - **Thursday:** strength/defense;  
+    - **Friday:** love/fate.
+
+- **Calendrical drama:**  
+  Each week is a processional round of ancient powers: the wights invoked in name if not in conscious devotion[2][4][5][8].
+
+## **Linguistic Table: Days, Wight, Attributes**
+
+| Modern English   | Old English/Old Norse  | God/Wight       | Attributes/Survivals             |
+|------------------|------------------------|-----------------|----------------------------------|
+| Monday           | Mōnandæg / Mánadagr    | Máni (Moon)     | Night, cycles, time, mystery     |
+| Tuesday          | Tīwesdæg / Týsdagr     | Tiw/Tyr         | Law, sacrifice, nobility, bravery|
+| Wednesday        | Wōdnesdæg / Óðinsdagr  | Woden/Odin      | Wisdom, poetry, death, fate      |
+| Thursday         | Þūnresdæg / Þórsdagr   | Thor (Donar)    | Strength, protection, thunder    |
+| Friday           | Frīgedæg / Frjádagr    | Frigg/Freya     | Love, magic, prophecy, peace     |
+
+## **Summary**
+
+**The English days of the week truly are “Christo-Heathen” artefacts: their structure, sound, and symbolic content are direct survivals of a Germanic and Norse cosmology, lightly draped with later Christian meaning. In naming the days, we unconsciously recite a litany to ancient wights and the world they ordered—a living calendar of Heathen myth in modern speech.**[1][2][4][5][6]
+
+If you wish, I can further trace the calendrical folklore or superstitions that persist today, or expand on the subtle Christian overlays that created this unique syncretic artefact.
+
+Citations:
+[1] Viking Gods remembered in the Days of the Week https://sonsofvikings.com/blogs/history/viking-gods-remembered-in-the-days-of-the-week
+[2] The names of the days of the week - origin and meaning https://www.vikingeskibsmuseet.dk/en/professions/education/viking-age-people/the-names-of-the-weekdays
+[3] Days of the Week - Thegns of Mercia http://thethegns.blogspot.com/2012/02/days-of-week.html
+[4] Norse Gods are the Days of the Week - Norhalla, Inc. https://www.norhalla.com/blogs/tidbits-from-norse-mythology-and-viking-lore/norse-gods-are-days-of-the-week
+[5] The Pagan Gods Who Gave Rise to the Days of Our Week https://www.ancient-origins.net/myths-legends/pagan-gods-and-naming-days-001037/
+[6] The surprising Viking origins of the names of the days of the week https://www.historyskills.com/classroom/year-7/days-of-the-week/?srsltid=AfmBOoo6SvzDJ2lIaaXanY6C7CdqsMTKEXmYccyG1QBXGPrkeDbDdgu1
+[7] The surprising Viking origins of the names of the days of the week https://www.historyskills.com/classroom/year-7/days-of-the-week/
+[8] Days of the week and their meaning: A journey through Nordic mythology https://oyssun.com/en/blogs/mythologien-aus-aller-welt/wochentage-und-ihre-bedeutung-eine-reise-durch-die-nordische-mythologie-und-ein-blick-in-den-lebensrhythmus-im-einklang-mit-den-gottern?srsltid=AfmBOoquO99dGLE_60gzh4H_d_HD7502nMHxLH0K6klecX8GgiqjQcsV
+[9] Norse Mythology: The Norse Gods and The Days of The Week https://www.youtube.com/watch?v=EadkXgKxLFE
+[10] The Viking Calendar - Vikings of Bjornstad https://www.vikingsofbjornstad.com/Viking_Calendar.shtm
+
+
+
+Woden, Dread and Woe, War deity, Wednesday's Child ...
+
+**Wednesday’s Child: Woden, Dread, and Woe**
+
+Wednesday, named for **Woden** (Old English for Norse Óðinn/Odin), inherits the legacy of one of the most complex and unsettling gods in the Germanic/Teutonic/Norse tradition. **Odin/Woden** is much more than a simple war deity: he is the *Allfather*, the *dreaded wanderer*, the master of wisdom, madness, poetry, war, and fate—often the bringer of woe as well as wonder[1][2][5][7].
+
+### **Woden/Odin: Markers of Dread and Woe**
+
+- **War Deity and Lord of the Slain:**  
+  Odin is the war-god who does not merely fight, but *selects the slain*, gathering heroes to Valhalla for the final battle at Ragnarök. He is less about the clash of arms than the underlying logic of conflict, strategy, and destiny. Battle is his, but so too are the dread costs and sacrifices it brings[1][6][7].
+- **God of Dread:**  
+  His by-names—*Ygg* ("the terrible"), *Jolner* (Yuletide god), and hundreds more—capture his fearsome, awe-inspiring, and often dreadful presence[3][7].
+- **Bearer of Woe:**  
+  Odin’s meddling in fate brings victory, but also sorrow and doom. His schemes are shadowed by loss—his pursuit of wisdom costs him an eye; his son Baldr's death triggers grief and vengeance; his worship and prophecies often presage defeat as much as triumph[1][3][8].
+
+### **Woden & Wednesday’s Child**
+
+- **Etymology and Legacy:**  
+  The English “Wednesday” (Woden’s day; Old English *Wōdnesdæg*) directly carries his cultic resonance through the Christian era, a lingering “Christo-Heathen” artefact linking daily life to the ancient wight of dread, fate, and restless seeking[1][5].
+- **Wednesday’s Child and Woe:**  
+  The English nursery rhyme’s line—"Wednesday’s child is full of woe"—may hint at old folk memory of Woden’s somber burden: the intertwining of fate, sacrifice, and sorrow in his mythic presence. Odin is the god who knows grief, who bears the weight of loss, and whose gifts (poetry, wisdom, prophecy) are always won through ordeal and pain[4][9].
+    - **Scholarship notes:** Odin’s name (from Proto-Germanic *Woðanaz*, “lord of frenzy/possession”) connects with ecstasy and inspired madness, but also with woe, weird, and the cost of second sight[2][3][4][7].
+
+### **Odin’s Paradoxes: War, Wisdom, Wounding**
+
+- **Seeker and Sower of Knowledge:**  
+  Odin sacrifices himself on Yggdrasil for runic wisdom, gives an eye for prophetic sight, blurs the line between inspiration and dread[1][3][6].
+- **Lord of Contradiction:**  
+  He is a king, a wanderer, a poet, a sorcerer, both revered and shunned. His gifts grant glory but never peace; his followers are chosen, but often doomed[2][3][7].
+- **Protean Yet Tragic:**  
+  Odin is not simply victorious but always haunted by the doom entwined with destiny—full of “dread, woe, and wisdom.”
+
+### **In Summary**
+
+**Woden, and Wednesday's child who bears his shadow, stand for the existential cost of wisdom, the double-edge of inspiration, the knowledge borne of dread, and the fate-shadowed courage of war[1][2][4][5][7].** The “woe” that Wednesday’s child is full of is not mere gloom, but the deep, mythic sorrow and awe of a god whose gifts demand everything—and whose day in our calendar is a whispered echo of ancient, fateful dread.
+
+Citations:
+[1] Odin | Myth & History - Britannica https://www.britannica.com/topic/Odin-Norse-deity
+[2] Odin - Norse Mythology for Smart People https://norse-mythology.org/gods-and-creatures/the-aesir-gods-and-goddesses/odin/
+[3] Odin - Wikipedia https://en.wikipedia.org/wiki/Odin
+[4] Woden vs Odin : r/mythology - Reddit https://www.reddit.com/r/mythology/comments/n0gk31/woden_vs_odin/
+[5] Who Is Odin in Norse Mythology? - Centre of Excellence https://www.centreofexcellence.com/odin-norse-mythology/
+[6] Odin The Wanderer https://vikingsonsofodin.com/odin-the-wanderer/
+[7] Odin - Mythology - Norse Spirit https://norsespirit.com/blogs/mythology/odin
+[8] Odin the Allfather | Ruler of the Norse gods - Vikingr https://vikingr.org/norse-gods-goddesses/odin
+[9] Óðinn (Odin) - Myth and Folklore Wiki - Fandom https://mythus.fandom.com/wiki/Odin
