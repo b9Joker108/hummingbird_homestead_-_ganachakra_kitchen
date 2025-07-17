@@ -182,3 +182,62 @@ Citations:
 [8] How to Cook Celery Root (Celeriac) + Tips and Tricks https://yummyaddiction.com/how-to-cook-celery-root/
 [9] Everything you need to know about celeriac https://www.goodhousekeeping.com/uk/food/a45873306/how-to-prepare-celeriac/
 [10] How to prepare celeriac - just 3 ingredients, no oil! https://www.youtube.com/watch?v=Q2JS10AjOh0
+
+
+**Crispy-skinned Scottish Kippers on a bed of Celeriac Purée with a simple side of Winter greens**
+
+A simple Winter evening meal for one.
+
+**Ingredients**
+
+- 1 medium celeriac (about 500–700 g)
+- 1 tablespoon unsalted butter (or a good-quality local olive oil for a lighter option)
+- 2–3 tablespoons thick cream or whole milk (adjust for desired consistency)
+- Sea salt, to taste
+- Freshly ground white pepper, to taste
+- 1 small wedge of lemon (for acidulated water, optional)
+
+**Method**
+
+1. **Prepare the Celeriac:**
+   - With a sharp chef’s knife, cut the top and base off the celeriac to stabilize it.
+   - Stand it on a flat end and slice the rough, knobbly skin away in thick vertical strips.
+   - Cut the peeled root into roughly 2–3 cm cubes, removing any deeply creviced or discoloured bits.
+   - Immediately place the celeriac pieces into a bowl of water with a squeeze of lemon to prevent browning for a few minutes while you finish the prep.
+
+2. **Cook:**
+   - Drain the celeriac and place the cubes in a saucepan. Add enough cold water to cover by 2–3 cm.
+   - Add a generous pinch of sea salt.
+   - Bring to a boil, then reduce to a gentle simmer. Cook until the celeriac is very tender—about 18–22 minutes. Check doneness with a knife; it should slide in without resistance.
+   - Drain thoroughly in a colander and allow to steam off excess moisture for 2 minutes.
+
+3. **Purée:**
+   - Return the hot, drained celeriac to the saucepan.
+   - Add the butter and roughly mash with a potato masher or fork until broken up.
+   - Using a stick blender or food processor, blend the celeriac until smooth, adding cream or milk a tablespoon at a time to reach a lush, soft texture.
+   - Season well with sea salt and white pepper. Taste: it should be mellow and almost sweet, with a gentle earthiness.
+   - For extra silkiness (optional), pass the purée through a fine sieve.
+
+4. **Serve:**
+   - Spoon the hot purée onto warmed plates alongside the Scottish kippers and winter greens.
+   - For an elegant touch, finish with a small knob of butter melting on top or a drizzle of top-quality extra virgin olive oil.
+
+**Notes**
+
+- This simple celeriac preparation highlights the root’s subtle, nutty, and clean flavours—an ideal foil for the assertive smokiness of kippers and the bittersweet mineral notes of winter greens.
+- For a local Australian touch, substitute part of the cream or milk with a little crème fraîche, or add a sprig of fresh dill when blending.
+
+**Menu Serving Suggestion**
+
+| Dish          | Details                                                                 |
+|---------------|------------------------------------------------------------------------|
+| Kippers       | Gently warmed Scottish kippers, not overcooked                           |
+| Greens        | Steamed or sautéed chard, kale, or silverbeet, dressed simply           |
+| Celeriac purée| As above—velvety, aromatic, and warming for the winter evening table    |
+
+Enjoy your meal—the contrast of smoky fish, bright greens, and pillowy celeriac purée is a comforting and classic winter combination.
+
+To ensure flayed smoked re-cooked Scottish Kippers have a crispy skin, re-heating them gently is nonsense. They want to have skin crisped quickly on high heat, which will ensure the flesh is duly warmed quickly and not dried out.
+
+You are correct: to achieve a crispy skin on flayed smoked Scottish kippers, high heat is essential. Quick, direct heat (such as under a hot grill/broiler or in a very hot cast iron pan, skin side down) crisps the skin and rapidly warms the flesh without overdrying. Gentle reheating will only soften the skin and risk a limp texture; a well-seared approach, for about 1–2 minutes per side, yields that ideal result—crisp skin and moist, succulent fish beneath.
+
