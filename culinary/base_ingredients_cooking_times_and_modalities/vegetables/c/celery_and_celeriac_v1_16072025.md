@@ -290,3 +290,58 @@ These traditional fats not only withstand high temperatures for superior crispin
 
 This classic technique, simple and robust, ensures every plate offers the golden crunch and succulence that make the Scottish kipper a winter favorite.
 
+You lead with Ghee, but Northern Britain didn't tradirionally use clarified butter did they?
+
+### Traditional Fats in Northern British Cooking
+
+**Clarified butter (ghee)** was not a traditional cooking fat in Northern Britain—including Scotland and Northern England. Classic Scottish and North British kitchens historically relied on other fats better suited to their climate, natural resources, and longstanding culinary practices.
+
+#### Authentic Traditional Fats
+
+- **Animal Fats:**  
+  - **Beef dripping:** Rendered beef fat was especially prevalent, used for frying, roasting, and making pastries and stovies.
+  - **Mutton/lamb fat (tallow):** Used for roasting meats, suet puddings, and frying.
+  - **Pork fat/lard:** Favored for baking and everyday frying, especially where pigs were abundant.
+  - **Goose or duck fat:** Less common but prized for roasting and particularly available in rural or wealthier farmsteads.
+
+- **Butter:**  
+  - **Fresh butter** was used, especially in summer and in dairy-rich regions, but typically not clarified (as ghee).  
+  - Clarified butter appears only rarely in historic British cookery, and even then mostly in southern, more cosmopolitan recipe sources.
+
+- **Oils:**  
+  - **Vegetable oils** played almost no role before the industrial era.  
+  - Imported olive or nut oils were rare and typically reserved for the upper classes or special medical uses.
+
+#### Cultural and Practical Reasons
+
+- The cool, damp climate made animal fats easy to render, store, and use year-round.  
+- Butter was too valuable to refine by clarifying, especially in poorer or isolated households where every part was used fresh or for preservation (as in potted butter).
+- Ghee is a South Asian tradition, with little direct influence on rural or working-class British and Scottish cuisine before recent times.
+
+#### Table: Key Cooking Fats in Historic North Britain
+
+| Fat/Oil         | Traditional Use                | Typical Dishes                 | Notes                     |
+|-----------------|-------------------------------|-------------------------------|---------------------------|
+| Beef dripping   | Roasting, frying, baking      | Roast meats, stovies, oatcakes | Most common household fat |
+| Mutton/lamb fat | Frying, suet puddings         | Pot pies, hashed meats         | Used where sheep abundant |
+| Pork lard       | Frying, pastry                | Baked goods, breads            | Variable by region        |
+| Butter          | Spread, enriched dishes       | Shortbreads, bannocks          | Rarely clarified/ghee     |
+| Goose/duck fat  | Roasting, special occasions   | Roast goose, potatoes          | Seasonal, less common     |
+| Ghee            | Not used                      | —                             | Foreign to the region     |
+
+### Conclusion
+
+**Ghee was not a traditional fat in Northern Britain.**  
+For recipes aiming to capture historic Scottish or Northern English authenticity, use beef dripping, lard, or unclarified butter for crisping fish or other classic dishes—not clarified butter. These fats best reflect the resourcefulness and flavor profile of the region’s true culinary roots[5][6][7].
+
+Citations:
+[1] Historical Sources of Early Scottish Haggis https://adambalic.typepad.com/the_art_and_mystery_of_fo/2011/09/historical-sources-of-early-scottish-haggis.html
+[2] Food - The Clan Buchanan https://www.theclanbuchanan.com/food
+[3] Three unique dishes inspired by Scottish history | Hist Env Scot https://blog.historicenvironment.scot/2021/07/dishes-inspired-by-history/
+[4] So Much More Than Scottish Porridge: The Rich Culinary History of ... https://ancestralkitchen.com/2023/04/13/so-much-more-than-scottish-porridge-the-rich-culinary-history-of-british-oats-my-wapf-journal-article/
+[5] 500 Years of Scottish Recipes Discovered https://www.thecattlesite.com/news/21271/500-years-of-scottish-recipes-discovered/
+[6] The Good Scots Diet - The Weston A. Price Foundation https://www.westonaprice.org/health-topics/traditional-diets/the-good-scots-diet/
+[7] Scottish cuisine - Wikipedia https://en.wikipedia.org/wiki/Scottish_cuisine
+[8] Scotland | British Food: A History | Page 2 https://britishfoodhistory.com/tag/scotland/page/2/
+[9] A Wee Guide to Traditional Scottish Food - FreshMAG https://blog.liebherr.com/appliances/uk/traditional-scottish-food/
+[10] Stovies https://www.abdn.ac.uk/media/site/rowett/documents/Stovies.pdf
