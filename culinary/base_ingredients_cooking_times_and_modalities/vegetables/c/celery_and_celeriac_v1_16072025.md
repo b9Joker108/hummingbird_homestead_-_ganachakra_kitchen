@@ -115,3 +115,70 @@ Citations:
 [18] A celebration of celeriac https://www.raymondblanc.com/recipes/celebration-of-celeriac/
 [19] CELERIAC Definition & Meaning https://www.dictionary.com/browse/celeriac
 [20] Celery and Celeriac - New England Vegetable Management Guide https://nevegetable.org/crops/celery-and-celeriac
+
+
+How does one choose and prepare a celeriac for culinary use? This is for my book.
+
+### Selecting and Preparing Celeriac for Culinary Use
+
+#### Choosing a Celeriac
+
+- **Appearance:** Select celeriac (celery root) that feels heavy and firm for its size. The exterior should be relatively unblemished, with minimal soft spots, cracks, or excessive rootlets.
+- **Size:** Smaller to medium-sized bulbs (roughly 500–800 grams) tend to be less fibrous and easier to handle than very large ones.
+- **Skin:** A rough, knobbly, and brown outer skin is normal; avoid those with excessive moisture or signs of rot.
+- **Leaves (if attached):** Fresh, crisp leaves can indicate a recently harvested root, but celeriac is often sold trimmed.
+
+#### Preparation Techniques
+
+1. **Stabilizing the Root:**
+   - Place the celeriac on a clean cutting board.
+   - Using a sharp chef’s knife, slice off the top and base, creating two stable, flat surfaces for safety and ease of handling[2][3].
+
+2. **Peeling:**
+   - Stand the celeriac upright on a trimmed end.
+   - With a sharp knife (rather than a peeler, which may catch on the knobbly skin), cut vertically to remove the thick, rough peel in strips, working around the root until all skin and discolored parts are gone[2][3].
+   - Don’t worry about losing a little flesh to remove all tough exterior and rooty nodules.
+
+3. **Preventing Discoloration:**
+   - Once peeled, celeriac flesh oxidizes rapidly and turns brown. To prevent this, immediately immerse cut pieces in water with a squeeze of lemon juice or a splash of vinegar until ready to use[2].
+
+4. **Cutting and Cooking:**
+   - Cut the peeled root as needed: dice for mash or soups, matchsticks for salads, slices or chunks for roasting.
+   - For raw use (e.g., remoulade, slaw): Julienne thinly and toss with acidulated dressing soon after cutting.
+   - For cooked preparations: Boil diced celeriac for 15–20 minutes until tender, or roast chunks at 180–190°C (355–375°F) for about 25–40 minutes, depending on size[1][2][5][7].
+
+#### Table: Celeriac Preparation at a Glance
+
+| Step         | Technique                                    | Notes                                  |
+|--------------|----------------------------------------------|----------------------------------------|
+| Selection    | Heavy, firm, small-medium, unblemished       | Avoid shriveled or soft roots          |
+| Peeling      | Top & tail, slice off skin with chef’s knife | Work safely, remove all rough areas    |
+| Soaking      | Acidulated water                             | Prevents discoloration after peeling   |
+| Cutting      | Dice, slice, julienne                        | Size/shape per recipe requirements     |
+| Cooking      | Boil, mash, roast, serve raw                 | Versatile: can substitute for potato   |
+
+#### Culinary Use Suggestions
+
+- **Raw:** Salads and classic celeriac remoulade (with mustard, mayonnaise, lemon).
+- **Boiled:** For mashing (either alone or mixed with potato), purées, gratins.
+- **Roasted:** With olive oil, herbs, and lemon for depth of flavor.
+- **Soup:** An excellent base for creamy winter soups[2][5].
+
+#### Additional Notes
+
+- Exercise care: Celeriac is dense; always use a stable board and a sharp, sturdy knife.
+- Trimmings and peels may be used to flavor stocks, provided they are thoroughly cleaned and free of the toughest skin.
+
+Celeriac, though initially intimidating in appearance, rewards good preparation with complex flavor—nutty, mildly herbal, with a pleasing texture that adapts well throughout the cold-weather kitchen[2][3][5].
+
+Citations:
+[1] How NOT to Cook a Celeriac (unless it's in a soup!) https://simplysouperlicious.com/how-cook-celeriac/
+[2] How to Cook Celeriac - Great British Chefs https://www.greatbritishchefs.com/how-to-cook/how-to-cook-celeriac
+[3] How to prepare celeriac - YouTube https://www.youtube.com/watch?v=udz4O4Pd_IE
+[4] How to prepare celeriac - Taste https://www.taste.com.au/quick-easy/articles/how-to-prepare-celeriac/qqlvhuqn
+[5] Roast Celeriac with Lemon (Oven or Air Fryer) - Cooking With Camilla https://www.cookingwithcamilla.com/roast-celeriac-recipe/
+[6] Pantry Raid: How to Cook Celeriac - The Culinary Exchange https://www.theculinaryexchange.com/blog/how-to-cook-celeriac/
+[7] How to prepare celeriac? - La Cuisine de Géraldine https://lacuisinedegeraldine.fr/en/how-to-prepare-celeriac
+[8] How to Cook Celery Root (Celeriac) + Tips and Tricks https://yummyaddiction.com/how-to-cook-celery-root/
+[9] Everything you need to know about celeriac https://www.goodhousekeeping.com/uk/food/a45873306/how-to-prepare-celeriac/
+[10] How to prepare celeriac - just 3 ingredients, no oil! https://www.youtube.com/watch?v=Q2JS10AjOh0
