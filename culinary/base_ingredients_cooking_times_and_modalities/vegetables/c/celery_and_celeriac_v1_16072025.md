@@ -241,3 +241,52 @@ To ensure flayed smoked re-cooked Scottish Kippers have a crispy skin, re-heatin
 
 You are correct: to achieve a crispy skin on flayed smoked Scottish kippers, high heat is essential. Quick, direct heat (such as under a hot grill/broiler or in a very hot cast iron pan, skin side down) crisps the skin and rapidly warms the flesh without overdrying. Gentle reheating will only soften the skin and risk a limp texture; a well-seared approach, for about 1–2 minutes per side, yields that ideal result—crisp skin and moist, succulent fish beneath.
 
+
+
+Okay, now present the positive inclusion for my cookbook
+
+### Classic Fats for Crisping Scottish Kipper Skin
+
+For a traditional, deliciously crisp-skinned Scottish kipper, use one of these natural, time-honored fats—each bringing unique character to your winter kitchen:
+
+#### Recommended Natural High-Heat Fats
+
+- **Ghee (clarified butter):** 
+  - Smoke point: ~230°C
+  - Rich, nutty aroma and flavor
+  - Ancestral fat in both Scottish and wider European kitchens, especially for searing and roasting
+
+- **Rendered Animal Fats (beef dripping, duck or chicken fat):**
+  - Smoke point: ~200°C and above
+  - Deep, savory flavor with outstanding crisping power
+  - Classic in British and Scottish fish cookery; duck fat and beef dripping yield especially golden, crisp results
+
+- **Unrefined Avocado Oil:** 
+  - Smoke point: ~270°C
+  - Mild, buttery-neutral taste that lets the kipper’s flavor shine
+  - Naturally nourishing and cold-pressed; suitable for high-heat, though not strictly traditional
+
+#### How to Use
+
+1. **Prepare:** Pat kipper skin completely dry. Bring fat or oil to shimmering point in a heavy pan (cast iron or steel) over high heat.
+2. **Sear:** Place kippers skin side down. Press gently with a fish spatula for contact. Sear 1–2 minutes until skin is blistered and crispy.
+3. **Finish:** Serve immediately, skin side up, with seasonal greens and celeriac purée or mash.
+
+#### Table: Best Fats for Crisping Kipper Skin
+
+| Fat/Oil           | Smoke Point | Traditional Use   | Flavor Profile  | Nutritional Value        |
+|-------------------|-------------|-------------------|-----------------|--------------------------|
+| Ghee              | ~230°C      | Yes               | Nutty, rich     | Vitamins A, D, K2        |
+| Animal Fat        | ~200°C+     | Yes               | Savory, robust  | Vitamin D, saturated fat |
+| Avocado Oil       | ~270°C      | No (modern option)| Mild, buttery   | Monounsaturates, E       |
+
+**Note:** Refined seed oils and ordinary butter are not recommended—either lacking tradition or unsuitable for vigorous searing.
+
+### Why These Fats?
+
+These traditional fats not only withstand high temperatures for superior crisping, but also add subtle depth and authenticity to your dish. They honor both the nutritional and culinary legacy of cool-weather, coastal fare.
+
+**Tip:** For a truly local touch, finish the kippers with a sprinkle of flake salt and a side of winter greens tossed in a spoonful of the same fat.
+
+This classic technique, simple and robust, ensures every plate offers the golden crunch and succulence that make the Scottish kipper a winter favorite.
+
