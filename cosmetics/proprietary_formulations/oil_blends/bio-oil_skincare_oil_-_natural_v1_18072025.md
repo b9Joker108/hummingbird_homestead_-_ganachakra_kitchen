@@ -96,5 +96,63 @@ These ingredients are present in smaller quantities but contribute specific ther
 
 In conclusion, the product utilizes a well-rounded blend of scientifically attested botanical ingredients that individually and synergistically support the claims of improving skin appearance related to scars, stretch marks, uneven tone, and aging/dehydration. The emphasis on essential fatty acids, antioxidants, and anti-inflammatory compounds is well-supported by current dermatological science regarding skin health and repair.
 
-Citations:
-[1] selected_image_1395076318376028319.jpg https://pplx-res.cloudinary.com/image/upload/v1752819278/user_uploads/4428017/b51b8411-789b-454a-aad6-5de7b4a96577/selected_image_1395076318376028319.jpg
+
+
+Which of these oils require solvents, etc., to manufacture and are not pre-Industrial oils?
+
+Certainly—here’s an analysis of the listed ingredients in terms of their **traditional (pre-Industrial) vs. modern (solvent/recent technology dependent) methods of oil extraction**, based on botanical and industrial science:
+
+### Oils Traditionally Produced with Simple Methods (Pre-Industrial, No Solvents Needed)
+These oils were commonly obtained by **cold pressing** or **simple mechanical/manual extraction** as far back as antiquity:
+
+- **Glycine Soja Oil** (*Soybean Oil*): Traditionally, soybeans can be pressed for oil, though yield is low without modern technology. Large-scale extraction is modern, but technically possible pre-industrially on a small scale.
+- **Helianthus Annuus Seed Oil** (*Sunflower Oil*): Can be cold-pressed.
+- **Carthamnus Tinctorius Seed Oil** (*Safflower Oil*): Cold-press or manual expression possible.
+- **Simmondsia Chinensis Seed Oil** (*Jojoba Oil*): Mechanical pressing from the seeds.
+- **Triticum Vulgare Germ Oil** (*Wheat Germ Oil*): Germs can be pressed, but yields are extremely low, making large amounts impractical before modern methods.
+- **Rosa Canina Fruit Oil** (*Rosehip Oil*): Seeds from rosehip can be pressed, but this is labor-intensive and yields are low.
+  
+---
+
+### Oils/Extracts Requiring Modern Technology (Solvents, Supercritical CO₂, etc.)  
+These require **solvent extraction, high pressure/heat, or are rare in traditional use** due to yield/processing difficulty:
+
+- **Salvia Hispanica Seed Oil** (*Chia Seed Oil*): Chia seeds are oily but are hard to press for appreciable oil yield; modern extraction (solvents, hydraulic presses) is typical.
+- **Punica Granatum Seed Oil** (*Pomegranate Seed Oil*): Seeds are hard and yield little oil with conventional pressing; usually involves solvent or CO₂ extraction.
+- **Plukenetia Volubilis Seed Oil** (*Sacha Inchi Oil*): Modern commercial production uses cold press, but historically rare and largely unused as an oil outside Amazonia until recent decades.
+- **Calendula Officinalis Extract**: While maceration in oil (infusion) was traditionally possible, pure oil/extract is mostly modern—solvents or supercritical methods.
+- **Anthemis Nobilis (Roman Chamomile) Flower Oil**: True essential oil requires steam distillation—only available since the late Middle Ages; solvent or CO₂ extracts are new.
+- **Pogostemon Cablin (Patchouli) Leaf Oil**: Essential oil by steam distillation; this is pre-industrial (post-15th century), but high yields and purity are modern.
+- **Lavandula Angustifolia (Lavender) Oil**: Steam distillation of lavender flowers dates to post-medieval period.
+
+- **Rosmarinus Officinalis (Rosemary) Leaf Oil**: Traditionally produced by steam distillation; widely available since the Renaissance.
+
+### Compounds Added in Modern Cosmetic Formulation
+
+- **Bisabolol**: Component of chamomile and other plants; isolation in pure form and widespread use is a product of modern chemical extraction.
+- **Tocopherol** (*Vitamin E*): Although present in many oils, pure tocopherol is extracted and concentrated with modern techniques.
+
+## Summary Table
+
+| Ingredient                             | Pre-Industrial Extraction? | Industrial/Modern Solvent or Distillation Required? |
+|----------------------------------------|--------------------------|----------------------------------------------------|
+| Soybean Oil                            | Limited, manual press    | Modern hexane extraction for scale                 |
+| Sunflower Oil                          | Yes                      |                                                    |
+| Safflower Oil                          | Yes                      |                                                    |
+| Jojoba Oil                             | Yes                      |                                                    |
+| Wheat Germ Oil                         | Yes, but low yield       | Modern for practical volumes                       |
+| Rosehip Oil                            | Yes, laborious           | Industrial for yield                               |
+| Chia Seed Oil                          | Rarely, low yield        | Yes, mostly modern processes                       |
+| Pomegranate Seed Oil                   | No, not feasible pre-ind.| Yes, solvents/CO₂                                  |
+| Sacha Inchi Oil                        | Rarely, small scale      | Yes, modern tech                                   |
+| Calendula Officinalis Extract          | Infusion traditionally   | Pure extract/oil is modern                         |
+| Lavender, Chamomile, Rosemary, Patchouli Oils | Steam distillation pre-Industrial (post-15th c.), but scale/purity modern | Often yes, especially for essential oils               |
+| Bisabolol, Tocopherol                  | Modern isolation         | Yes                                                |
+
+### **Key Points**
+- **Sunflower, jojoba, safflower, and, to a limited extent, wheat germ, rosehip, and soybean oils**: possible with pre-industrial technology (manual or cold pressing).
+- **Chia seed, pomegranate, sacha inchi, and many essential oils**: generally only available in usable (large) quantities and purity through modern solvent/cold-press, supercritical CO₂, or steam distillation/extraction techniques.
+- **Most of the "active" plant extracts (pure essential oils, isolate compounds) are modern or only available since the late Middle Ages/Renaissance.**
+
+If you need technical details about the chemistry or history of oil extraction for any specific ingredient, just let me know!
+
