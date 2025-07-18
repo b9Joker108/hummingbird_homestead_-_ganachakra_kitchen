@@ -100,11 +100,6 @@ Certainly! Here is an exhaustive analysis of the Korean term **고추잎** (goch
 
 If you'd like a comparison to other plant-naming conventions or more historical linguistics, let me know!
 
-Citations:
-[1] selected_image_4209368065234859798.jpg https://pplx-res.cloudinary.com/image/upload/v1752816119/user_uploads/4428017/a51ed6ea-b66d-4c71-a010-818df33f44de/selected_image_4209368065234859798.jpg
-[2] selected_image_7435953769014988516.jpg https://pplx-res.cloudinary.com/image/upload/v1752816101/user_uploads/4428017/43be0c1d-a700-4289-8f41-16b76531b308/selected_image_7435953769014988516.jpg
-
-
 
 I just purchased it. I have never come across it before. Using original scripts, etymology, root, polysemy, academic pronunciation, lay pronunciation, explain the point-of-origin and provenance and global spatio-temporal flow of this plant, advising of its significance.
 
@@ -184,11 +179,6 @@ You have purchased a package of **고추잎 \[gochu-ip]**, translated on the pac
 - National Institute of Korean Language, 표준국어대사전 (Standard Korean Language Dictionary).
 - USDA Plants Database, *Capsicum annuum* entry.
 
-Citations:
-[1] selected_image_4209368065234859798.jpg https://pplx-res.cloudinary.com/image/upload/v1752816119/user_uploads/4428017/a51ed6ea-b66d-4c71-a010-818df33f44de/selected_image_4209368065234859798.jpg
-[2] selected_image_7435953769014988516.jpg https://pplx-res.cloudinary.com/image/upload/v1752816101/user_uploads/4428017/43be0c1d-a700-4289-8f41-16b76531b308/selected_image_7435953769014988516.jpg
-
-
 
 Is it taxonomically, properly a herb or spice?
 
@@ -265,7 +255,4 @@ You have Korean dried pepper leaves (고추잎, gochu-ip), which are used as a v
 
 If you want more detailed recipes, let me know what kind of dish (soup, stew, side) you’d like to try!
 
-Citations:
-[1] selected_image_4209368065234859798.jpg https://pplx-res.cloudinary.com/image/upload/v1752816119/user_uploads/4428017/a51ed6ea-b66d-4c71-a010-818df33f44de/selected_image_4209368065234859798.jpg
-[2] selected_image_7435953769014988516.jpg https://pplx-res.cloudinary.com/image/upload/v1752816101/user_uploads/4428017/43be0c1d-a700-4289-8f41-16b76531b308/selected_image_7435953769014988516.jpg
 
