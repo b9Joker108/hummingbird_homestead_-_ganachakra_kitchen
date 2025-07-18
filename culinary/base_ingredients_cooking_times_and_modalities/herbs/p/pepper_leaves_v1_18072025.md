@@ -1,5 +1,5 @@
 
-# Pepper Leaf #
+# (Chilli) Pepper Leaf #
 
 고추잎   Describe and survey each character in detail, historicity, development, semiology, polysemy, etmology, etc.
 
