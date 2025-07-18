@@ -156,3 +156,19 @@ These require **solvent extraction, high pressure/heat, or are rare in tradition
 
 If you need technical details about the chemistry or history of oil extraction for any specific ingredient, just let me know!
 
+Union Swiss (Pty) Ltd, Cape Town, South Africa
+
+**Union Swiss (Pty) Ltd** is the manufacturer and auspice company behind several well-known skincare brands, most notably **Bio-Oil**. The company is **headquartered in Cape Town, South Africa**.
+
+### Details:
+- **Company:** Union Swiss (Pty) Ltd  
+- **Headquarters/Plant:** Cape Town, South Africa  
+- **Auspice/company:** Union Swiss is both the manufacturer and trademark holder, overseeing research, formulation, and global distribution.
+- **Product manufacturing:** Their main production facility is in Cape Town, and from there, products are exported globally, including to Australia.
+
+**References:**  
+- [Union Swiss Company Profile (Bio-Oil site)](https://www.bio-oil.com/za/about-us/)
+- Business records and export/import packaging requirements list Cape Town, South Africa as the plant origin for Union Swiss products.
+
+**If you are holding a product with the listed company, it was manufactured and/or distributed under the authority of Union Swiss (Pty) Ltd in Cape Town, South Africa.**
+
