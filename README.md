@@ -1,8 +1,3 @@
----
-title: "Hummingbird Homestead"
-layout: README.md
----
-
 <a href="assets/images/drum_panel_with_nagaraja_muchalinda_sada_1st_century_bce-1st_century_ce.india_dhulikatta_stupa_karimnagar_district_telanga.jpg">
   <img
     src="assets/images/drum_panel_with_nagaraja_muchalinda_sada_1st_century_bce-1st_century_ce.india_dhulikatta_stupa_karimnagar_district_telanga.jpg"
