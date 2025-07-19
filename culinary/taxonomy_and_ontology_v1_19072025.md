@@ -1,4 +1,4 @@
-
+# Taxonomy and Ontology: YAML header and YAML frontmatter #
 
 Please generate the recipe taxonomy and ontology to guide the structure, classification, ordering, organisation and YAML tagging and header frontmatter for my GH .md homesteading book's culinary, gustatory, recipe sections.
 
