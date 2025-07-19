@@ -6,7 +6,7 @@
   />
 </a>
 
-**IMAGE:** Drum panel with [Sri Nagaraja Muchalinda](https://en.wikipedia.org/wiki/Mucilinda) guarding a stupa with the early aniconic representation of the Footsteps with Ckakra of Bhagavan Sri Shakyamuni Gautama Samyaksambuddha, the Thus Come/Thus Gone One. Sada. 1st century BCE-1st century CE. India, Dhulikatta Stupa, Karimnagar District, Telangana. Limestone. H. 60 1/4 in. (153 cm); W. 45 1/4 in. (115 cm); D. 8 1/4 in. (21 cm). Lent by the Karimnagar Archaeology Museum, Karimnagar, Telangana. Copyright © The Metropolitan Museum of Art/Thierry Ollivier.
+**IMAGE:** Drum panel with [Sri Nagaraja Muchalinda](https://en.wikipedia.org/wiki/Mucilinda) guarding a stupa with the very early aniconic representation of the Footsteps (with Chakra) of Bhagavan Sri Shakyamuni Gautama Samyaksambuddha, the Thus Come/Thus Gone One. Sada. 1st century BCE-1st century CE. India, Dhulikatta Stupa, Karimnagar District, Telangana. Limestone. H. 60 1/4 in. (153 cm); W. 45 1/4 in. (115 cm); D. 8 1/4 in. (21 cm). Lent by the Karimnagar Archaeology Museum, Karimnagar, Telangana. Copyright © The Metropolitan Museum of Art/Thierry Ollivier.
 
 # hummingbird_homestead
 A catchment and repository of my homesteading, home economics, culinary, preservation, medicinal, distillation, apothecary, brewing and gardening activities, knowledges and learnings of an embodied lifetime and my explorations of cultures, histories and anthropologies within this purview.
