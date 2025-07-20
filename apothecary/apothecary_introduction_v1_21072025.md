@@ -19,23 +19,19 @@ tags:
   - grocers
   - drugs
 summary: >
-  An exhaustive YAML-based taxonomy and ontology of the apothecary—its etymological roots, historic roles, linguistic and professional registers, tools, processes, spatio-temporal flows, social prestige, and symbolic efflorescence across periods and cultures.
+  Exhaustive YAML-based taxonomy of apothecary: etymology, historic roles, registers, tools, processes, spatial and temporal flows, prestige, and symbolism.
 
 ontology:
   lexical:
     canonical: "apothecary"
     original_languages:
       - code: "grc"
-        script: "Greek"
         form: "ἀποθήκη"
       - code: "la"
-        script: "Latin"
-        form: "apotheca, apothecarius"
+        form: "apotheca"
       - code: "fr"
-        script: "Latin"
         form: "apothicaire"
       - code: "en"
-        script: "Latin"
         form: "apothecary"
     polysemy:
       - "storehouse/repository"
@@ -44,14 +40,12 @@ ontology:
     etymology:
       greek:
         form: "ἀποθήκη"
-        components:
-          - prefix: "ἀπό" # apo ("away")
-          - root: "τίθημι" # tithēmi ("to put")
+        root: "ἀπό (away) + τίθημι (to put)"
         meaning: "storehouse"
       latin:
         form: "apotheca"
         derivative: "apothecarius"
-        meaning: "storeroom" / "storekeeper"
+        meaning: "storeroom/storekeeper"
       french:
         form: "apothicaire"
         meaning: "pharmacy/shopkeeper"
@@ -62,20 +56,20 @@ ontology:
         lay: "uh-POTH-uh-kuh-ree"
     registers:
       high:
-        - apothecary # guild/professional registers
+        - "apothecary"
       low:
-        - herbman
-        - drug man
-        - wise-woman
+        - "herbman"
+        - "drug man"
+        - "wise-woman"
       related:
-        - pharmakon
-        - pharmacist
-        - chemist
+        - "pharmakon"
+        - "pharmacist"
+        - "chemist"
   social_role:
     core_functions:
-      - "compounding of materia medica"
+      - "compounding materia medica"
       - "dispensing remedies"
-      - "providing medical and pharmaceutical advice"
+      - "providing pharmaceutical advice"
     social_scope:
       - "courtly, urban, guild"
       - "provincial, rural, folk"
@@ -86,63 +80,60 @@ ontology:
       surgeon:
         role: "practical intervention"
       apothecary:
-        role: "compounder, advisor/diagnostician, entry-level role"
+        role: "compounder, basic advisor"
       guild:
-        role: "regulation, separation from grocers"
+        role: "regulation, separate from grocers"
     guilds:
       - city: "London"
         name: "Worshipful Society of Apothecaries"
-        established: "1617"
+        established: 1617
       - city: "Paris"
         name: "Collège de Pharmacie"
-        established: "1777"
+        established: 1777
     legal_controls:
       - "privilegia (court/church monopoly)"
       - "municipal ordinances"
       - "royal decrees"
   spatio_temporal:
     global_roots:
-      - area: "greco_roman"
+      - area: "Greco-Roman"
         core: "pharmacopoeia, herbal wisdom, storehouses"
-      - area: "arabic"
+      - area: "Arabic"
         innovations:
           - "distillation"
           - "syrups"
-          - "introducing new aromatics"
+          - "aromatic substances"
         examples:
           - city: "Baghdad"
-            era: "8th–9th c."
-            arabic: "بَيْت الْعَطَار" # Bayt al-'Attar
-      - area: "europe"
+            period: "8th to 9th century"
+            term: "بَيْت الْعَطَار"
+      - area: "Europe"
         separation:
           - event: "Edict of Frederick II"
             year: 1240
-            location: "Two Sicilies"
-            effect: "professional split of apothecary and physician"
-        monastic: "medicinals preserved in monastic scriptoria and gardens, 5th–12th c."
+            effect: "splitting apothecary and physician"
+        monastic: "preservation in scriptoria, gardens"
     urban_guilds:
       - city: "London"
-        year: "1617"
+        year: 1617
       - city: "Paris"
-        year: "1777"
-      - note: "Nuremberg, Rome, Barcelona—early forms"
-    migration:
-      - "Greek/Roman → Arabic → European medieval/renaissance urban → Modern"
-    modern_transition:
-      - "official pharmacopoeias published"
-      - "apothecary replaced by pharmacist/chemist"
+        year: 1777
+      - city: "Nuremberg"
+      - city: "Rome"
+      - city: "Barcelona"
   methods_materials:
     tools:
       - "mortar and pestle"
       - "scales"
-      - "glassware (retorts, alembics)"
-      - "storage jars, labelled vessels"
-      - "stillroom (domestic lab)"
+      - "retorts"
+      - "alembics"
+      - "storage jars"
+      - "stillroom"
     processes:
-      - "compounding: powders, tinctures, electuaries, lozenges, cordials, syrups"
-      - "distillation: aromatic waters, alcohols, alchemical elaboration"
-      - "dispensing: counter service, written receipts, labelled remedies"
-      - "record-keeping: herbal, stillroom, formula books"
+      - "compounding"
+      - "distillation"
+      - "dispensing"
+      - "record-keeping"
     materia_medica:
       herbs:
         - "mint"
@@ -172,49 +163,52 @@ ontology:
         - "spirit bases"
   symbolic_efflorescence:
     prestige_items:
-      - "ornate apothecary jars"
-      - "guild badges, shop emblems"
-      - "botanical motifs, Latin inscriptions"
+      - "ornate jars"
+      - "guild badges"
+      - "botanical motifs"
     social_traditions:
-      - "court feasting: confectionery, cordials, spiced wines"
-      - "convalescence: syrups, elixirs, comfort balms"
-      - "domestic ritual: herbal tisanes, family stillroom"
+      - "court feasting"
+      - "convalescence"
+      - "domestic ritual"
     boundaries_disputes:
-      - "controversy with physicians over diagnosis/prescribing"
-      - "quack medicine (rise in 17–18th c. with less regulated sale)"
-      - "regulatory pamphlets, legal cases (e.g. Paris & London)"
+      - "controversy with physicians"
+      - "quack medicine"
+      - "regulatory pamphlets"
   historic_recipes_attestations:
     - locale: "Ancient Greece"
-      form: "theriac (herbal compound)"
-      register: "formulaic, oral tradition"
+      preparation: "theriac"
+      register: "oral tradition"
     - locale: "Renaissance Florence"
-      form: "rose syrup, unguent"
-      register: "Latin, technical, apotheca"
-    - locale: "London, 17th c."
-      form: "syrop of poppies, mithridate"
-      register: "English, Latinate mixture"
+      preparation: "rose syrup, unguent"
+      register: "Latin technical"
+    - locale: "London, 17th century"
+      preparation: "syrop of poppies, mithridate"
+      register: "English/Latin hybrid"
     - locale: "Colonial Williamsburg"
-      form: "liniments, cordials, stillroom remedies"
-      register: "vernacular, domestic"
+      preparation: "liniments, cordials"
+      register: "domestic vernacular"
     - locale: "Modern"
-      form: "pharmacist, chemist roles"
-      register: "specialized, professional"
+      preparation: "pharmacist, chemist roles"
+      register: "professional"
 references:
   - name: "From Potions to Pills: A Short History of the Apothecary"
-    type: "museum/overview"
+    type: "overview"
     attested: 2020
-    note: "Rise from grocers to a regulated profession."
+    note: "Rise from grocers to regulated profession."
   - name: "Apothecaries | Encyclopedia.com"
     type: "encyclopedia"
-    note: "Guild origins, legal separation, professional disputes."
+    note: "Guild origin, legal separation, professional dispute."
   - name: "Short History of the Apothecary"
     type: "overview"
     note: "Arab and Greco-Roman flows, monastic tradition, Edict of Frederick II."
 compliance:
   yaml_version: "1.2"
   encoding: "UTF-8"
-  conventions: "Block style only, 2-space indentation, all mappings, no tabs, validated structure, all keys declared."
+  conventions: "Block style, 2-space indents, no flow style, validated with yamllint, no tabs."
 ---
+
+      
+      
 
   
    
