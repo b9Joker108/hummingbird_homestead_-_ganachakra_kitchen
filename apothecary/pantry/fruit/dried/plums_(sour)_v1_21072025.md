@@ -75,3 +75,54 @@ Citations:
 [18] Sweet and Sour Dried Plums China All Kinds of Dried Plums https://alicefood.en.made-in-china.com/product/DviEgeacOkRY/China-Sweet-and-Sour-Dried-Plums-China-All-Kinds-of-Dried-Plums.html
 [19] Chinese Sweet and Sour Taste Dried Plums Preserved ... https://freshdi.com/product/Chinese-Sweet-and-Sour-Taste-Dried-Plums-Preserved-Dried-Prunes-Sweet-Salty-Plums-Wholesale-Price
 [20] Iranian Red Sour Plums - Parsian Market https://parsianmarket.com.au/product/iranian-red-sour-plums/?add-to-cart=13891
+
+
+
+Re: Persian Stew. Does the pit add flavour and nutrients? Are salted problematic for Persian stews? Are particular plum varietals favoured? If so, why? Are Fresh plums ever used as well?
+
+## Dried Sour Plums in Persian Stew: FAQ & Culinary Insights
+
+### Does the Pit Add Flavour or Nutrients?
+
+- **Flavour:** Yes; many Persian cooks and culinary experts agree that the **pit (stone)** of dried sour plums imparts extra depth and an almond-like nuance to stews. This is due to compounds in the stone’s kernel, similar in aromatic profile to bitter almond and cherry stones. The whole-plum (unpitted) version is traditionally prized for a richer, more complex flavor as the stew simmers.
+- **Nutrients:** While the pit itself is not eaten (and contains amygdalin, which should not be consumed in quantity), slow cooking with the stone can leach trace minerals and subtle aromatic oils into the dish. The nutritional impact is minor, but the flavor benefit is widely recognized.
+
+### Are Salted Dried Plums Problematic in Persian Stew?
+
+- **Salt Content:** Salted dried plums can challenge the delicate seasoning balance of Persian stews (*khoresh*), which often emphasize a harmonious, tangy-sweet-sour profile.
+- **Usability:** Use unsalted dried sour plums when possible. If only salted versions are available:
+  - **Rinse and soak** them in water, then discard soaking water before use.
+  - Adjust salt elsewhere in your recipe to avoid an over-salted stew.
+- **Traditional Practice:** Most Persian recipes call for unsalted “aloocheh” or “aloo bukhara” to maintain authentic seasoning.
+
+### Are Particular Plum Varietals Favoured?
+
+Yes, certain varietals are preferred in Persian cuisine because of their flavor, tartness, and texture:
+
+| Persian Name    | English/Common Name | Notes and Use in Stew          | Why Favoured                  |
+|-----------------|--------------------|--------------------------------|-------------------------------|
+| **Aloo bukhara**| Golden European plum (*Prunus domestica*) | Large, yellow/gold-fleshed, slightly sweet-sour | Holds shape, subtle tartness, widespread in Iran |
+| **Aloocheh**    | Local wild sour plum (*Prunus divaricata*, *Prunus domestica insititia*) | Small, very tart, dark-skinned | Potent sourness, deeply traditional flavor |
+| **Gojeh sabz**  | Unripe greengage (*Prunus domestica subsp. italica*) | Sometimes used fresh or dried for sharper sourness | Crisp acidity, spring seasonal specialty |
+
+- Favoured because they give integrity (hold their form, don’t disintegrate), a desirable tangy-sweet flavor, and a subtle background perfume that suits khoresh like *khoresh-e aloo*, *khoresh-e fesenjan*, or *khoresh-e gheysi*.
+
+### Are Fresh Plums Ever Used?
+
+- **Occasional Usage:** While dried plums are classic and provide depth (from fermentation and dehydration concentrating flavor), some Persian dishes will use **fresh sour plums**, especially in early summer, for sharper, greener acidity.
+- **Gojeh sabz:** Fresh, unripe green plums (*gojeh sabz*) are sometimes stewed whole in early spring and summer stews for their crispness and intense tartness.
+- **Modern Adaptation:** In the absence of dried, fresh plums (particularly tart, firm-fleshed European types) can be substituted, though the stew may lack the complexity provided by dried and semi-dried fruit.
+
+### Summary Recommendations
+
+- For most authentic stews: choose **unpitted, unsalted dried sour plums** (aloocheh, aloo bukhara).
+- If using salted: soak and rinse well, then adjust overall salt.
+- Seek traditional Iranian, wild, or European golden/yellow varieties for “true” Persian flavor.
+- Fresh plums can be substituted or featured in seasonal stews but will yield a subtly different result.
+
+**References:**
+
+: "Persian Dried Plums - Why use with pit", The Spruce Eats  
+: "All About Persian Stews", Turmeric & Saffron  
+: "Aloo Bukhara and Other Plums in Iranian Cooking", My Persian Kitchen
+
