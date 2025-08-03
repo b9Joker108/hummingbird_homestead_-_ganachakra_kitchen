@@ -87,3 +87,9 @@ Citations:
 [18] How to make the Aviation - a cocktail masterclass https://www.behindthebarwithcaradevine.com/cocktails/the-aviation
 [19] Aviation Cocktail https://abarabove.com/recipe/aviation/
 [20] The AVIATION COCKTAIL Recipe and History http://themartinidiva.blogspot.com/2015/08/the-aviation-cocktail-recipe-and-history.html
+
+
+
+NOTE: https://the-bitter-truth.com/liqueurs-spirits/violet-liqueur/
+
+
