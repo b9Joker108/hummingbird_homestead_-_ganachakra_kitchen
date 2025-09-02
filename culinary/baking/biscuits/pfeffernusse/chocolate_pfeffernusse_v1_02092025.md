@@ -604,3 +604,23 @@ If you want me to lock it to “Pfeffernüsse,” I can provide the exact swaps 
 
 If you want, I can give side-by-side parameters (mass loss %, dome height, glaze dry time) so you can audit these outcomes batch-to-batch.
 
+That’s the heart of it. Let’s engineer that thin, shattery shell on purpose.
+
+* Leavener swap: Use baker’s ammonia (ammonium carbonate) at 0.5–0.8% of total flour mass.
+  - For 320–350 g flour: 1.6–2.8 g baker’s ammonia. Ventilate; the smell bakes off.
+* Dough hydration: Keep dough on the stiff side so the surface dries fast.
+  - Target “just scoopable,” not smearable. If sticky, add 10–20 g flour, not liquid.
+* Portioning geometry: Scoop into 20–25 g balls; don’t flatten.
+  - Domes promote micro-cracks and a glassy crust; cut rounds stay cakier.
+* Surface drying: Air-dry scooped balls 10–15 minutes before baking.
+  - A slightly tack-free skin helps the shell set and fracture.
+* Bake profile: 180°C conventional, center rack, 10–12 minutes.
+  - Look for fine cracks and matte tops; pull while centers are still tender.
+* Sugar choice: Replace 80–120 g of sugar with honey or treacle for better crust and day-2 bloom.
+* Spice lift: Add 0.5–1.0 g very fine black pepper; it sharpens without “heat.”
+* Rest for maturity: Chill dough 2–12 hours. Spices round out; shell forms cleaner.
+* Glaze timing: Cool completely, then dip in a thick ribboning glaze; dry 4–6 hours.
+  - Crisp shell + slight porosity = even, shimmery coat.
+
+If you share your flour mass and current leavener amount, I’ll compute the exact baker’s ammonia dose and adjust bake time for your oven.
+
