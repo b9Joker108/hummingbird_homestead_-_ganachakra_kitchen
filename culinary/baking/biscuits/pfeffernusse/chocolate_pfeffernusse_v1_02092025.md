@@ -431,9 +431,47 @@ For the glaze:
 * 5 tsp water  
 * 3 tsp lemon juice  
 
+**Method for Soft Chocolate Gingerbread with Glaze**
 
+1. **Heat the Milk**  
+   Warm 200 ml of milk until hot but do not let it boil.
 
-Quick verdict
+2. **Mix Sugar and Flour**  
+   In a bowl, combine 220 g sugar and 100 g flour.
+
+3. **Add Hot Milk**  
+   Pour the hot milk into the sugar and flour mixture and stir well.
+
+4. **Cool the Mixture**  
+   Allow this mixture to cool down to room temperature.
+
+5. **Add Remaining Ingredients**  
+   Add 1/3 tsp salt, 1/2 tsp cinnamon, 1/3 tsp nutmeg, 1/3 tsp ginger, 40 ml vegetable oil, 40 g melted dark chocolate, 30 g cocoa powder, 220–250 g flour, and 12 g baking powder to the cooled mixture.
+
+6. **Knead the Dough**  
+   Knead the ingredients into a sticky dough.
+
+7. **Roll Out the Dough**  
+   Dust your work surface with flour and roll out the dough to about 1 cm thickness.
+
+8. **Cut Out Cookies**  
+   Cut the dough into circles approximately 3 cm in diameter.
+
+9. **Bake**  
+   Bake the cookies at 180°C (without fan) for 10–12 minutes.
+
+10. **Prepare the Glaze**  
+    Mix 130 g icing sugar with 5 tsp water and 3 tsp lemon juice. Adjust the consistency by adding more icing sugar or lemon juice as needed.
+
+11. **Glaze the Cookies**  
+    Once the cookies have cooled, cover them with the glaze.
+
+12. **Let the Glaze Dry**  
+    Allow the glaze to dry at room temperature for 4–6 hours, or preferably overnight.
+
+Enjoy your soft chocolate gingerbread with a delicate spice flavor and a shiny glaze!
+
+### Quick verdict ###
 
 What you’ve written matches a “soft chocolate gingerbread cookie with lemon glaze” workflow, not a traditional Pfeffernüsse. It likely accords if the video shows a milk-scalded paste, oil + melted chocolate, cocoa, and baking powder, with a simple lemon icing. It diverges from classic Pfeffernüsse in four ways: no honey/treacle, no baker’s ammonia, no black pepper, and no dough-aging. If the video is indeed titled as a lost gingerbread (Lebkuchen) recipe, your method fits that style more than Pfeffernüsse.
 
@@ -624,4 +662,41 @@ That’s the heart of it. Let’s engineer that thin, shattery shell on purpose.
   - Crisp shell + slight porosity = even, shimmery coat.
 
 If you share your flour mass and current leavener amount, I’ll compute the exact baker’s ammonia dose and adjust bake time for your oven.
+
+
+
+### Traditional flours and binders used in Pfeffernüsse (beyond modern wheat AP)
+
+* Rye flour (Roggenmehl): Common in older North/Central German spice‑cookie and Lebkuchen families.  
+  - Impact: denser, slightly tacky crumb; deeper, earthy sweetness; stronger water binding.  
+  - Use: replace 20–60% of wheat flour. Hydration up 2–4% and mix gently to avoid gumminess.
+
+* Spelt (Dinkel): A historic wheat relative frequently used in German baking.  
+  - Impact: tender, slightly nutty; weaker gluten than modern wheat.  
+  - Use: 100% swap is viable; reduce mixing time; chill dough to firm.
+
+* Nut “flours” (almonds/hazelnuts, finely ground): Classic in Lebkuchen lineages; some regional Pfeffernüsse push cereal flour very low.  
+  - Impact: moist chew, rich aroma; less structure from gluten.  
+  - Use: replace 20–50% of flour by weight with blanched almond meal; add 1–2 tbsp extra liquid or egg for cohesion.
+
+* Breadcrumbs/Zwieback crumbs: Period thrift extender in spice cookies.  
+  - Impact: drier bite, quicker staling if used heavily; good for glaze adhesion.  
+  - Use: replace 10–25% of flour; sift fine; increase liquid slightly.
+
+* Buckwheat (Buchweizen): Regional, not universal.  
+  - Impact: sandy, aromatic, gluten-free; darkens cocoa-based doughs nicely.  
+  - Use: up to 25–30% with the rest wheat/spelt; watch hydration.
+
+---
+
+If your goal is the thin shattery shell
+
+* Leavener: Keep baker’s ammonia; it’s the engine of the crisp shell regardless of flour mix.  
+* Best flour mixes for shell + crumb balance:  
+  - 70% wheat AP + 30% rye (Type 997 or light): classic, snappy shell, aromatic crumb.  
+  - 60% spelt + 40% almond meal: tender, rich; shell still shatters with ammonia and a short pre-bake air-dry.  * Hydration and handling: Rye/nut blends need slightly higher hydration but a stiffer final dough. Aim “just scoopable,” then air-dry portions 10–15 minutes before baking.  
+* Glaze adhesion: Rye and breadcrumb fractions increase surface porosity—great for an even lemon glaze.
+
+If you tell me your current total flour mass, I’ll give you two precise formulations: (1) rye-forward Pfeffernüsse, (2) almond-enriched Lebkuchen-style Pfeffernüsse—with exact baker’s ammonia doses and hydration targets.
+
 
