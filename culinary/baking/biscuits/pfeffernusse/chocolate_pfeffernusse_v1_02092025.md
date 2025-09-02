@@ -591,3 +591,16 @@ method:
 `
 
 If you want me to lock it to “Pfeffernüsse,” I can provide the exact swaps and update the title, tags, and technique cues accordingly.
+
+
+### Intended outcomes of the “elevation”
+
+* Texture (shell/crumb): Baker’s ammonia creates a thin, shattery shell with a drier, fine-porous crumb—distinct from the cakier baking-powder version. Expect lighter bite, faster moisture equalization, and classic Pfeffernüsse “snap” that softens by day 2–3.
+* Flavor depth: Honey/treacle brings Maillard and mineral bitters that cocoa alone can’t. Black pepper adds a clean, warming “lift” that sharpens the spice chord rather than reading as “heat.”
+* Aroma maturity: Overnight rest blooms volatile spice compounds and integrates fat/sugar phases. The result is rounder spice, less “raw cocoa,” and a unified Lebkuchen profile.
+* Visuals and form: Scooped balls produce domed tops with micro-cracks typical of Pfeffernüsse; rolled/cut rounds look flatter and more “gingerbread cookie.”
+* Glaze performance: Crisp shell + slight surface porosity gives better glaze cling and even sheen; drying is more uniform, fewer “bald” patches.
+* Shelf life and day-2 improvement: Reduced water activity from honey + ammonia leavening helps the cookies keep their character longer, with peak eating on days 2–3.
+
+If you want, I can give side-by-side parameters (mass loss %, dome height, glaze dry time) so you can audit these outcomes batch-to-batch.
+
