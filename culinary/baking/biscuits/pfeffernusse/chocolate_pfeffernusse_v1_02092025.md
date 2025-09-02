@@ -404,10 +404,11 @@ audit:
     notes: "Quantities pending extraction from video; update nutrition after finalization."
 ---
 
-If you want, I can extract exact quantities and times from the video and lock this to “published.”
-
+# Chocolate Pfeffernüsse with sugar glaze (German: Schokoladen-Pfeffernüsse mit Zuckerglasur)
 
 [![Watch on YouTube](https://img.youtube.com/vi/g-mRaYQThUo/maxresdefault.jpg)](https://youtu.be/g-mRaYQThUo)
 
-# Chocolate Pfeffernüsse with sugar glaze (German: Schokoladen-Pfeffernüsse mit Zuckerglasur)
+
+
+
 
