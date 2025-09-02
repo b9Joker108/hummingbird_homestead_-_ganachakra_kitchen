@@ -432,4 +432,162 @@ For the glaze:
 
 
 
+Quick verdict
 
+What you’ve written matches a “soft chocolate gingerbread cookie with lemon glaze” workflow, not a traditional Pfeffernüsse. It likely accords if the video shows a milk-scalded paste, oil + melted chocolate, cocoa, and baking powder, with a simple lemon icing. It diverges from classic Pfeffernüsse in four ways: no honey/treacle, no baker’s ammonia, no black pepper, and no dough-aging. If the video is indeed titled as a lost gingerbread (Lebkuchen) recipe, your method fits that style more than Pfeffernüsse.
+
+---
+
+Specific alignment vs. the video style
+
+- Ingredients and mixing:
+  - Hot milk into sugar + a small initial flour portion, then cool, then add cocoa, oil, melted dark chocolate, more flour, baking powder, and ground spices: consistent with quick, tender gingerbread cookies.
+  - Spices (cinnamon, nutmeg, ginger) and lemon icing: consistent with gingerbread; absence of pepper is atypical for Pfeffernüsse.
+- Texture/process:
+  - Sticky dough, rolled to 1 cm and cut to 3 cm rounds: plausible. Many such cookies are scooped rather than rolled, but cut rounds are fine.
+  - Bake 180°C, 10–12 minutes, no fan: standard.
+  - Glaze: 130 g icing sugar + ~5 tsp water + 3 tsp lemon juice, dry 4–6 hours or overnight: standard.
+
+Where it departs from Pfeffernüsse:
+- No honey/treacle and no ammonium carbonate (baker’s ammonia).
+- No black pepper.
+- No overnight rest to mature the dough and spices (you do rest the glaze, not the dough).
+
+If your intention is Pfeffernüsse, consider adding black pepper, swapping part of the sugar for honey/treacle, using baker’s ammonia, and giving the dough a chill/rest. If you’re faithfully capturing the video, the current write-up is accurate for “soft chocolate gingerbread” cookies.
+
+---
+
+Tighten your method with precise quantities you gave
+
+- Milk: 200 ml hot
+- Sugar: 220 g (initial mix)
+- Flour: 100 g (initial) + 220–250 g later
+- Cocoa powder: 30 g
+- Dark chocolate: 40 g, melted
+- Vegetable oil: 40 ml
+- Baking powder: 12 g
+- Salt: 1/3 tsp
+- Cinnamon: 1/2 tsp
+- Nutmeg: 1/3 tsp
+- Ginger: 1/3 tsp
+- Icing sugar for glaze: 130 g
+- Water: 5 tsp
+- Lemon juice: 3 tsp
+
+Suggested small refinements:
+- Bloom cocoa: sift cocoa with the later flour; keep melted chocolate separate.
+- Temperature note: “180°C conventional, no fan” as you stated.
+- Doneness cue: fine cracks on the surface, edges set, centers soft.
+
+---
+
+If you want it to read as Pfeffernüsse
+
+- Add 0.5–1.0 g very fine black pepper.
+- Replace 80–120 g of the 220 g sugar with honey or treacle; warm honey with milk before mixing.
+- Swap 5–7 g of baking powder for 5 g baker’s ammonia (ventilate during baking).
+- Chill dough 2–12 hours for spice bloom; then scoop into balls (20–25 g) rather than rolling/cutting for the classic look.
+
+---
+
+Minimal YAML patch to align the current recipe
+
+`yaml
+title: "Soft Chocolate Gingerbread with Lemon Glaze"
+alternate_titles:
+  - "Schokoladen-Lebkuchen, weich, mit Zitronenguss"
+cuisines:
+  - "German"
+categories:
+  - "baking"
+  - "cookies"
+tags:
+  - "Lebkuchen"
+  - "gingerbread"
+  - "chocolate"
+  - "lemon glaze"
+ingredients:
+  - id: "ing:milk"
+    item: "Milk"
+    amount: 200
+    unit: "ml"
+  - id: "ing:sugar:granulated"
+    item: "Granulated sugar"
+    amount: 220
+    unit: "g"
+  - id: "ing:flour:wheat:init"
+    item: "All-purpose flour"
+    amount: 100
+    unit: "g"
+    notes: "initial mix"
+  - id: "ing:chocolate:dark"
+    item: "Dark chocolate, melted"
+    amount: 40
+    unit: "g"
+  - id: "ing:oil:veg"
+    item: "Vegetable oil"
+    amount: 40
+    unit: "ml"
+  - id: "ing:cocoa:powder"
+    item: "Unsweetened cocoa powder"
+    amount: 30
+    unit: "g"
+  - id: "ing:flour:wheat:add"
+    item: "All-purpose flour"
+    amount: 220
+    unit: "g"
+    notes: "up to 250 g as needed"
+  - id: "ing:leavener:baking_powder"
+    item: "Baking powder"
+    amount: 12
+    unit: "g"
+  - id: "ing:salt"
+    item: "Fine sea salt"
+    amount: 0.33
+    unit: "tsp"
+  - id: "ing:spice:cinnamon"
+    item: "Ground cinnamon"
+    amount: 0.5
+    unit: "tsp"
+  - id: "ing:spice:nutmeg"
+    item: "Ground nutmeg"
+    amount: 0.33
+    unit: "tsp"
+  - id: "ing:spice:ginger"
+    item: "Ground ginger"
+    amount: 0.33
+    unit: "tsp"
+glaze:
+  type: "sugar_glaze"
+  ingredients:
+    - id: "ing:sugar:icing"
+      item: "Icing sugar"
+      amount: 130
+      unit: "g"
+    - id: "ing:liquid:water"
+      item: "Water"
+      amount: 5
+      unit: "tsp"
+    - id: "ing:juice:lemon"
+      item: "Lemon juice"
+      amount: 3
+      unit: "tsp"
+method:
+  - step: 1
+    title: "Scald milk"
+    instructions: "Heat 200 ml milk until hot but not boiling."
+  - step: 2
+    title: "Make paste"
+    instructions: "Mix 220 g sugar with 100 g flour; whisk in hot milk. Cool to room temp."
+  - step: 3
+    title: "Add fats and dries"
+    instructions: "Stir in 40 ml oil and 40 g melted dark chocolate. Sift in 30 g cocoa, 220–250 g flour, 12 g baking powder, salt and spices. Mix to a sticky dough."
+  - step: 4
+    title: "Shape and bake"
+    instructions: "Roll to ~1 cm, cut 3 cm rounds. Bake at 180°C (no fan) for 10–12 min."
+  - step: 5
+    title: "Glaze"
+    instructions: "Whisk 130 g icing sugar with 5 tsp water and 3 tsp lemon juice. Glaze cooled cookies; dry 4–6 h or overnight."
+`
+
+If you want me to lock it to “Pfeffernüsse,” I can provide the exact swaps and update the title, tags, and technique cues accordingly.
