@@ -259,7 +259,6 @@ method:
     instructions: "Cover and rest dough in the fridge for a minimum of 2 hours, ideally overnight."
     cues:
       visual: "Dough firms up"
-      olfactory: "Spices bloom"
     checkpoints:
       time_min: 120
   - step: 5
@@ -267,7 +266,6 @@ method:
     instructions: "Scoop 20–25 g portions, roll into balls, place 5 cm apart. Bake at 180°C for 10–12 minutes until domed with fine surface cracks."
     cues:
       visual: "Micro-cracks; set edges, soft centers"
-      auditory: "Minimal sizzling"
     checkpoints:
       temp_c_oven: 180
       bake_time_min: "10–12"
@@ -276,7 +274,6 @@ method:
     instructions: "Cool 10 minutes on tray, then fully on racks. Dip tops into sugar glaze, let excess drip, and set until satin-dry."
     cues:
       visual: "Even glaze film; no pooling"
-      tactile: "Dry within 30–45 minutes"
     checkpoints:
       glaze_ribbon_sec: "5–7"
 
@@ -337,7 +334,74 @@ media:
     height: 720
     src: "https://img.youtube.com/vi/g-mRaYQThUo/maxresdefault.jpg"
     fallback: "https://img.youtube.com/vi/g-mRaYQThUo/hqdefault.jpg"
-  embed_markdown: "[![Watch on YouTube](https://img.youtube.com/vi/g-mRaY
+  embed_markdown: |-
+    [![Watch on YouTube](https://img.youtube.com/vi/g-mRaYQThUo/maxresdefault.jpg)](https://youtu.be/g-mRaYQThUo)
+
+knowledge_graph:
+  entity_id: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+  nodes:
+    - id: "ing:flour:wheat"
+      type: "ingredient"
+      label: "Wheat flour"
+    - id: "ing:cocoa:powder"
+      type: "ingredient"
+      label: "Cocoa powder"
+    - id: "ing:leavener:ammonium"
+      type: "ingredient"
+      label: "Baker's ammonia"
+    - id: "ing:spice:pepper:black"
+      type: "ingredient"
+      label: "Black pepper"
+    - id: "tech:cookie_glaze_sugar"
+      type: "technique"
+      label: "Sugar glazing"
+    - id: "tradition:lebkuchen"
+      type: "tradition"
+      label: "Lebkuchen"
+    - id: "geo:Germany"
+      type: "place"
+      label: "Germany"
+  edges:
+    - from: "ing:cocoa:powder"
+      to: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+      relation: "used_in"
+    - from: "ing:leavener:ammonium"
+      to: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+      relation: "used_in"
+    - from: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+      to: "tech:cookie_glaze_sugar"
+      relation: "uses_technique"
+    - from: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+      to: "tradition:lebkuchen"
+      relation: "belongs_to"
+    - from: "kg:recipe:chocolate-pfeffernuesse-zuckerglasur"
+      to: "geo:Germany"
+      relation: "originates_in"
+
+scaling:
+  base_factor: 1.0
+  constraints:
+    min_servings: 6
+    max_servings: 36
+
+conversions:
+  temperature:
+    default_unit: "C"
+  volume_to_mass_reference:
+    icing_sugar_g_per_cup: 120
+
+checksums:
+  ingredients_sorted: true
+  method_step_count: 6
+  units_normalized: true
+  schema_version: "2025-01"
+
+audit:
+  last_tested: "2025-09-02"
+  tester: "Beauford"
+  results:
+    pass: false
+    notes: "Quantities pending extraction from video; update nutrition after finalization."
 ---
 
 If you want, I can extract exact quantities and times from the video and lock this to “published.”
