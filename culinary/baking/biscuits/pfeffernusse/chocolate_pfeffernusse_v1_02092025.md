@@ -404,7 +404,7 @@ audit:
     notes: "Quantities pending extraction from video; update nutrition after finalization."
 ---
 
-# Chocolate Pfeffernüsse with sugar glaze (German: Schokoladen-Pfeffernüsse mit Zuckerglasur)
+# Chocolate Pfeffernüsse with Lemon Glaze (German: Schokoladen-Pfeffernüsse mit Zitronenguss)
 
 These chocolate gingerbread biscuits are incredibly soft, spiced, and aromatic! The sugar glaze perfectly complements them. Easy to prepare and are completely without raw egg! Perfect for Winter or simply as a little treat in between.  
 
