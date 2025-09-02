@@ -406,8 +406,29 @@ audit:
 
 # Chocolate Pfeffernüsse with sugar glaze (German: Schokoladen-Pfeffernüsse mit Zuckerglasur)
 
+These chocolate gingerbread biscuits are incredibly soft, spiced, and aromatic! The sugar glaze perfectly complements them. Easy to prepare and are completely without raw egg! Perfect for Winter or simply as a little treat in between.  
+
 [![Watch on YouTube](https://img.youtube.com/vi/g-mRaYQThUo/maxresdefault.jpg)](https://youtu.be/g-mRaYQThUo)
 
+
+### Ingredients for Soft Chocolate Gingerbread with Glaze: ###
+* 200 ml milk  
+* 220 g sugar  
+* 100 g flour (for the first step)  
+* 1/3 tsp salt  
+* 1/2 tsp cinnamon  
+* 1/3 tsp nutmeg  
+* 1/3 tsp ginger  
+* 40 ml vegetable oil  
+* 40 g dark chocolate (melted)  
+* 30 g cocoa powder  
+* 220–250 g flour (for the dough)  
+* 12 g baking powder  
+
+For the glaze:  
+* 130 g icing sugar  
+* 5 tsp water  
+* 3 tsp lemon juice  
 
 
 
