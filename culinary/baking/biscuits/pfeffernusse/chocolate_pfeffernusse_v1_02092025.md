@@ -1,13 +1,14 @@
 ---
-id: "recipe:homestead:chocolate-pfeffernuesse-zuckerglasur"
+id: "?"
+filepath: "/culinary/baking/biscuits/pfeffernusse/chocolate_pfeffernusse_v1_02092025.md"
 version: "1.0.0"
 status: "draft"
 created: "2025-09-02"
 updated: "2025-09-02"
 language: "en"
-title: "Chocolate Pfeffernüsse with Sugar Glazing"
+title: "Chocolate Pfeffernüsse with Lemon Glaze"
 alternate_titles:
-  - "Schokoladen-Pfeffernüsse mit Zuckerglasur"
+  - "Schokoladen-Pfeffernüsse mit Zitronenglasur"
 
 schema:
   recipe_type: "recipe"
@@ -404,7 +405,7 @@ audit:
     notes: "Quantities pending extraction from video; update nutrition after finalization."
 ---
 
-# Chocolate Pfeffernüsse with Lemon Glaze (German: Schokoladen-Pfeffernüsse mit Zitronenguss)
+# Chocolate Pfeffernüsse with Lemon Glaze (German: Schokoladen-Pfeffernüsse mit Zitronenglasur)
 
 These chocolate gingerbread biscuits are incredibly soft, spiced, and aromatic! The sugar glaze perfectly complements them. Easy to prepare and are completely without raw egg! Perfect for Winter or simply as a little treat in between.  
 
