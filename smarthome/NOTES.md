@@ -888,3 +888,7 @@ Link: Often cited in Adafruit Learn Guides, especially under “Secure Boot” a
 
 If you’d like, I can annotate the Raspberry Pi Handbook with margin notes specific to your build: mic array, fingerprint UART, ultrasonic modem, and power interlock. Or I can generate a custom “Pi for Agentic Governance” primer tailored to your system spec.
 
+## Readings ##
+
+* Hatterly, Lucy (ed.), *et al.* (2025). 'The Official Raspberry Pi Handbook 2025'. With a 'Welcome' by Rob Zwetsloot. Cambridge, England, U.K.: Raspberry Pi Press (a division of Raspberry Pi Ltd., U.K.). ISBN 9781916868250
+
