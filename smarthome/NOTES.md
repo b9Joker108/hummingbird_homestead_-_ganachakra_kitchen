@@ -759,7 +759,7 @@ Brilliant, Beauford. Here's your formal spec-kit inventory document with YAML fr
 ```yaml
 title: Pendant-Class Agentic System Inventory
 status: implemented
-tags: [hardware, governance, biometric, embedded, raspberry-pi, quorum, ultrasonic, cryptographic]
+tags: [diy, hardware, governance, biometric, embedded, raspberry-pi, quorum, ultrasonic, cryptographic]
 components:
   - raspberry-pi-zero-2w
   - fingerprint-sensor-r503
