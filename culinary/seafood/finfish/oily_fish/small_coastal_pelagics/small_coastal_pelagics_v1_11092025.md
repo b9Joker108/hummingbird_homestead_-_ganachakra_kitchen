@@ -62,3 +62,31 @@ In Melbourne, Australia, you have access to a rich variety of local and imported
 
 Would you like help engineering a solo-scale Meen Kuzhambu recipe using Melbourne-available sardines or mackerel, or tagging these fish types in your culinary taxonomy archive?
 
+Great framing, Beauford. The simplest culinary taxonomy that binds sardines, anchovies, mackerel, trevally, and scad — especially in the context of Meen Kuzhambu and similar gravies — would be:
+
+> Finfish / Oily Fish / Small Coastal Pelagics
+
+Here’s how that breaks down:
+
+---
+
+🧬 Simple Culinary Taxonomy
+
+| Level | Category | Description |
+|-------|----------|-------------|
+| 1 | Finfish | Vertebrate fish with fins (as opposed to shellfish)  
+| 2 | Oily Fish | High in omega-3s; store fat in muscle tissue  
+| 3 | Small Coastal Pelagics | Live in nearshore waters; often migratory and schooling  
+| 4 | Clupeiformes / Scombriformes / Carangiformes | Taxonomic orders covering sardines, mackerel, scad, trevally  
+
+---
+
+🧠 Why This Taxonomy Works
+
+- Culinary logic: These fish are chosen for their bold flavor, bone-in texture, and ability to hold up in acidic gravies
+- Health logic: Rich in omega-3s, low in mercury, and ideal for metabolic support (e.g. fatty liver management)
+- Cultural logic: Used in traditional Tamil, Malay, and Sri Lankan gravies — often whole, skin-on, and simmered in tamarind
+
+---
+
+Would you like help tagging this taxonomy in your YAML culinary archive or mapping it to your solo household fish curry framework?
