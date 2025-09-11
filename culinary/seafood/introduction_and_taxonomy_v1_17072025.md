@@ -103,3 +103,52 @@ Edible algae/seaweed:
 
 **This taxonomy provides your readers with a navigable, precise framework for seafood, ensuring clarity in recipes and dietary notes throughout your book.**
 
+Absolutely, Beauford — here’s a structured culinary taxonomy and buying guide for your chosen wild, small pelagic fish in Melbourne, tailored for a solo household and optimized for health, sustainability, and flavor.
+
+---
+
+🧬 Culinary Taxonomy & Latin Names
+
+| Culinary Type | Common Name | Latin Name | Family | Notes |
+|---------------|-------------|------------|--------|-------|
+| Finfish / Oily Fish / Coastal Pelagics | Australian Sardine | Sardinops sagax | Clupeidae | Also called pilchard; strong flavor, high omega-3  
+| Finfish / Oily Fish / Coastal Pelagics | Australian Pilchard | Sardinops sagax neopilchardus | Clupeidae | Subspecies of sardine; same culinary profile  
+| Finfish / Oily Fish / Coastal Pelagics | Australian Anchovy | Engraulis australis | Engraulidae | Tiny, intense flavor; great dried or fresh  
+| Finfish / Lean Coastal Fish / Estuarine Pelagics | Australian Herring | Arripis georgianus | Arripidae | Not a true herring; mild, soft flesh  
+| Finfish / Lean Estuarine Fish / Anadromous Whitebait | Australian Whitebait | Lovettia sealii | Galaxiidae | Tiny, translucent; seasonal delicacy  
+
+---
+
+🧭 Seasonality & Identification
+
+| Fish | Season (Peak) | How to Identify Good Stock |
+|------|----------------|-----------------------------|
+| Sardine/Pilchard | Year-round; peak in winter (WA) | Silvery skin, firm flesh, no brown spots, fresh sea smell  
+| Anchovy | Spring–Summer | Slender body, silver stripe, no cloudiness, mild brine scent  
+| Herring | Autumn–Winter (April–June spawn) | Silvery body, gold spots, black tail tips, firm flesh  
+| Whitebait | Spring (Aug–Dec) | Transparent body, silvery stripe, no blackening, fresh smell  
+
+---
+
+💰 Good Purchasing Price (Retail, Melbourne)
+
+| Fish | Typical Price Range | Notes |
+|------|---------------------|-------|
+| Sardine/Pilchard | $8–$14/kg whole | Smaller fish preferred; often sold fresh or frozen  
+| Anchovy | $12–$18/kg fresh; $4–$8/100g dried | Dried anchovies common in Asian grocers  
+| Herring | $10–$16/kg whole | Often sold whole; check for freshness  
+| Whitebait | $20–$30/kg | Seasonal; sometimes frozen or sold in mixed packs  
+
+---
+
+🧂 Solo Household Tips
+
+- Buy whole fish and portion into 100–150 g packs for freezing
+- Butterfly or fillet before freezing to reduce prep time
+- Use dried anchovies sparingly in gravies or broths — 20–30 g per batch
+- Whitebait is best pan-fried or added to fritters; use 50–75 g per serve
+- Sardines and pilchards are ideal for grilling, tamarind gravies, or pickling
+
+---
+
+Would you like this taxonomy formatted into a YAML spec for your culinary archive, or help tagging these fish types for your solo-scale recipe framework?
