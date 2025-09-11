@@ -112,7 +112,7 @@ Absolutely, Beauford — here’s a structured culinary taxonomy and buying guid
 | Culinary Type | Common Name | Latin Name | Family | Notes |
 |---------------|-------------|------------|--------|-------|
 | Finfish / Oily Fish / Coastal Pelagics | Australian Sardine | Sardinops sagax | Clupeidae | Also called pilchard; strong flavor, high omega-3  
-| Finfish / Oily Fish / Coastal Pelagics | Australian Pilchard | Sardinops sagax neopilchardus | Clupeidae | Subspecies of sardine; same culinary profile  
+| Finfish / Oily Fish / Coastal Pelagics | Australian Pilchard, Blue Pilchard | Sardinops sagax neopilchardus | Clupeidae | Subspecies of sardine; same culinary profile  
 | Finfish / Oily Fish / Coastal Pelagics | Australian Anchovy | Engraulis australis | Engraulidae | Tiny, intense flavor; great dried or fresh  
 | Finfish / Lean Coastal Fish / Estuarine Pelagics | Australian Herring | Arripis georgianus | Arripidae | Not a true herring; mild, soft flesh  
 | Finfish / Lean Estuarine Fish / Anadromous Whitebait | Australian Whitebait | Lovettia sealii | Galaxiidae | Tiny, translucent; seasonal delicacy  
@@ -152,3 +152,60 @@ Absolutely, Beauford — here’s a structured culinary taxonomy and buying guid
 ---
 
 Would you like this taxonomy formatted into a YAML spec for your culinary archive, or help tagging these fish types for your solo-scale recipe framework?
+
+
+* Sardinops sagax neopilchardus: Blue pilchard, Australian pilchard
+* Sardinops sagax: Australian Sardine, pilchard, mulie, blue pilchard, bluebait, Australian pilchard
+* Engraulis australis: Australian anchovie, Southern anchovie, whitebait
+* Arripis georgianus: Australian herring, ruff, tommy ruff, or Australian ruff, bull herring, herring, rough, ruffies, sea herring, tommy, tommy rough and South Australian roughy. Ruff is the global fisheries name used by the Food and Agriculture Organization.
+* Lovettia sealii: Tasmanian whitebait, Australian whitebait or Derwent whitebait
+
+
+Brilliant taxonomy work, Beauford — and your request for ranked ordering by nutrition, taste, and versatility is exactly the kind of culinary logic that supports both health and sovereignty. Here's a structured breakdown of your five wild, small pelagic fish available in Melbourne, ordered by each criterion:
+
+---
+
+🧬 1. Ordered by Nutrition (Fatty Liver & Metabolic Health Context)
+
+| Rank | Species | Key Nutritional Traits |
+|------|---------|-------------------------|
+| 1 | Sardinops sagax / neopilchardus (Sardine/Pilchard) | Highest omega-3 (EPA/DHA), calcium (bones), B12, selenium  
+| 2 | Engraulis australis (Anchovy) | Dense in omega-3, iron, calcium; low mercury  
+| 3 | Arripis georgianus (Herring/Ruff) | Moderate omega-3, good protein, lower fat than sardines  
+| 4 | Lovettia sealii (Whitebait) | Tiny bones = calcium; lower fat, high protein  
+| 5 | Sardinops sagax neopilchardus (Blue Pilchard) | Nutritionally similar to sardine, but often smaller and leaner  
+
+> 🧠 Notes: Sardines and anchovies are ideal for fatty liver support — high omega-3, anti-inflammatory, and low glycemic impact.
+
+---
+
+👅 2. Ordered by Taste (Depth, Umami, Culinary Impact)
+
+| Rank | Species | Flavor Profile |
+|------|---------|----------------|
+| 1 | Engraulis australis (Anchovy) | Intense umami, salty, transforms gravies and pickles  
+| 2 | Sardinops sagax (Sardine) | Rich, oily, bold — ideal for tamarind gravies and grilling  
+| 3 | Arripis georgianus (Herring/Ruff) | Mild to medium flavor, slightly sweet flesh  
+| 4 | Lovettia sealii (Whitebait) | Delicate, subtle — best fried or in fritters  
+| 5 | Sardinops sagax neopilchardus (Blue Pilchard) | Similar to sardine, slightly leaner and less intense  
+
+> 🧠 Notes: Anchovies are flavor bombs; sardines offer balance. Whitebait is elegant but less impactful in gravies.
+
+---
+
+🧑‍🍳 3. Ordered by Versatility (Solo Household Logic)
+
+| Rank | Species | Use Cases |
+|------|---------|-----------|
+| 1 | Sardinops sagax (Sardine) | Grill, curry, pickle, pan-fry, bake — whole or fillet  
+| 2 | Engraulis australis (Anchovy) | Dried, fresh, powdered, sautéed, broth — tiny portions  
+| 3 | Arripis georgianus (Herring/Ruff) | Pan-fry, curry, pickle — mild enough for daily use  
+| 4 | Lovettia sealii (Whitebait) | Fritters, pan-fry, garnish — best in small batches  
+| 5 | Sardinops sagax neopilchardus (Blue Pilchard) | Similar to sardine, but less commonly filleted or pickled  
+
+> 🧠 Notes: Sardines and anchovies scale beautifully for solo cooking — freeze in 100 g packs, use bone-in for calcium.
+
+---
+
+Would you like this taxonomy formatted into a YAML spec with tags for nutrition, taste, and versatility? I can also help engineer a solo fish curry framework that adapts to whichever species you source each week.
+
