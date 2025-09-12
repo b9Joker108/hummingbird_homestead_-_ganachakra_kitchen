@@ -15,13 +15,13 @@ Natural-fired unglazed Indian terracotta curd pots are not just vessels, they’
 
 🧼 Cleaning with Lime and Water: Why It Matters
 
-- Lime (calcium hydroxide) is traditionally used to:
+- Food-grade slaked lime/pickling lime (Hindi: raja chuna) (calcium hydroxide) is traditionally used as a paste to:
   - Neutralize acidity and kill unwanted microbes
   - Preserve the pot’s porous integrity without sealing it
   - Avoid soap residues that disrupt fermentation ecosystems
 
 Method:
-1. Mix lime powder with water to form a thin slurry
+1. Mix food-grade slaked/pickling lime powder with water to form a thin slurry
 2. Scrub gently inside and out
 3. Rinse with clean water and air-dry fully before reuse
 
@@ -85,7 +85,7 @@ From a culinary standpoint, these properties translate to dense, creamy yogurts;
 
 ### The Role of Lime in Cleaning and Food Safety
 
-In Indian pottery traditions, washing with lime (calcium hydroxide, commonly known as "chuna") and water is a recognized soap-free approach optimal for unglazed clay vessels. Lime serves several crucial functions:
+In Indian pottery traditions, washing with food-grade slaked/pickling lime (calcium hydroxide, commonly known as "raja chuna" in Hindi) and water is a recognized soap-free approach optimal for unglazed clay vessels. Lime serves several crucial functions:
 
 - **Sanitization:** Its high alkalinity kills most bacteria on contact and denatures proteins from spoiled residues, which is particularly important for porous clay where soap residues could be absorbed and later taint fermentation or introduce toxicity[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.savorysuitcase.com/the-role-of-lime-in-food-preservation/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://biologyinsights.com/can-lime-kill-bacteria-how-it-works-and-its-limits/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6").
 - **Odor Neutralization:** Lime binds and neutralizes acidic breakdown products, especially in vessels previously used for dairy, sticky beans, or especially sour ferments[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.savorysuitcase.com/the-role-of-lime-in-food-preservation/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5").
@@ -94,7 +94,7 @@ In Indian pottery traditions, washing with lime (calcium hydroxide, commonly kno
 #### Cleaning Process: Step-by-Step
 
 1. **Preparation:** Remove all food residue with a wooden spatula or soft cloth, avoiding anything metallic or abrasive.
-2. **Lime Solution Preparation:** Dissolve a small amount of food-grade quicklime (about 1 teaspoon per liter of water; or per manufacturer) in lukewarm water. Stir and allow to stand until the solution turns milky but not sandy.
+2. **Lime Solution Preparation:** Dissolve a small amount of food-grade saked/p*ckling lime (Hindi: raja chuna) (about 1 teaspoon per liter of water; or per manufacturer) in lukewarm water. Stir and allow to stand until the solution turns milky but not sandy.
 3. **Washing:** Pour into or over the pot, swirl to reach all surfaces (interior, exterior lip, and under the lid), and let the solution sit inside for 10–15 minutes.
 4. **Scrubbing:** Use a designated soft natural or silicone brush to gently scrub. Do not use steel wool or harsh pads.
 5. **Rinsing:** Empty and rinse 2–3 times with clean running water, ensuring all lime residues are removed. Repeat if persistent stains or odors remain.
@@ -102,7 +102,7 @@ In Indian pottery traditions, washing with lime (calcium hydroxide, commonly kno
 
 This process is particularly suited to vessels used frequently for living cultures and is a traditional alternative to commercial sanitizers, especially where the manufacturer's "no soap" policy is mandated[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://mudkart.com/blogs/news/how-to-prevent-curd-from-spoiling-the-science-behind-terracotta-curd-setters?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4").
 
-**Safety Note:** Do not mix lime cleaning with acid (e.g., vinegar) or expose the pot to rapid temperature change immediately after lime cleaning, as these can cause microcracks or loss of vessel integrity.
+**Safety Note:** Do not mix food-grade slake/pickling lime (Hindi: raja chana) for cleaning with acid (e.g., vinegar) or expose the pot to rapid temperature change immediately after cleaning, as these can cause microcracks or loss of vessel integrity.
 
 ---
 
@@ -114,7 +114,7 @@ Before the first use, and after each intensive cleaning, seasoning (or "curing")
 
 - Seal microcracks that develop during firing or transit
 - Uniformly hydrate the clay body, reducing stress when the vessel is later heated or contains acidic ferments
-- Build up a subtle patina that reduces food sticking and improves flavor development over time
+- Build up a subtle patina that reduces food sticking and improves flavour development over time
 - Prevent cracking when transferring from one temperature regime to another (e.g., cold water or soaked grains to a warm environment)
 
 ### Methods: Curing, Soaking, and Oiling
@@ -226,7 +226,7 @@ For one person, small-batch fermentation avoids waste and keeps flavors fresh.
 
 | Maintenance Step                     | Frequency             | Method Notes                                   | Batch Size/Use Comments                           |
 |--------------------------------------|-----------------------|------------------------------------------------|---------------------------------------------------|
-| Routine Cleaning: lime + water       | After every batch     | See cleaning protocol above                    | Make small frequent batches rather than bulk       |
+| Routine Cleaning: food-grade slaked/pickling lime + water       | After every batch     | See cleaning protocol above                    | Make small frequent batches rather than bulk       |
 | Deep Cleaning                        | Monthly/as needed     | Soak, scrub, lime; air dry upside down         | Use other pot while one is under deep clean        |
 | Soaking/Hydration                    | Before each heat use  | 15–30 min minimum, especially if baking/cooking| If only doing ambient acts, weekly is fine         |
 | Seasoning (oil + bake/cook process)  | Quarterly/as needed   | Full protocol (see above)                      | Prefer to season when a flavor change is wanted    |
@@ -260,7 +260,7 @@ Fermentation is temperature-sensitive. **Ideal range for grains/legumes:** 22°C
 
 ### Bacterial Control and Food Safety
 
-Lime water (high pH) is highly effective at killing most bacteria, denaturing surface proteins, and deactivating common spoilage agents. Its **antimicrobial spectrum has been confirmed by research**—for fermentation vessels, it is especially relevant where traditional soaps might be absorbed and cause food tainting or chemical hazards[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.savorysuitcase.com/the-role-of-lime-in-food-preservation/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://biologyinsights.com/can-lime-kill-bacteria-how-it-works-and-its-limits/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6").
+Food-grade slaked/pickling lime (Hindi: raja chuna) water (high pH) is highly effective at killing most bacteria, denaturing surface proteins, and deactivating common spoilage agents. Its **antimicrobial spectrum has been confirmed by research**—for fermentation vessels, it is especially relevant where traditional soaps might be absorbed and cause food tainting or chemical hazards[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.savorysuitcase.com/the-role-of-lime-in-food-preservation/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://biologyinsights.com/can-lime-kill-bacteria-how-it-works-and-its-limits/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6").
 
 **However, safe hygienic practices must still include:**
 
@@ -367,7 +367,7 @@ Lime water (high pH) is highly effective at killing most bacteria, denaturing su
 
 ### Routine Schedule
 
-- **After Each Batch:** Lime wash, thorough rinse, air-dry.
+- **After Each Batch:** Food-grade slaked/pickling lime (Hindi: raja chuna) paste wash, thorough rinse, air-dry.
 - **Every 4–6 Weeks:** Deep cleaning with extended soaking, oiling, and heating (if heating is a common use).
 - **Monthly:** Inspect rim and base for microcracks; retire if significant.
 - **Quarterly:** Re-season with oil and gentle bake/warmth if pot is used heavily or odor is persistent.
@@ -385,4 +385,41 @@ Lime water (high pH) is highly effective at killing most bacteria, denaturing su
 Natural-fired Indian terracotta curd pots, when cared for with traditional cleaning and seasoning protocols and used with strategic batch planning, offer one of the best available vessels for fermenting grains and legumes in support of liver health, weight loss, and solo meal management. Their unique interaction with food, both physical and microbiological, provides tangible health and flavor benefits that go well beyond convenience or nostalgia. By respecting the properties of the vessel, adhering to strict but gentle lime-and-water cleaning, maintaining careful hydration and seasoning routines, and adopting a nurturing batch schedule, single-person households can enjoy fresh fermented meals daily with minimum waste and maximum wellbeing. This guide, informed by both global and Indian sources, bridges time-honored tradition and evidence-based nutrition to empower the modern health-conscious cook.
 
 ---
+
+In Melbourne, I need to source 5he cheapest food-grade 'lime' (Hindi: chuna), to clean my unglazed earthenware terracotta pots used for short-batch overnight fermentation of grains, legumes, etc.
+
+The cheapest **food-grade 'lime' (chuna, calcium hydroxide)** readily available in Melbourne in small, consumer-sized packs appears to be:
+
+- **Raja Chuna (lime paste) 100g for $2.00** at Vel Spices, Carrum Downs. This is explicitly labelled as chuna and sold by Indian grocers familiar with its culinary and cleaning uses; however, as a paste, it may be less concentrated and less suitable for some cleaning methods compared to pure powder, but is cost-effective and available for local pickup[1].
+- **Calcium Hydroxide (Slaked Lime) 500g for $6.95** at Kegland. This is food-grade powder, suitable for brewing, nixtamalisation, and cleaning fermenting vessels, and represents the lowest per-gram price among commonly available non-bulk powder options[2].
+- **Pickling lime/Calcium Hydroxide 400g** ranges from $14.95 at Bake & Brew[3] to around $17.99 at some brewing suppliers[4], but these are significantly more expensive per gram than Kegland or chuna from Indian grocers.
+
+## Bulk Options
+- For large volumes (if frequent cleaning is needed), bulk 2kg–10kg food-grade powder is available from several suppliers, but the initial outlay is steep ($69 for 2kg[5], $169 for 10kg[6]). These may only be economical for industrial or heavy domestic use.
+
+## Key Details
+- Always ensure the product is labelled "food grade" (FCC/USP), as hardware lime/cement lime can contain unsafe impurities[7][2].
+- Indian grocers sell small packs (as paste or powder) at the lowest price point; for powder, brewing suppliers like Kegland offer reliable, inexpensive packs.
+- Both types (paste and powder) will suffice for non-edible cleaning of terracotta fermenters, but powder is ideal for reconstituting cleaning solutions.
+
+## Recommendations
+- For small, single-batch, or periodic cleaning, purchase a 500g food-grade powder from Kegland ($6.95) or an Indian grocery chuna paste (100g/$2)[1][2].
+- For regular, large-scale cleaning, consider pooling with others and buying a bulk 2kg or 10kg food-grade pack[5][6].
+
+These options are the most affordable and widely available in Melbourne as of September 2025[1][2][3].
+
+Citations:
+[1] Raja Chuna (lime paste) 100G https://velspices.com.au/products/raja-chuna-100g
+[2] Calcium Hydroxide (Slaked Lime) - 500g https://kegland.com.au/products/calcium-hydroxide-slaked-lime-500g
+[3] Pickling Lime – Calcium Hydroxide 400g https://www.bakeandbrew.com.au/product/pickling-lime-calcium-hydroxide-400g/
+[4] 400g Calcium Hydroxide (Slaked Lime) https://www.szzhomebrew.com.au/cleaning-sterilizing/400g-calcium-hydroxide-slaked-lime.html
+[5] 2Kg Food Grade Calcium Hydroxide Powder - FCC ... https://discountsalonsupplies.com.au/products/2kg-food-grade-calcium-hydroxide-powder-fcc-hydrated-slaked-pickling-lime
+[6] 10Kg Food Grade Calcium Hydroxide Powder https://ozdingo.com.au/products/10kg-calcium-hydroxide-powder-food-grade-fcc
+[7] Pickling Lime - Calcium Hydroxide Food Grade Powder https://www.melbournefooddepot.com/buy/pickling-lime-calcium-hydroxide-food-grade-powder/PS0029
+[8] 2.5kg Calcium Hydroxide Powder Tub Food Grade FCC ... https://www.bargains-online.com.au/2.5kg-calcium-hydroxide-powder-tub-food-grade-fcc
+[9] Bulk 10Kg Food Grade Calcium Hydroxide Powder FCC ... https://www.hr-sports.com.au/bulk-10kg-food-grade-calcium-hydroxide-powder-fcc
+[10] calcium hydroxide suppliers Australia https://www.australianchemicalsuppliers.com/list/search?search=calcium+hydroxide
+[11] Calcium hydroxide powder (Food grade) / Pickling Lime https://allchemical.com.au/shop/calcium-hydroxide-food-grade/
+[12] 400g Food Grade Calcium Hydroxide Powder - FCC ... https://tanstella.com.au/products/400g-food-grade-calcium-hydroxide-powder-fcc-hydrated-slaked-pickling-lime-129909
+[13] calcium hydroxide powder food grade hydrated slaked ... https://nationalplantsupplies.com.au/products/calcium-hydroxide-powder-food-grade-hydrated-slaked-pickling-lime-premium-grade
 
