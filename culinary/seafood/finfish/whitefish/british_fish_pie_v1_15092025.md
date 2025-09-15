@@ -477,7 +477,7 @@ Yield & Equipment
 Ingredients
 
 Potato Topping
-- 250 g Russet (or Sebago) potatoes, peeled & 1 cm-cubed  
+- 250 g Russet Burbank, Sebago or floury or starchy potatoes (not waxy) & 1 cm-cubed  
 - ¾ tsp table salt (for boiling)  
 - 14 g unsalted butter (≈1 Tbsp), divided  
 - 20 mL heavy cream  
@@ -487,7 +487,7 @@ Potato Topping
 Filling
 - 80 g raw shrimp (16–20 count), peeled, deveined, halved  
 - ⅛ tsp table salt + pinch baking soda (optional)  
-- 30 g leek (white & light‐green), thinly sliced  
+- 30 g leek (white & light-green), thinly sliced  
 - ¼ tsp fresh thyme leaves (or ⅛ tsp dried)  
 - 20 mL dry white wine (or dry vermouth)  
 - 1 Tbsp (10 g) plain flour  
