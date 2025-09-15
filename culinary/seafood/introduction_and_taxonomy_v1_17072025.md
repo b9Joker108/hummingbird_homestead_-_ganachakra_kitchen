@@ -1,5 +1,4 @@
-
-
+# Seafood (for Cooking in Australia) Introduction and Taxonomy #
 
 Just focus on seafood taxonomy for my book. That is complex enough.
 
@@ -315,6 +314,61 @@ Australia’s fish diversity offers a wide range of delicious, nutritious option
 ---
 
 If you want to explore recipes or shop for Australian seafood, many resources and seafood menus are available to inspire your culinary adventures.
+
+## Whitebait ## 
+
+Fishmongers in south-eastern Australia almost never label galaxiids by species. Instead they market the juvenile shoals collectively as “whitebait.”  Here’s how they’re typically presented:
+
+| Species                          | Fishmonger Label        | Notes                                                            |
+|----------------------------------|-------------------------|------------------------------------------------------------------|
+| Galaxias maculatus               | whitebait               | The vast majority of “whitebait” sold come from this species     |
+| Galaxias truttaceus              | whitebait               | Mixed in with G. maculatus—no separate listing                    |
+| Galaxias olidus, G. brevipinnis, other galaxiids | whitebait               | All other native galaxiids appear under the generic whitebait tag |
+| —                                | Tasmanian whitebait     | Specialty label in Tasmanian fish markets (still mixed species)  |
+| —                                | Australian whitebait    | Occasional marketing term on east-coast fish-shop menus           |
+
+Key points:  
+- “Whitebait” at your fishmonger or farmer’s market is a multispecies catch—mostly G. maculatus plus smaller proportions of trout galaxias and others.  
+- You won’t see “trout galaxias” or “mountain galaxias” on a price-list—only the umbrella term “whitebait.”  
+- In boutique shops you might encounter “Tasmanian whitebait” or “Australian whitebait,” but these still don’t differentiate by species.
+
+South-eastern Australia supports a rich assemblage of native galaxiid fishes (Family Galaxiidae), ranging from amphidromous “whitebait” to upland endemics. Here are the primary species found in coastal and inland catchments of Victoria, New South Wales, South Australia and Tasmania:
+
+- Common Galaxias (Galaxias maculatus)  
+  Amphidromous, silvery-bodied, the most widely distributed galaxiid in the Southern Hemisphere. Found in coastal rivers, lakes and estuaries from South Australia through Victoria, Tasmania, New South Wales and southern Queensland.  
+
+- Mountain Galaxias (Galaxias olidus)  
+  Resident of upland streams and rivers across the Murray–Darling Basin and adjoining catchments. Morphologically variable, often isolated above barriers where exotic trout occur.  
+
+- Climbing Galaxias (Galaxias brevipinnis)  
+  Headwater specialist of steep, boulder-strewn brooks from Kangaroo Island and coastal SA through Victoria (Wilson’s Promontory) and up to Sydney. Notable for climbing vertical rock faces using its pelvic and pectoral fins.  
+
+- Spotted Galaxias (Galaxias truttaceus)  
+  Cool-water species of alpine and subalpine streams and lakes. Known as “trout galaxias,” historically prized by anglers for its larger size and willingness to take flies.  
+
+- Shaw Galaxias (Galaxias gunaikurnai)  
+  Critically endangered, restricted to the headwaters of Shaw Creek in Gippsland’s Victorian Alps. Grey-tan body with dark blotches; survives in clear, cool streams.  
+
+- Yalmy Galaxias (Galaxias sp. ‘Yalmy’)  
+  Recently described lineage endemic to east Gippsland coastal catchments. Appears as a blotched variant similar to Common and Mountain galaxias but genetically distinct.  
+
+- Obscure Galaxias (Galaxias sp. ‘Obscure’)  
+  Cryptic taxa recorded in high-altitude streams of the Snowy Mountains and Victorian Alps. Currently under taxonomic review with potential future species splits.  
+
+These galaxiid species illustrate the ecological breadth from estuarine amphidromy to isolated upland endemism—yet all face pressures from exotic salmonids, habitat fragmentation, and water-quality change.
+
+Whitebait galaxiids aren’t just bait—across Australasia they’re a seasonal delicacy eaten whole, most famously in whitebait fritters or omelets.
+
+In Australia they’re “not generally used as a food fish,” but recreational fishers and small‐scale harvesters do consume them in limited seasonal batches under strict regulations.  
+
+In New Zealand and some boutique Australian markets, whitebait are lightly bound in egg (often only whites), sometimes seasoned with lemon, then fried into fritters or omelets. Māori have harvested and eaten these tiny juveniles for centuries, even drying them for storage.  
+
+Culinary highlights:  
+- Whitebait Fritters/Omelets: Fish blended gently with beaten egg (traditionally just whites), a pinch of salt, pan-fried until set and golden.  
+- Simple Pan-Fried: Drizzled with butter or oil, briefly sautéed—served hot with lemon.  
+- Tempura-Style: Dipped in a light batter and deep-fried for extra crispness (modern fusion).  
+
+So while their small size makes them ideal bait, whitebait galaxiids have a well-established role on the plate, prized for their delicate flavour and tender texture.
 
 # References #
 
