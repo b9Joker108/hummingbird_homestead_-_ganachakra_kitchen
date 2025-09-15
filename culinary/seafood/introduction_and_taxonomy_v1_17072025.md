@@ -209,3 +209,114 @@ Brilliant taxonomy work, Beauford — and your request for ranked ordering by nu
 
 Would you like this taxonomy formatted into a YAML spec with tags for nutrition, taste, and versatility? I can also help engineer a solo fish curry framework that adapts to whichever species you source each week.
 
+# Detailed Overview of Australian Fish
+
+Australia’s surrounding oceans are teeming with an incredible variety of fish species, offering a rich resource for food, nutrition, and culinary creativity. The diversity of Australian fish is remarkable, ranging from saltwater to freshwater species, flat to round fish, and wild to farmed varieties. Understanding these categories helps appreciate their unique characteristics, health benefits, and cooking uses.
+
+---
+
+## 1. Classification of Australian Fish
+
+### Saltwater vs Freshwater Fish
+- **Saltwater Fish**: These fish live in the ocean’s salty, buoyant environment. Examples include cod, flounder, and tuna. Due to the buoyancy of saltwater, these fish tend to have thicker, heavier bones.
+- **Freshwater Fish**: Found in rivers and lakes, freshwater fish like Murray cod and Australian bass have lighter skeletons with many tiny bones. These smaller bones can be a consideration for some when eating.
+
+### Anadromous Fish
+- Some fish, such as salmon, are anadromous, meaning they migrate from saltwater to freshwater to spawn. This migration is a fascinating natural behavior often seen in the wild.
+
+### Flat Fish vs Round Fish
+- **Flat Fish**: Species like flounder, plaice, sole, and halibut have a flattened body shape, perfectly adapted to living on the ocean floor.
+- **Round Fish**: These have the more typical fish shape and include many popular species.
+
+### Wild vs Farmed Fish
+- Australia offers both wild-caught and farmed fish. Farmed fish provide year-round availability but raise considerations about sustainability and health impacts.
+
+---
+
+## 2. Nutritional Benefits of Australian Fish
+
+Fish is an excellent source of lean, high-quality protein, low in calories and sodium compared to meat. It is rich in essential minerals and vitamins such as:
+- Zinc
+- Iron
+- Iodine
+- Selenium
+- Vitamins A and D (important for immune health and wound healing)
+
+### Omega-3 Fatty Acids: The Anti-Inflammatory Superhero
+- **Oily Fish**: These fish have Omega-3 fatty acids distributed throughout their flesh, making them powerful anti-inflammatory foods. Omega-3s help reduce the risk of cardiovascular disease, combat skin aging, and protect against sun damage.
+- **White Fish**: Omega-3 oils are concentrated mainly in the liver (e.g., cod liver oil).
+
+---
+
+## 3. Types of Australian Fish by Culinary Use
+
+### Oily Fish
+- Characterized by a stronger flavor and richer Omega-3 content.
+- Common oily fish include:
+  - Fresh tuna (yellowfin)
+  - Salmon
+  - Trout (including rainbow trout and ocean trout)
+  - Mackerel
+  - Sardines
+  - Anchovies
+  - Marlins
+  - Whitebait
+  - Kippers
+  - Swordfish
+  - Orange roughy
+- These fish are often cooked with bold flavours and marinades, suitable for Mediterranean or Asian dishes, and can withstand grilling, barbecuing, or smoking.
+
+### Firm White Fish
+- These fish have delicate, flaky, buttery flesh that cooks quickly and easily.
+- Popular firm white fish in Australia include:
+  - Barramundi
+  - Snapper
+  - Flathead
+  - King George Whiting (Sillaginodes punctatus)
+  - Flounder
+  - John Dory (Dory)
+  - Ling
+  - Blue-eye Trevalla
+  - Coral Trout
+  - Bream
+  - Emperors
+  - Morwong
+  - Mahi Mahi
+- Ideal for pan-frying or baking in simple parcels, these fish are versatile and mild in flavor.
+
+---
+
+## 4. Substituting Australian Fish in European Recipes
+
+For those using European cookbooks, Australian fish can be substituted as follows:
+- Brill → John Dory
+- Cod → Murray Cod
+- Grouper → Barramundi
+- Halibut → Atlantic Salmon
+- Monkfish → Stargazer
+- Plaice → Whiting or Flounder
+- Sea Bass → Murray Cod
+- Sole → Flounder
+- Turbot → Flounder
+
+---
+
+## 5. Sustainability and Health Considerations
+
+- While farmed fish provide convenience and consistent supply, it is important to consider sustainability practices and potential health impacts.
+- Wild fish populations can be affected by overfishing and environmental changes, so choosing sustainably sourced fish supports ocean health.
+
+---
+
+## 6. Summary
+
+Australia’s fish diversity offers a wide range of delicious, nutritious options suitable for many cooking styles and dietary needs. Whether you prefer the rich flavors of oily fish or the delicate texture of firm white fish, Australian waters provide excellent choices. Incorporating these fish into your diet supports heart health, skin vitality, and overall wellness, thanks to their rich nutrient profiles and Omega-3 content.
+
+---
+
+If you want to explore recipes or shop for Australian seafood, many resources and seafood menus are available to inspire your culinary adventures.
+
+# References #
+
+* https://www.dinnerladies.com.au/blogs/blog/australian-fish-deep-dive
+
