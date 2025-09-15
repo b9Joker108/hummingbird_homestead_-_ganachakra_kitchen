@@ -1,3 +1,227 @@
+---
+title: "British Fish Pie: Three Traditional Variants for Solo Meals"
+slug: "fish-pie-british-solo-variants"
+date: 2025-09-15
+author: "Beauford"
+region:
+  country: "United Kingdom"
+  subregions: ["England", "Scotland", "Ireland (Ulster & Republic, Anglo-tradition)"]
+language: "English"
+scripts: ["Latin"]
+project:
+  collection: "Solo Household Cookbook"
+  module: "Traditional British Classics"
+version: "1.0.0"
+license: "CC BY-NC-SA 4.0"
+
+taxonomy:
+  cuisine: "British"
+  dish_type: "Savory pie/casserole"
+  course: "Main"
+  dietary_tags: ["Pescatarian"]
+  allergens: ["Fish", "Milk", "Butter", "Cream", "Gluten (flour/breadcrumbs/rough puff)"]
+  techniques: ["Poaching", "Parsley sauce (béchamel)", "Mash topping", "Baking", "Hot-smoking integration"]
+  occasions: ["Family supper", "Pub classic", "Nursery food", "Cold-weather comfort"]
+  provenance_tags: ["Home cooking", "Post-war economy", "Regional fishmongery traditions"]
+
+summary: >
+  A research-grounded, solo-scaled documentation of British Fish Pie traditions with three canonical
+  variants showcasing breadth across regions and technique: classic parsley sauce, smoked haddock with eggs,
+  and a Scottish-inspired cream-and-smoked base. Each yields one individual pie, engineered for metric
+  precision, texture balance, and zero waste.
+
+serving:
+  yield_each: "1 individual pie"
+  vessel: "12–14 cm ovenproof gratin/ramekin (350–450 mL)"
+  portion_mass_target: "420–520 g cooked weight"
+  ideal_side: "Butter-steamed peas or cabbage"
+  serving_temp: "Hot (centre ≥ 75 °C)"
+
+equipment:
+  - "**Saucepan:** Poaching fish and making béchamel"
+  - "**12–14 cm gratin dish/ramekin:** Single-serve bake"
+  - "**Fine mesh strainer:** For poaching liquor and sauce"
+  - "**Oven:** 190 °C conventional / 170 °C fan"
+  - "**Instant-read thermometer:** Doneness check"
+
+scaling:
+  base_unit: "1-person"
+  linear_scaling: true
+  max_batch_notice: "For >4 servings, poach in wider pan to avoid overcooking edges; scale surface area not only depth."
+  bake_parameters:
+    conventional_c: 190
+    fan_c: 170
+    bake_time_min: 18
+    bake_time_max: 24
+    rest_time_min: 5
+
+freezing_and_storage:
+  make_ahead: "Assemble, cool quickly, refrigerate ≤ 24 h; bake from cold +5–8 min."
+  freezing: "Assemble without egg garnish; wrap and freeze ≤ 1 month; bake from frozen at 180 °C fan for 35–45 min, tent if over-browning."
+  leftovers: "Not expected (single-serve); any remainder ≤ 1 day refrigerated; reheat to 75 °C core."
+
+ingredient_ontology:
+  fish:
+    white_fish: ["Haddock", "Cod", "Pollock", "Hake", "Coley"]
+    smoked_fish: ["Smoked haddock (undyed preferred)", "Smoked cod"]
+    oily_fish_optional: ["Salmon (Atlantic/Loch)", "Mackerel (rare in classic pie)"]
+    shellfish_optional: ["Prawns (North Atlantic)", "Brown shrimp"]
+  dairy_and_fats:
+    default: ["Butter", "Whole milk", "Double cream (variant-specific)"]
+    alternatives: ["Full-fat milk only", "Crème fraîche (not traditional)"]
+  aromatics_spices:
+    core: ["Bay leaf", "Whole black peppercorns", "Onion", "Fresh parsley", "Nutmeg (pinch)"]
+    regional: ["Chives", "Dill (non-traditional but modern)", "Leek (Scottish leaning)"]
+  starches:
+    mash: "Floury potatoes (Maris Piper/King Edward; AU analogues: Sebago/Russet)"
+    thickeners: ["Plain flour", "Mustard (English, scant, optional)"]
+  eggs:
+    type: "Hen’s eggs (hard or soft-boiled slices; variant-specific)"
+  toppings_optional:
+    crust: ["Rough puff lid (pub variant)", "Cheddar gratin (modern; optional)"]
+
+australia_sourcing_notes:
+  - "**Smoked haddock (undyed):** Substitute with natural smoked cod or smoked hoki from Melbourne fishmongers."
+  - "**Floury potatoes:** Use Sebago or brushed potatoes; avoid waxy salad types."
+  - "**Cream:** Thickened cream (35% fat) ≈ double cream functionality; watch splitting with smoked liquor."
+
+safety_notes:
+  - "**Fish bones:** Pin-bone before poaching; strain liquor."
+  - "**Temperature:** Core ≥ 75 °C; eggs already cooked in variants that include them."
+  - "**Allergens:** Contains fish, dairy, gluten; shellfish optional."
+
+provenance:
+  overview: >
+    British Fish Pie is a home-kitchen and pub staple: poached mixed fish bound in a milk-based parsley or
+    cream sauce, topped with mashed potato and baked. It reflects maritime supply chains and post-war economy,
+    using trimmings and smoked fish for depth. Regional inflections include Scottish hot-smoked fish and egg,
+    and Irish/British Isles seafood inclusions.
+  historical_motifs:
+    - "**Economy cookery:** Stretching fish with mash and sauce; ration-era continuity."
+    - "**Smoked fish:** Preservation legacy; undyed smoked haddock preferred historically."
+    - "**Nursery food:** Gentle seasoning, parsley sauce, soft textures."
+  regional_breadth:
+    - "**England:** Parsley-sauce base, white fish focus."
+    - "**Scotland:** Smoked haddock (Arbroath/Findon Finnan) and soft eggs."
+    - "**Ireland/British Isles:** Inclusion of salmon and small prawns in feast versions."
+
+recipes:
+  - key: "fish-pie-classic-parsley"
+    name: "Classic Parsley Sauce Fish Pie"
+    variant_region: "England (general/home)"
+    yield: "1 individual pie (350–450 mL)"
+    fish_profile:
+      mix:
+        - "**White fish:** 120 g haddock/cod, skinned, pin-boned"
+        - "**Optional smoked:** 40 g natural smoked haddock for depth"
+    sauce: "Parsley béchamel with poaching milk"
+    potato_topping: "260–280 g cooked floury potato, 25–30% butter by potato weight, splash milk"
+    garnish: "Chopped flat-leaf parsley"
+    notes: "Most ‘baseline’ expression; nursery-food gentleness; no egg."
+  - key: "fish-pie-smoked-egg"
+    name: "Smoked Haddock and Egg Fish Pie"
+    variant_region: "Scotland-leaning (Arbroath/Findon influence)"
+    yield: "1 individual pie (350–450 mL)"
+    fish_profile:
+      mix:
+        - "**Smoked haddock (undyed):** 120–140 g"
+        - "**White fish:** 40–60 g (optional) to moderate smoke"
+    sauce: "Enriched cream-milk sauce with leek"
+    potato_topping: "As above; optional cheddar 10–12 g grated for browning (pub-leaning)"
+    garnish: "Sliced soft- or hard-boiled egg (1 small), chives"
+    notes: "Egg is traditional in many Scottish/NE English households; smoke and leek echo Cullen skink."
+  - key: "fish-pie-salmon-prawn"
+    name: "Salmon and Prawn Fish Pie"
+    variant_region: "Irish/British Isles feast style"
+    yield: "1 individual pie (350–450 mL)"
+    fish_profile:
+      mix:
+        - "**Salmon:** 100–120 g"
+        - "**White fish:** 60–80 g"
+        - "**Small prawns (cooked, shelled):** 30–40 g (fold in at assembly)"
+    sauce: "Parsley-mustard béchamel (¼ tsp English mustard); nutmeg pinch"
+    potato_topping: "As classic; optional buttered breadcrumb scatter"
+    garnish: "Parsley and lemon zest (light)"
+    notes: "Richer, celebratory; prawns added late to prevent rubberiness."
+
+process_controls:
+  poaching:
+    liquid: "300 mL whole milk + bay + peppercorns + onion slice/leek green"
+    method: "Bring to bare simmer, add fish, cover off heat 6–8 min; remove fish; flake; strain liquor."
+  sauce_making:
+    roux: "20 g butter + 20 g plain flour; cook 2 min"
+    hydration: "Add 250 mL warm strained liquor gradually; simmer 3–4 min to nappe"
+    finishers: "Salt, white pepper, parsley; 20–30 mL cream for smoked/Scottish variant"
+  assembly:
+    ratio_guideline:
+      fish: "160–200 g flaked fish (raw weight before poach)"
+      sauce: "200–220 g finished sauce"
+      mash: "180–220 g"
+    sequencing: "Fish + shellfish (if any) in base, sauce over, egg slices (if used), pipe/spread mash"
+  baking:
+    oven: "190 °C conventional / 170 °C fan"
+    time: "18–24 min until bubbling at edges and lightly browned"
+    rest: "5–10 min to set sauce"
+
+sensory_targets:
+  - "**Top:** Lightly browned, ridged mash; crisp at peaks."
+  - "**Sauce:** Nappe, not runny; coats spoon; no flouriness."
+  - "**Fish:** Flaked, moist; smoked notes integrated, not acrid."
+  - "**Aroma:** Bay, parsley, gentle dairy sweetness; smoke (variant 2) present but balanced."
+
+metrics_and_qc:
+  salt_targets:
+    poach_liquor: "0.7–0.9% w/v if fish not smoked; reduce for smoked fish"
+    mash_salt: "0.8–1.0% of potato weight"
+  thickening_index: "Roux 1:1 by mass; 40 g/L yields medium-thick nappe with milk base"
+  core_temp_min_c: 75
+  browning_index: "Surface L* decrease of ~8–12 from raw mash (visual heuristic)"
+
+nutrition_estimate_per_pie:
+  energy_kcal: 520-700
+  protein_g: 35-45
+  fat_g: 25-38
+  carbs_g: 35-50
+  sodium_notice: "Higher in smoked variant; adjust added salt accordingly."
+
+knowledge_graph:
+  entity: "British Fish Pie"
+  alt_labels: ["Fisherman’s pie", "Fish pie (UK)"]
+  relations:
+    inspired_by: ["Parsley sauce", "Cullen skink (flavour family)"]
+    regional_links:
+      england: ["Parsley sauce tradition"]
+      scotland: ["Smoked haddock, egg; Arbroath/Findon smoking"]
+      ireland: ["Salmon and prawn inclusions"]
+  identifiers:
+    cookbook_id: "bfishpie-01"
+    canonical_slug: "british-fish-pie-solo"
+
+documentation:
+  format: "Markdown with YAML frontmatter"
+  style: "Metric-first; solo scaling; reproducible steps"
+  validation_checklist:
+    - "**Pin-bone fish** before poach"
+    - "**Strain** poaching liquor"
+    - "**Taste and adjust** salt post-smoke"
+    - "**Rest** after bake for clean service"
+
+notes_for_melbourne_context:
+  - "**Fan ovens:** Often run hot; start at 165–170 °C fan and check at 18 min."
+  - "**Undyed smoked fish:** Ask explicitly; dyed yellow fillets are less traditional, stronger dye flavour."
+
+tags:
+  - "British"
+  - "Fish pie"
+  - "Solo cooking"
+  - "Smoked haddock"
+  - "Parsley sauce"
+  - "Cullen skink-adjacent"
+  - "Salmon and prawn"
+  - "Pub classic"
+  - "Nursery food"
+---
+
 
 # The Traditional British Fish Pie: History, Regionality, and Culinary Diversity
 
