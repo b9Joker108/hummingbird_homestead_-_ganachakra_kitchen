@@ -72,3 +72,32 @@ Yes—gently dry-roasting those alternative coatings is a simple way to improve 
 
 In sum, a gentle dry roast not only mellows out the “green” or raw edge of oats, nuts, seeds and cornmeal, but also makes their nutrients more bioavailable—and gives your fish crust a deeper, more complex crunch.
 
+
+
+## Using Milk + Lemon Juice as an Egg Alternative ##
+
+When you mix milk with lemon juice, you create a mild buttermilk substitute that thickens slightly as the acid coagulates milk proteins. This acidulated milk clings to the surface of fish, forming a sticky film that helps dry coatings adhere just like an egg wash. It also imparts a gentle tang and can help tenderize the fish flesh.  
+
+Ratio and Preparation
+
+- Combine 240 mL (1 cup) whole milk with 15 mL (1 Tbsp) fresh lemon juice or vinegar.  
+- Stir briefly, then let the mixture sit at room temperature for 5–10 minutes.  
+- You’ll notice the milk develop tiny curds and a slightly thicker texture—this is what binds the crumbs.  
+
+Step-by-Step Application
+
+1. Pat fish fillets or pieces dry with paper towel to remove excess moisture.  
+2. Lightly dredge each piece in plain flour (or gluten-free flour) and shake off any surplus.  
+3. Dip the floured fish into the acidulated milk, ensuring all surfaces are coated.  
+4. Press the milk-coated fish firmly into your chosen crumb mixture (breadcrumbs, crushed nuts, oats, etc.).  
+5. Let the coated fish rest on a wire rack for 5 minutes to allow the coating to set before frying or baking.  
+
+Tips for Best Results
+
+- Keep the milk mixture cold: it firms up the coating and reduces splatter during cooking.  
+- For extra crispness, double-dip: after the first crumb layer, dunk again in milk then recoat.  
+- If you need more acidity, swap part of the lemon juice for yogurt or buttermilk.  
+- Any leftover acidulated milk can be repurposed as a marinade base or added to batters for extra tang.  
+
+This method mirrors traditional egg washes while offering a dairy-based, egg-free alternative that’s perfect for fish and a variety of crumb coatings.
+
