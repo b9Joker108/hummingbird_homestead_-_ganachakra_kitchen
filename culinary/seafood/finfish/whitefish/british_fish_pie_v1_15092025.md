@@ -442,3 +442,22 @@ Regional versions like Lancashire’s egg-rich simplicity, the Northeast’s lin
 
 Far from being a relic, Fish Pie stands as a dynamic standard-bearer for British food. As both tradition and innovation continue to shape its preparation, it promises enjoyment and community for future generations, uniting Britain’s distinct landscapes, histories, and tastes under the golden glow of an oven-baked, potato-crowned pie[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Fish_pie?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://rickstein.com/blog/rick-steins-cornwall-fish-pie-recipe/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.scotlands-enchanting-kingdom.com/traditional-scottish-fish-pie-recipe/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10").
 
+
+I just read in an article on British Fish Pie: "Traditionally, the pie would be made by combining it with spices, wine, sugar and rosewater." Please investigate!
+
+Here’s what the historical evidence shows about the claim that “traditional” fish pies were flavored with spices, wine, sugar, and rosewater:
+
+1. Popular Internet Sources  
+   A number of modern blogs (e.g. Regal Fish Supplies) repeat the idea that early British fish pies combined fish with spices, wine, sugar, and rosewater before enclosing them in pastry and baking. However, these posts don’t cite primary recipes or manuscripts—rather, they draw on general statements about medieval and early-modern European pie-making.
+
+2. Medieval and Renaissance Pie Traditions  
+   - Some actual medieval pie recipes—often for meat or fish—did blend sweet and savory ingredients.  As noted by Jenkins & Son, certain 14th–15th c. fish‐filled pies included rosewater, wine, and sugar alongside spices such as pepper and mace.  These were courtly or ecclesiastical dishes, quite different in form from today’s mashed-topped versions.  
+   - Contemporary pie cookbooks of that period (e.g. 15th c. English manuscripts) also feature spiced fillings with wine and sugar, reflecting broader European taste for “murer pies” and “sawge” sauces that balanced sweet and sour.
+
+3. Common Spices vs. Exotic Flavourings  
+   - Everyday “fisherman’s pies” eaten by working-class families or at sea (e.g. 18th–19th c.) typically used simple spices—black pepper, thyme, parsley—and relied on poached fish and a milk‐based sauce, without rosewater or sugar.  
+   - The shift to the modern fish pie (poached fish in parsley or cream sauce, potato mash topping) solidified in the 19th c., moving away from pastry cases and sweet perfumed elements.
+
+Conclusion  
+While richly flavoured, pastry-encased fish pies with wine, sugar, and rosewater did exist in medieval and early modern British cuisine, they represent a distinct tradition from the humble, mashed-topped fish pie that later became a national staple. The “spice-wine-sugar-rosewater” version survives more as a historical footnote and in luxury banquet contexts than in the everyday recipes we call fish pie today.
+
