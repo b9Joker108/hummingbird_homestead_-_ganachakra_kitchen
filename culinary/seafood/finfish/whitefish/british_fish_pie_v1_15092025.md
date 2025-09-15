@@ -461,3 +461,101 @@ Here’s what the historical evidence shows about the claim that “traditional�
 Conclusion  
 While richly flavoured, pastry-encased fish pies with wine, sugar, and rosewater did exist in medieval and early modern British cuisine, they represent a distinct tradition from the humble, mashed-topped fish pie that later became a national staple. The “spice-wine-sugar-rosewater” version survives more as a historical footnote and in luxury banquet contexts than in the everyday recipes we call fish pie today.
 
+Here’s a one-person adaptation of ATK’s Fisherman’s Pie, plus Melbourne-friendly swaps for the smoked-salmon component.
+
+---
+
+Single-Serve Fisherman’s Pie (≈1 individual portion)
+
+Yield & Equipment
+- Yield: 1 individual pie (250–300 mL, ~400 g cooked)  
+- Dish: 12 cm oven-proof ramekin or small gratin (250–300 mL)  
+- Oven: 190 °C conventional / 170 °C fan
+
+---
+
+Ingredients
+
+Potato Topping
+- 250 g Russet (or Sebago) potatoes, peeled & 1 cm-cubed  
+- ¾ tsp table salt (for boiling)  
+- 14 g unsalted butter (≈1 Tbsp), divided  
+- 20 mL heavy cream  
+- 1 large egg yolk  
+- Salt & white pepper, to taste  
+
+Filling
+- 80 g raw shrimp (16–20 count), peeled, deveined, halved  
+- ⅛ tsp table salt + pinch baking soda (optional)  
+- 30 g leek (white & light‐green), thinly sliced  
+- ¼ tsp fresh thyme leaves (or ⅛ tsp dried)  
+- 20 mL dry white wine (or dry vermouth)  
+- 1 Tbsp (10 g) plain flour  
+- 120 mL clam juice (or fish stock)  
+- 40 mL heavy cream  
+- Pinch black pepper  
+- 110 g skinless white fish fillet (cod/pollock) cut into 1 cm chunks  
+- ~30 g smoked fish substitute (see options below) cut into bite-sized pieces  
+- 1 tsp minced fresh parsley  
+- 1 tsp butter, melted (for drizzling)
+
+---
+
+Method
+
+1.  Make the mash  
+    - Boil potatoes in salted water until tender, 8–10 min.  
+    - Drain, return to pan, and dry-heat 1 min.  
+    - Off heat, mash with 10 g butter.  
+    - Whisk cream + yolk; stir into mash. Season lightly. Cover to keep warm.
+
+2.  Prep shrimp  
+    - Toss shrimp with ⅛ tsp salt and a pinch baking-soda. Chill until needed.
+
+3.  Build sauce  
+    - Melt 10 g butter in saucepan over medium-low.  
+    - Add leek + thyme; sweat 5–6 min.  
+    - Pour in wine; cook off 4–5 min.  
+    - Stir in flour; cook 1 min.  
+    - Gradually whisk in clam juice, then cream and pepper.  
+    - Simmer, stirring, until thickened (~8 min).
+
+4.  Finish filling  
+    - Add cod, smoked-fish pieces and shrimp to sauce.  
+    - Gently simmer, stirring, until shrimp turn opaque, ~4 min.  
+    - Stir in parsley. Adjust salt.
+
+5.  Assemble & bake  
+    - Spoon filling into ramekin.  
+    - Top with mash, sealing edges. Texture the top with fork.  
+    - Drizzle 1 tsp melted butter over mash.  
+    - Bake/broil 6–8 min until golden and bubbly. Rest 5 min.
+
+---
+
+Smoked-Fish Substitutes for Melbourne
+
+1.  Cold-smoked ocean trout (e.g. Woodbridge Smokehouse Tasmanian trout)  
+    – Milder smoke, readily available; ask fishmonger for “undyed” product.  
+
+2.  Natural smoked cod or haddock  
+    – Often sold in flaked tubs; rehydrate lightly in milk, then pat dry.  
+
+3.  Canned smoked salmon  
+    – Budget-friendly; drain, pat, and flake before use.  
+
+4.  Hot-smoked barramundi or blue-eye trevalla  
+    – Local varieties add regional character; adjust salt downward.  
+
+5.  Omit smoked fish entirely  
+    – Boost cod + shrimp by an extra 30 g; finish with lemon zest and extra parsley.  
+
+---
+
+Sourcing & Tips
+- Seek undyed cold-smoked fish (no turmeric dye) for authentic color/taste.  
+- For canned options, rinse gently to remove excess brine.  
+- Adjust added salt if your substitute is heavily cured or smoked.  
+
+Feel free to tweak protein ratios or swap in prawns/scallops for further variety. Enjoy your solo Fisherman’s Pie!
+
