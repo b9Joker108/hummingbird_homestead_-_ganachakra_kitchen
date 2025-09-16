@@ -1,7 +1,7 @@
 # Traditional French Pan-Roasted Chicken Legs with Creamy Dijon Velouté Sauce #
-# (French: Cuisses de poulet dorées, sauce veloutée à la moutarde et à l’estragon) #
+(French: Cuisses de poulet dorées, sauce veloutée à la moutarde et à l’estragon)
 
-
+https://youtu.be/6kyhqBs8MNY?si=yEu2dEWRpJ_ZN47h
 
 Every grandma in France knows this secret! This simple yet delicious chicken in white sauce recipe combines butter, lemon, white wine, Dijon mustard, and tarragon for a rich, aromatic flavor. Perfect for a cozy dinner or a special occasion, this easy recipe brings the taste of France straight to your kitchen. This is an easy chicken and gravy recipe to make at home!
 
