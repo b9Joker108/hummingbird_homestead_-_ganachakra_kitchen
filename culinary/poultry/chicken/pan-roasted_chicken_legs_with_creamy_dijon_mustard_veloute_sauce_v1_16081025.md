@@ -1,3 +1,112 @@
+---
+title: "Grandmother’s Chicken Legs with Mustard Velouté"
+alt_title_fr: "Cuisses de poulet dorées, sauce veloutée à la moutarde et à l’estragon"
+slug: "cuisses-poulet-moutarde-veloute"
+date: 2025-09-16
+author: "Beauford"
+region:
+  country: "France"
+language: "en"
+scripts: ["Latin"]
+project:
+  collection: "Solo Household Cookbook"
+  module: "French Home Classics"
+version: "1.0.0"
+license: "CC BY-NC-SA 4.0"
+
+taxonomy:
+  cuisine: "French"
+  dish_type: "Poultry dish"
+  course: "Main"
+  dietary_tags: ["Nut-free", "Egg-containing"]
+  allergens: ["Dairy", "Mustard"]
+  techniques: ["Searing", "Deglazing", "Roux", "Sauce velouté"]
+  occasions: ["Comfort dinner", "Weeknight", "Casual entertaining"]
+  provenance_tags: ["Cuisine bourgeoise", "Grandma’s kitchen"]
+
+summary: >
+  A comforting French home classic: pan-seared chicken legs with a golden crust,
+  bathed in a velvety mustard-flavored velouté enriched with white wine,
+  lemon, Dijon mustard, and tarragon. Simple enough for a beginner but
+  grounded in foundational French technique.
+
+serving:
+  yield: "2 servings"
+  ideal_side: "Steamed green vegetables or roasted potatoes"
+  serving_temp: "Hot (chicken core ≥ 75 °C)"
+
+equipment:
+  - "Heavy-bottomed skillet or sauté pan"
+  - "Whisk"
+  - "Tongs"
+  - "Measuring spoons and cups"
+
+scaling:
+  base_unit: "2 servings"
+  linear_scaling: true
+
+freezing_and_storage:
+  make_ahead: >
+    Sauce can be prepared up to 24 hours in advance and reheated gently.
+  leftovers: >
+    Store chicken and sauce separately for up to 2 days; reheat before serving.
+
+ingredient_ontology:
+  poultry:
+    default: ["Chicken legs (bone-in, skin-on)"]
+    alternatives: ["Chicken thighs", "Bone-in chicken breasts"]
+  dairy_and_fat:
+    butter: "Unsalted butter"
+    cream: "Heavy cream"
+  aromatics_and_acidity:
+    citrus: ["Lemon juice"]
+    herbs: ["Dry tarragon", "Fresh tarragon"]
+    spices: ["Black pepper"]
+  liquids:
+    wine: "Dry white wine"
+    stock: "Chicken broth"
+  thickener:
+    roux: "Butter and flour, equal weights"
+  seasoning:
+    mustard: "Dijon mustard"
+
+process_controls:
+  searing:
+    temperature: "Medium-high"
+    target_color: "Golden brown skin"
+    time: "4–5 minutes per side"
+  sauce_making:
+    roux_cook: "2–3 minutes"
+    deglaze: "75 ml white wine"
+    simmer: "6–8 minutes after adding stock"
+    finish: "Whisk in mustard and cream, adjust seasoning"
+  assembly:
+    plating: "Arrange chicken on plate, spoon sauce over, garnish with tarragon"
+
+sensory_targets:
+  - "Crisp, golden chicken skin"
+  - "Sauce coats the spoon and clings to chicken"
+  - "Balanced acidity from lemon and wine"
+  - "Aromatic lift from tarragon"
+
+nutrition_estimate_per_serving:
+  energy_kcal: 550–650
+  protein_g: 30–35
+  fat_g: 40–45
+  carbs_g: 8–12
+
+documentation:
+  style: "Metric-first, imperial in parentheses"
+
+tags:
+  - "French"
+  - "Chicken"
+  - "Mustard"
+  - "Velouté"
+  - "Grandma’s recipe"
+  - "Comfort food"
+---
+
 # Traditional French Pan-Roasted Chicken Legs with Creamy Dijon Velouté Sauce #
 (French: Cuisses de poulet dorées, sauce veloutée à la moutarde et à l’estragon)
 
