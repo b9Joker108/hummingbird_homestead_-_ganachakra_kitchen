@@ -1,4 +1,9 @@
+
+[![Chaddi Annam — YouTube thumbnail](https://img.youtube.com/vi/FmQgXtjyEBU/maxresdefault.jpg)](https://www.youtube.com/watch?v=FmQgXtjyEBU)
+
 # Chaddi Annam #
+
+
 
 Research Report Plan: Chaddi Annam (Fermented Rice) — Historicity, Linguistic Roots, and Traditional Practice
 
