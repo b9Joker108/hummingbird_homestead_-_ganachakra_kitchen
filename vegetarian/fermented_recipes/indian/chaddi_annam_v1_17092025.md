@@ -1,33 +1,72 @@
 ---
-title: "Chaddi Annam (Fermented Rice)"
-local_name:
-  te: "చద్ది అన్నం"
-transliteration:
-  iast: "Caddi annaṁ"
-description: "A traditional Telugu fermented rice dish prized for its cooling, probiotic qualities."
+title: "Chaddi Annam & Variants (Fermented Grain Dishes)"
+description: "Traditional Telugu fermented grain dishes using rice and various millets, prized for their cooling, probiotic qualities."
 layout: recipe
 cuisine: "Telugu"
 servings: 2
-prep_time: "5 mins"
-cook_time: "20 mins"
-fermentation_time: "8–12 hours"
-total_time: "8–12 hours 25 mins"
-video:
-  id: "FmQgXtjyEBU"
-  url: "https://youtu.be/FmQgXtjyEBU"
-thumbnail: "https://img.youtube.com/vi/FmQgXtjyEBU/maxresdefault.jpg"
-ingredients:
-  - name:
+variants:
+  - name: "Cooked Rice"
+    local_name:
+      te: "చద్ది అన్నం"
+      iast: "Caddi annaṁ"
+    base_grain:
       en: "Cooked rice"
       te: "బియ్యం"
       iast: "bīyyaṁ"
     quantity: "1 cup"
     note: "Preferably aged short-grain rice (sanna biyyam)"
+    prep_time: "5 mins"
+    cook_time: "20 mins"
+    fermentation_time: "8–12 hours"
+    total_time: "8–12 hours 25 mins"
+  - name: "Foxtail Millet"
+    local_name:
+      te: "కొర్రలు చద్ది అన్నం"
+      iast: "Korralu caddi annaṁ"
+    base_grain:
+      en: "Foxtail millet (korralu)"
+      te: "కొర్రలు"
+      iast: "korralu"
+    quantity: "1 cup"
+    note: "Cook until tender before fermenting"
+    prep_time: "10 mins"
+    cook_time: "25 mins"
+    fermentation_time: "10–14 hours"
+    total_time: "10–14 hours 35 mins"
+  - name: "Finger Millet"
+    local_name:
+      te: "రాగి చద్ది అన్నం"
+      iast: "Rāgi caddi annaṁ"
+    base_grain:
+      en: "Finger millet (ragi)"
+      te: "రాగి"
+      iast: "rāgi"
+    quantity: "1 cup"
+    note: "Rinse and cook until tender"
+    prep_time: "10 mins"
+    cook_time: "25 mins"
+    fermentation_time: "10–14 hours"
+    total_time: "10–14 hours 35 mins"
+  - name: "Barnyard Millet"
+    local_name:
+      te: "శంభరా చద్ది అన్నం"
+      iast: "Śambharā caddi annaṁ"
+    base_grain:
+      en: "Barnyard millet (sanwa)"
+      te: "శంభరా"
+      iast: "śambharā"
+    quantity: "1 cup"
+    note: "Soak and cook until tender"
+    prep_time: "10 mins"
+    cook_time: "20 mins"
+    fermentation_time: "8–12 hours"
+    total_time: "8–12 hours 30 mins"
+common_ingredients:
   - name:
       en: "Water"
       te: "నీరు"
       iast: "nīru"
-    quantity: "As needed to cover rice"
+    quantity: "To cover base grain"
   - name:
       en: "Salt"
       te: "ఉప్పు"
@@ -56,13 +95,17 @@ ingredients:
 utensils:
   - "మట్టి కుండ (Matti kuṇḍa) — Terracotta pot"
   - "కాదు గిన్నె (Kāḍu ginna) — Wide-mouthed bowl"
-  - "చెట్టు కాటి (Cheṭṭu kāṭి) — Wooden ladle"
+  - "చెట్టు కాటి (Cheṭṭu kāṭi) — Wooden ladle"
+video:
+  id: "FmQgXtjyEBU"
+  url: "https://youtu.be/FmQgXtjyEBU"
+thumbnail: "https://img.youtube.com/vi/FmQgXtjyEBU/maxresdefault.jpg"
 tags:
-  - "fermented rice"
+  - "fermented grains"
   - "Telugu cuisine"
   - "Chaddi Annam"
+  - "millet"
   - "probiotic foods"
-  - "traditional recipes"
 ---
 
 
