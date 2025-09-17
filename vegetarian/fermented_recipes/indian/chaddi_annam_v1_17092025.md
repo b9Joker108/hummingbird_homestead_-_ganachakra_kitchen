@@ -1,3 +1,70 @@
+---
+title: "Chaddi Annam (Fermented Rice)"
+local_name:
+  te: "చద్ది అన్నం"
+transliteration:
+  iast: "Caddi annaṁ"
+description: "A traditional Telugu fermented rice dish prized for its cooling, probiotic qualities."
+layout: recipe
+cuisine: "Telugu"
+servings: 2
+prep_time: "5 mins"
+cook_time: "20 mins"
+fermentation_time: "8–12 hours"
+total_time: "8–12 hours 25 mins"
+video:
+  id: "FmQgXtjyEBU"
+  url: "https://youtu.be/FmQgXtjyEBU"
+thumbnail: "https://img.youtube.com/vi/FmQgXtjyEBU/maxresdefault.jpg"
+ingredients:
+  - name:
+      en: "Cooked rice"
+      te: "బియ్యం"
+      iast: "bīyyaṁ"
+    quantity: "1 cup"
+    note: "Preferably aged short-grain rice (sanna biyyam)"
+  - name:
+      en: "Water"
+      te: "నీరు"
+      iast: "nīru"
+    quantity: "As needed to cover rice"
+  - name:
+      en: "Salt"
+      te: "ఉప్పు"
+      iast: "uppu"
+    quantity: "To taste"
+  - name:
+      en: "Onion (optional)"
+      te: "ఉల్లి"
+      iast: "ulli"
+    quantity: "1 small, finely chopped"
+  - name:
+      en: "Green chili (optional)"
+      te: "పచ్చ మిరపకాయ"
+      iast: "pacca mirapakāya"
+    quantity: "1, sliced"
+  - name:
+      en: "Curd (optional)"
+      te: "పెరుగు"
+      iast: "perugu"
+    quantity: "2 tbsp"
+  - name:
+      en: "Pickle (optional)"
+      te: "ఊరగాయ"
+      iast: "ūra gāya"
+    quantity: "1 tsp"
+utensils:
+  - "మట్టి కుండ (Matti kuṇḍa) — Terracotta pot"
+  - "కాదు గిన్నె (Kāḍu ginna) — Wide-mouthed bowl"
+  - "చెట్టు కాటి (Cheṭṭu kāṭి) — Wooden ladle"
+tags:
+  - "fermented rice"
+  - "Telugu cuisine"
+  - "Chaddi Annam"
+  - "probiotic foods"
+  - "traditional recipes"
+---
+
 
 [![Chaddi Annam — YouTube thumbnail](https://img.youtube.com/vi/FmQgXtjyEBU/maxresdefault.jpg)](https://www.youtube.com/watch?v=FmQgXtjyEBU)
 
