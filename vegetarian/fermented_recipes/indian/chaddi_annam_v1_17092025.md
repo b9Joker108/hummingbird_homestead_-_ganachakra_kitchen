@@ -237,3 +237,26 @@ Future research may include:
 
 Would you like this expanded into a YAML knowledge graph or a multilingual glossary next?
 
+I noticed in another YouTube video that the making of Kafir (fermented milk) without a Kafir-grain starter, can be done with the use onions or green chillis! So, in this, not only the yoghurt is leading to fermentation, but so too, is the onion and green chilli!
+
+Onion and green chili aren’t just flavor boosters—they can actually seed and accelerate your fermentation. Here’s why and how they work:
+
+1. Epiphytic Microbial Inoculum  
+   - The skins of onions and chilies harbor lactic acid bacteria (Lactobacillus, Pediococcus) and wild yeasts that cling to their surface.  
+   - When you chop or crush them into your ferment, you introduce that native microflora alongside whatever culture (yoghurt, whey) you’re using.  
+
+2. Enzymatic and Prebiotic Support  
+   - Onions contain inulin and fructooligosaccharides—prebiotics that feed lactic acid bacteria, helping them multiply more vigorously.  
+   - Chili peppers contribute capsaicinoids and vitamin C, which can modulate pH and select for acid-tolerant microbes.  
+
+3. Flavor-Fermentation Synergy  
+   - As the lactobacilli go to work, they produce lactic acid that tames the sharp bite of raw onion and chili, creating a balanced tang.  
+   - The heat compounds in chili also help inhibit unwanted spoilage organisms, giving your ferment a safer, more predictable profile.  
+
+4. Practical Tips for Your Chaddi Annam or Kafir-Style Ferment  
+   - Lightly crush one small onion segment and one green chili; stir them into your base (rice/millet soak or milk).  
+   - Cover and ferment at room temperature; you may find your ferment finishes 1–2 hours faster or develops a deeper, more complex aroma.  
+   - Taste at the midway point to gauge acidity and adjust future quantities of onion/chili to suit your palate.  
+
+Would you like to update your recipe front-matter or method notes to spotlight this onion + chili inoculation technique?
+
