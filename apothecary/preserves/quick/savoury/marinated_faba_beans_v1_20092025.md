@@ -1,6 +1,8 @@
 
 # Marinated Faba Beans with Rosemary and Garlic #
 
+Recipe adapted and inspired by 'The Hint of Rosemary \[website]'.
+
 ### Equipment
 - Sauce pan
 - 24 oz mason jar
@@ -43,3 +45,6 @@
 - Servings: 4
 - Total Time: 45 minutes
 
+# References #
+
+* The Hint of Rosemary (2025, 2020). 'Rosemary Garlic Marinated Fava Beans'. Source: https://thehintofrosemary.com/rosemary-marinated-fava-beans/ (accessed: Saturday, September 20, 2025)
