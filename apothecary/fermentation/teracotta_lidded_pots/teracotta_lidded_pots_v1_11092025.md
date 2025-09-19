@@ -423,3 +423,53 @@ Citations:
 [12] 400g Food Grade Calcium Hydroxide Powder - FCC ... https://tanstella.com.au/products/400g-food-grade-calcium-hydroxide-powder-fcc-hydrated-slaked-pickling-lime-129909
 [13] calcium hydroxide powder food grade hydrated slaked ... https://nationalplantsupplies.com.au/products/calcium-hydroxide-powder-food-grade-hydrated-slaked-pickling-lime-premium-grade
 
+
+
+**I have two 1.5 litre food grade teracotta 'curd pots' from India, I purchased them for short micro-batch fermenting of grains and pulses, etc., rather than yoghurt, as for yoghurt I have a machine?**
+
+Yes, food grade terracotta curd pots from India are generally suitable for micro-batch fermenting of grains and pulses, provided a few guidelines are observed. These pots are traditionally used for curd (yogurt) fermentation precisely because their porous structure encourages a healthy microbial environment and slow, steady fermentation, and they are valued for being free of industrial toxins if properly sourced and manufactured[1][2][3][4].
+
+### Food Safety and Suitability
+
+- **Food-safe Certification:** Genuine Indian terracotta curd pots—when explicitly labeled food-safe and free from chemical additives, glazes, or heavy metal contamination—are well suited for acidic and fermentative applications[3][4][5].
+- **Cleaning and Care:** They must be kept scrupulously clean since the porous surface can harbor residual microorganisms. Traditional cleaning often involves scrubbing with water (sometimes with ash), but using a brush and mild detergent, drying thoroughly, and occasional deep cleaning is advisable[6][7].
+- **Single-use Recommendation:** Many sources (including Indian manufacturers) recommend, if possible, dedicating each terracotta vessel to one type of ferment (curd, legumes, or grains) to avoid cross-contamination and persistent flavor carryover, as terracotta can absorb and retain odors and flavors[7].
+- **Porosity Benefits and Drawbacks:** The same porosity that aids slow fermentation also means the pots can lose moisture to evaporation over time, which is generally beneficial for curds but may require closer monitoring of liquid levels in long ferments of grains or pulses. For micro-batches and quick (1–2 week) ferments, this is usually manageable[8][9].
+
+### Limitations and Best Practices
+
+- **No Glazes or Additives:** Ensure there are no lead-containing glazes or industrial colorants present. If unsure, use only with short ferments where acidic conditions are mild. Most food-grade Indian curd pots are unglazed and safe, but artisanal or decorative pots are sometimes not intended for food[10][11][6].
+- **Pulse/Grain Fermentations:** For short, micro-batch fermentation of beans, lentils, or grains, terracotta pots are widely used in traditional Indian kitchens (e.g., for idli/dosa batter, fermented millet, or kulcha). The key is to monitor for spoilage aromas or atypical mold, especially if the ambient temperature is erratic or the ferment exceeds a few days[8].
+- **Acidic Ferments:** For sourdoughs or strongly acidic ferments, glass, high-fired ceramic, or stainless vessels are sometimes preferred for repeated use, but food-grade terracotta is still considered appropriate for most home applications[8][9].
+
+### Summary Table
+
+| Use Case           | Food Grade Terracotta Pot | Additional Notes                                    |
+|--------------------|--------------------------|-----------------------------------------------------|
+| Curd (Yogurt)      | Safe, traditional        | Excellent moisture and temp regulation[1][2] |
+| Pulses/Grain Ferment | Safe for short batches   | Clean well, monitor moisture/pH[8][9]         |
+| Long, acidic ferment | Use with caution         | Potential for off-odors; glass sometimes preferred    |
+| Cross-use with strong flavors | Not advised         | Clay retains and transmits flavors/odors[7]        |
+
+These pots are a solid, traditional choice for fermenting pulses or grains in small quantities, just ensure they are properly cared for, food-safe, and ideally dedicated to a single type of ferment[3][7][6].
+
+Citations:
+[1] Making Curd in Terracotta: A Healthy Tradition https://www.greatandhra.com/articles/news/making-curd-in-terracotta-a-healthy-tradition-140638
+[2] How terracotta curd setters are taking over the market https://www.ellementry.com/blogs/news/how-terracotta-curd-setters-are-taking-over-the-market
+[3] Buy Terracotta Curd Setter/Pots to Set Pure and Thick Curd https://www.ellementry.com/collections/curd-setter
+[4] Earthen Terracotta Curd Setting Pot - Anuna https://anuna.com/home-and-living/kitchen-and-dinning/crockery/curd-setter-designer-1-curd-setter-with-lid/
+[5] How to make food-safe terracotta - wood Fire Ceramic https://www.woodfireceramic.com/how-to-make-food-safe-low-fired-clay/
+[6] Is unglazed terracotta (1150*c) safe for making yogurt or ... https://www.reddit.com/r/Ceramics/comments/18v1vmo/is_unglazed_terracotta_1150c_safe_for_making/
+[7] Benefits of Using Clay Curd Pot https://villagedecor.in/blogs/blog/benefits-of-using-clay-curd-pot
+[8] Fermentation in ceramic vessels — SFIG https://www.sfig.dk/index/fermentation-in-ceramic-vessels
+[9] Inside and Out: Vessels for Fermentation https://www.myfermentation.com/non-alcoholic/inside-and-out-vessels-for-fermentation-zm0z19fzwoo/
+[10] Clay Pots and Food Safety: What to Know - FoodManifest https://foodmanifest.com/clay-pots-and-food-safety-what-to-know/
+[11] What types of materials/ceramic are safe/optimal for ... https://www.reddit.com/r/fermentation/comments/286iig/what_types_of_materialsceramic_are_safeoptimal/
+[12] Plant pots, planters, and baskets - are they all safe for ... https://www.workshop.bunnings.com.au/t5/Garden/Plant-pots-planters-and-baskets-are-they-all-safe-for-edible/td-p/177174
+[13] Benefits of using Earthen cookware | Clay pots https://craftsmanindiaonline.com/blogs/news/benefits-of-using-earthen-cookware-clay-pots-terracotta-cookware
+[14] This Happened When I Tried Clay Cookware https://ireadlabelsforyou.com/clay-cookware-safe-or-toxic/
+[15] Safety of Fermented Foods https://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/EH/FPS/Food/Fermented/Fermented_Foods_Guidance-3.1_Fermented_Vegetables.pdf
+[16] Can I Use Plastic? Silicone? Stainless Steel? for ... https://www.makesauerkraut.com/fermentation-materials/
+[17] Non-Toxic Cooking & Care Instructions https://miriamsearthencookware.com/how-to-clay-pot-cooking/
+
+
