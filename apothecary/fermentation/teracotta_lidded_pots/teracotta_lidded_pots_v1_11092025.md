@@ -473,3 +473,55 @@ Citations:
 [17] Non-Toxic Cooking & Care Instructions https://miriamsearthencookware.com/how-to-clay-pot-cooking/
 
 
+As I am using them only for grains and pulses and only have two, I didn't plan on having them for separate uses. I am using pickling lime to clean them.
+
+Using food-grade pickling lime (calcium hydroxide) to clean terracotta fermentation pots is considered **safe** provided it is thoroughly rinsed away after application. Pickling lime is approved for certain food uses—such as preparing nixtamalized corn or crisping vegetables before pickling—but it is no longer recommended for actual canning or pickling, as any residual lime can neutralize acidity and compromise fermentation safety[1][2][3].
+
+### Cleaning Effectiveness
+
+- **Alkaline Cleaning Action:** Pickling lime is highly alkaline and effective at breaking down fatty residues, removing molds, and eliminating most organics from porous terracotta surfaces[2].  
+- **Traditional Uses:** Food-grade lime is used extensively in many food cultures, including Indian kitchens (e.g., for cleaning curd pots, prepping seeds), but only in moderation and always with careful rinsing[4][3].
+
+### Best Practices & Cautions
+
+- **Thorough Rinsing Is Essential:** All traces of pickling lime must be washed off—ideally with several changes of water—to prevent any lingering alkalinity in the pot that could negatively affect ferment pH or leave caustic residues[1][2].
+- **Sun-drying Enhances Cleanliness:** Dry pots in direct sun after lime treatment to further reduce residual microbes and ensure full evaporation of cleaning solution[5].  
+- **Alternatives:** Vinegar or baking soda are also used for cleaning terracotta, and are gentler on clay; vinegar is especially effective against mineral deposits and biological residues[5][6][7].
+
+### Using One Pot for Mixed Ferments
+
+- **Shared Use Is Acceptable:** Using the same food-grade terracotta pot for fermenting different grains and pulses is common, particularly for short-batch and single-person workflows.  
+- **Odors and Flavors:** The pot may retain subtle flavors or aromas over time, but regular alkaline cleaning (with lime or baking soda) and sun-drying largely mitigates this risk for most grains and pulses[8].
+- **No Unique Safety Issue:** There is no inherent safety problem with using one pot for mixed ferments if cleaned effectively and not used for high-risk ingredients or very long ferments.
+
+### Recommendations
+
+- Continue using pickling lime for cleaning, but rinse with abundant water after each treatment.
+- Occasionally alternate with a vinegar soak to remove mineral buildup and balance the alkaline nature of lime[5][7].
+- Dry thoroughly before use, and inspect for odors or residue before starting new ferments.
+
+This procedure should keep your pots safe and effective for regular micro-batch work with grains and pulses[2][4][3].
+
+Citations:
+[1] Pickling Lime for Home Canning https://www.thespruceeats.com/what-is-pickling-lime-what-s-a-safer-substitute-1389134
+[2] Calcium Hydroxide in Food: Pickling and Other Uses, Plus ... https://www.healthline.com/health/calcium-hydroxide
+[3] Nixtamal: Food-Grade Pickling Lime Vs. Builder's ... https://www.reddit.com/r/mexicanfood/comments/1g6kzbh/nixtamal_foodgrade_pickling_lime_vs_builders_lime/
+[4] Water Glassing Eggs for Long-Term Storage - Backyard Poultry https://backyardpoultry.iamcountryside.com/eggs-meat/water-glassing-eggs-for-long-term-storage/
+[5] How to Clean Terracotta Pots the Right Way https://bloomist.com/blogs/journal/how-to-clean-terracotta-pots-the-right-way
+[6] How to clean white stains and algae from terracotta clay pots https://www.youtube.com/watch?v=s6Al5zDpDwc
+[7] How to Clean Terra-Cotta Pots https://www.bhg.com/how-to-clean-terra-cotta-pots-7498661
+[8] How to Take Care of Clay Cooking Pots for an Exquisite ... https://www.crystaliausa.com/blogs/blog/how-to-take-care-of-clay-cooking-pots-for-an-exquisite-cooking-experience
+[9] Two boil pots on stove for first 5 gallon batch? https://www.reddit.com/r/Homebrewing/comments/7svvg9/two_boil_pots_on_stove_for_first_5_gallon_batch/
+[10] Cleaning Clay Pots https://staugorchidsociety.org/PDF/CleaningClayPotsbySueBottom.pdf
+[11] How to Ferment Chicken Feed For Healthier Hens and Eggs https://homesteadandchill.com/fermented-chicken-feed/
+[12] How to clean fermentation crock? https://www.reddit.com/r/fermentation/comments/d28fv5/how_to_clean_fermentation_crock/
+[13] How to clean clay pots http://www.orchidboard.com/community/potting-and-repotting/79847-clean-clay-pots.html
+[14] Fermenting Chicken Feed: A Straightforward Method https://www.backyardchickens.com/articles/fermenting-chicken-feed-a-straightforward-method.75967/
+[15] How to clean terracotta pots from limestone https://www.youtube.com/watch?v=chi6URVNjf8
+[16] Fermented Grains: The Perpetual Soured Porridge Pot https://www.nourishingdays.com/2012/01/fermented-grains-the-perpetual-soured-porridge-pot/
+[17] Dyeing – Garden Lime vs. Pickling Lime? https://www.walterreeves.com/landscaping/dyeing-garden-lime-vs-pickling-lime/
+[18] How To: Using a Ceramic Fermentation Pot https://villagepotterycompany.com.au/blogs/the-village-blog/how-to-use-a-village-pottery-ceramic-fermentation-pot
+[19] fermentation Archives https://agardenerstable.com/tag/fermentation/
+[20] Fermentation Weights: Keep Your Ferment Below the Brine https://www.makesauerkraut.com/fermentation-weights/
+
+
