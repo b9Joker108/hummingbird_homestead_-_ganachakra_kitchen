@@ -6,7 +6,7 @@ Yes — that’s the traditional rhythm of ful medames in its classic Egyptian f
 
 ⏳ Traditional workflow (pre-industrial, Cairo-style)
 
-1. Dried whole [faba beans](https://github.com/b9Joker108/hummingbird_homestead/blob/main/apothecary/pantry/pulses/beans/faba_fava_broadbean_v1_20092025.md) (often horse beans, small and sturdy) were:
+1. Dried whole [faba beans](/blob/main/apothecary/pantry/pulses/beans/faba_fava_broadbean_v1_20092025.md) (often horse beans, small and sturdy) were:
    - Soaked overnight to soften and begin hydration.
    - Unpeeled — skins left on, partly for structure and partly due to labor/time constraints.
 
