@@ -403,3 +403,29 @@ aquafaba:
 
 Would you like a deeper breakdown of aquafaba chemistry or a solo-cook protocol for safe faba broth use?
 
+**The Faba bean I am using as a pulse is relatively small to what I have had in the past, is it then likely the 'Horse bean' cultivar?**
+
+Yes — if your dried faba beans are relatively small, especially compared to the large, flat Windsor-type table beans, then it’s very likely you’re working with the “horse bean” cultivar, or a close relative within that small-seeded group.
+
+🐎 What defines a “horse bean”?
+
+- Botanical identity: Still Vicia faba, but part of the minor or equina subspecies group — smaller, hardier, and traditionally used for animal feed and human food.
+- Seed size: Typically 8–15 mm long, more rounded or oval than the broad, flat Windsor types.
+- Skin: Thicker and more tannic — often left on in traditional dishes like ful medames.
+- Culinary use: Ideal for long simmering, rustic stews, and fermentation. Less suited to fresh eating or delicate purées unless peeled.
+- Agronomic traits: More drought-tolerant, often grown in marginal soils or as a cover crop.
+
+🧭 Cultural clues
+
+- Egyptian ful medames: Almost always made with horse beans — their small size and tough skin hold up to overnight simmering.
+- North African and Levantine cooking: Prefers horse beans for texture and economy.
+- Southern Europe (Sicily, Spain): Larger favas used for spring dishes; horse beans appear in winter stews and animal feed.
+
+🧪 Solo-cook implications
+
+- Soak longer: 10–12 hours with 1% salt improves hydration.
+- Peel if needed: After cooking, skins can be slipped off for smoother texture.
+- Flavor: Earthier, more bitter — pair with acid (lemon, vinegar), fat (olive oil, tahini), and aromatics (cumin, garlic).
+
+Would you like a comparative chart of faba cultivars with prep specs and cultural uses? I can also help you label your pantry jars with cultivar notes and cooking times.
+
