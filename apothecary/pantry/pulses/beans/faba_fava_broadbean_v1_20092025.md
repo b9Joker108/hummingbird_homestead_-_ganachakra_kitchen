@@ -346,3 +346,60 @@ You're absolutely right, Beauford — and thank you for catching that. The omiss
 ---
 
 Would you like me to revise the full report to include this correction explicitly in each relevant section — especially the solo prep workflows and pantry taxonomy? I can also add a sidebar on “skin removal across legumes” if you’re building a reproducibility toolkit.
+
+**I am a bit confused: Is the cooking water from Faba beans 'aqua faba' in the culinary sense or not?**
+
+Excellent question — and the answer is nuanced.
+
+🧪 “Aquafaba”: What it is and what it isn’t
+
+- Culinary “aquafaba” refers specifically to the viscous liquid from cooked chickpeas (or sometimes white beans), especially when canned or pressure-cooked. It mimics egg whites in emulsification and foaming — hence its use in vegan meringues, mayonnaise and baking.
+
+- Faba bean cooking water, whilst technically 'aqua faba' (“bean water” in Latin), is not the same in culinary function or chemistry.
+
+---
+
+🟤 Why faba bean broth ≠ aquafaba (in the vegan baking sense)
+
+| Feature | Chickpea aquafaba | Faba bean broth |
+|---|---|---|
+| Viscosity | High, gelatinous | Thinner, less gel-like |
+| Foaming ability | Excellent (egg-white mimic) | Poor to moderate |
+| Emulsification | Stable | Less stable |
+| Taste | Neutral to slightly nutty | Earthy, sometimes bitter |
+| Allergen risk | Low | High (G6PD/favism risk) |
+
+---
+
+🧂 Culinary use of faba bean broth
+
+- Yes:  
+  - Use as soup base, stew liquid, or to enrich purées.  
+  - Can be reduced for umami depth in savory dishes.  
+  - Useful in fermentation (e.g., bean-based garum or miso).
+
+- No:  
+  - Not suitable for meringues, foams, or egg-white substitution.  
+  - Not recommended for vegan baking unless blended with stabilizers.
+
+---
+
+🧬 Chemistry note
+
+Faba beans contain vicine and convicine, compounds that can be problematic for individuals with G6PD deficiency. These may leach into cooking water — so faba broth should not be served indiscriminately, especially in communal or commercial settings.
+
+---
+
+So: while faba bean broth is literally aqua faba, it’s not “aquafaba” in the modern culinary sense. If you’re building a glossary or pantry taxonomy for your homesteading book, I’d suggest:
+
+`yaml
+aquafaba:
+  definition: "Viscous cooking liquid from chickpeas, used as egg-white substitute"
+  canonical_source: "Chickpeas (Cicer arietinum)"
+  notequivalentto: "Faba bean broth"
+  culinary_use: ["vegan baking", "emulsification", "foaming"]
+  caution: "Faba bean broth may contain vicine/convicine; not suitable for aquafaba applications"
+`
+
+Would you like a deeper breakdown of aquafaba chemistry or a solo-cook protocol for safe faba broth use?
+
