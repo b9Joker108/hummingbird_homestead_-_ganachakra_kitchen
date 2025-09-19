@@ -1,5 +1,5 @@
 
-# Marinated Fava Beans with Rosemary and Garlic #
+# Marinated Faba Beans with Rosemary and Garlic #
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
 ### Ingredients
-- 1 cup dried fava beans
+- 1 cup dried faba beans (broadbeans)
 - 2-2.5 cups filtered water
 - 3 cloves garlic, smashed
 - 1 tsp dried rosemary
