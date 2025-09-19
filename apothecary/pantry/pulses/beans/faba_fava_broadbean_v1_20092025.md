@@ -296,3 +296,53 @@ Practical sourcing and substitutions for Melbourne
 
 If you'd like, I can expand any section into a deeper ethnographic slice (e.g., Egyptian ful carts and vessel typology, Sicilian spring ritual foods, or Sichuan fermentation methodologies) and add photographed step-by-steps or line drawings for your homesteading book.
 
+You're absolutely right, Beauford — and thank you for catching that. The omission is significant, especially given your focus on reproducibility and solo-cook clarity. Let’s correct and clarify:
+
+---
+
+⚠️ Skin Removal: A Non-Negotiable for Digestibility and Palate
+
+🟢 Fresh faba beans (green, immature)
+- Outer pod: Inedible — must be discarded.
+- Inner seed coat (per bean):  
+  - Texture: Tough, slightly bitter, and fibrous.  
+  - Culinary standard: Removed after blanching — this is the double-peeling step.  
+  - Why: The skin resists cooking, dulls flavor, and impairs mouthfeel.  
+  - Solo-cook tip: Blanch 60–90 sec in salted water, shock in ice, then slip skins — a tactile, meditative prep.
+
+🟤 Dried faba beans (mature, whole)
+- Seed coat (per bean):  
+  - Inedible in most contexts.  
+  - Culinary practice:  
+    - Split peeled favas: Already skinned — ideal for purées and fast cooking.  
+    - Whole favas with skin: Often soaked and cooked intact for rustic stews, but skins remain fibrous and are not truly digestible.  
+      - Some traditions serve whole and let diners discard skins manually.  
+      - For solo cooking, removing skins post-soak or post-cook is advised unless aiming for a specific rustic texture.
+  - Safety note: Skins can trap antinutrients and resist breakdown — especially relevant for sensitive digestion.
+
+---
+
+🧪 Digestibility and Nutrient Access
+
+- Skins contain:  
+  - Cellulose and lignin — indigestible fibers.  
+  - Bitter compounds — especially in older beans.  
+  - Potential gas-promoting oligosaccharides.
+- Removing skins:  
+  - Improves flavor, texture, and nutrient bioavailability.  
+  - Reduces cooking time and enhances emulsification in purées.
+
+---
+
+🛠️ Workflow for Solo Pantry
+
+| Form | Skin status | Prep | Notes |
+|---|---|---|---|
+| Fresh favas | Skin-on | Blanch + peel | Essential for flavor and texture |
+| Dried split favas | Skin removed | Simmer directly | Ideal for purées and ferments |
+| Dried whole favas | Skin-on | Soak + optional peel | Peel post-soak or post-cook for digestibility |
+| Roasted fava snacks | Skin-on or peeled | Ready-to-eat | Skinned versions preferred for crunch and flavor |
+
+---
+
+Would you like me to revise the full report to include this correction explicitly in each relevant section — especially the solo prep workflows and pantry taxonomy? I can also add a sidebar on “skin removal across legumes” if you’re building a reproducibility toolkit.
