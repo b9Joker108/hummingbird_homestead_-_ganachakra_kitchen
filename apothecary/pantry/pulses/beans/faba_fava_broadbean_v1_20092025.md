@@ -429,3 +429,59 @@ Yes — if your dried faba beans are relatively small, especially compared to th
 
 Would you like a comparative chart of faba cultivars with prep specs and cultural uses? I can also help you label your pantry jars with cultivar notes and cooking times.
 
+**But, if they have bean soaked overnight, then slowcooked overnight, does the skin become of value for the gut and microbiome? Studies?**
+
+Yes — the skin of faba beans, especially when soaked and slow-cooked, can offer microbiome-supportive value, though with caveats. Here's what the research suggests:
+
+---
+
+🧬 Faba Bean Skins: Microbiome and Digestive Value
+
+✅ Nutritional composition
+- High in insoluble fiber: The seed coat accounts for 11–15% of the dry seed weight, and is rich in cellulose, hemicellulose, and lignin.
+- Polyphenols and tannins: Present in the skin — these compounds have antioxidant and antimicrobial properties, but can also contribute bitterness and reduce digestibility if not properly processed.
+- Prebiotic potential: Some studies suggest that fermentation of faba bean flour, including hulls, enhances protein digestibility and increases free amino acids — indicating microbial activity and gut-accessible nutrients.
+
+🧫 Microbiome interaction
+- Fermentation studies: Lactic acid bacteria (LAB) isolated from fermented faba bean sourdoughs (including hulls) show promising probiotic traits — including antioxidant and antimicrobial activity.
+- Fiber fermentation: Insoluble fibers from the skin may not be fully digestible by human enzymes, but can be fermented by colonic bacteria, contributing to short-chain fatty acid (SCFA) production — a key marker of gut health.
+- LAB consortia: Pediococcus, Leuconostoc, and Weissella species thrive in faba bean fermentations, suggesting compatibility with gut flora development.
+
+---
+
+⚠️ Caveats for solo cooks
+
+- Digestibility varies: While slow cooking softens skins, they may still resist breakdown — especially in whole horse beans. For sensitive guts, peeling remains advisable.
+- Antinutrients: Vicine and convicine (linked to favism) are present in the skin and cotyledon. Soaking and cooking reduce them, but fermentation is more effective.
+- Flavor and texture: Skins can dull flavor and add fibrous texture — not ideal for purées or delicate dishes.
+
+---
+
+🧪 Summary of findings
+
+| Trait | Faba Bean Skin | Gut/Microbiome Impact |
+|---|---|---|
+| Insoluble fiber | High | Supports microbial fermentation in colon |
+| Polyphenols | Present | Antioxidant, antimicrobial, prebiotic potential |
+| Digestibility | Low raw; moderate cooked | Improves with soaking, cooking, fermentation |
+| Fermentation compatibility | High | LAB strains thrive; SCFA production possible |
+| Antinutrients | Present | Reduced by soaking, cooking, fermenting |
+
+Sources: 
+
+---
+
+🏺 Practical advice for your apothecary kitchen
+
+- If cooking whole horse beans:  
+  - Soak 12 h with 1% salt.  
+  - Simmer 6–8 h or pressure cook 1.5–2 h.  
+  - Skins may soften enough to retain — especially if aiming for rustic texture and fiber intake.
+
+- If fermenting:  
+  - Include skins in mash for microbial diversity.  
+  - Use LAB-rich starters or backslopping from previous ferments.  
+  - Monitor for bitterness and adjust salt/acidity.
+
+Would you like a fermentation protocol that includes faba skins for microbiome support, or a comparative chart of legume skins and their gut-health profiles
+
