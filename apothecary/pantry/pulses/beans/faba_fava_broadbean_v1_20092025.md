@@ -3,6 +3,23 @@
 
 # Faba Bean or Broadbean #
 
+'Faba' in Latin originally referred specifically to the faba bean (Vicia faba), which was the dominant cultivated legume in the Roman world. Over time, the term became a kind of generic marker for “bean”, but its root meaning was always anchored in that particular species.
+
+Here's how it breaks down:
+
+- Classical Latin: faba = the faba bean, not just any bean. It was the staple legume of Roman agriculture and cuisine — used in porridges, stews, and ritual offerings.
+- No Phaseolus yet: The common beans we now call kidney, black, pinto, etc. (genus Phaseolus) are New World legumes. Romans didn’t know them. So faba had no competition as “the bean.”
+- Semantic expansion: As other legumes entered European diets post-Columbian exchange, faba and its Romance descendants (e.g., Italian fava, French fève, Spanish haba) sometimes broadened to mean “bean” more generally — but often still retained a specific association with the original faba bean.
+
+Linguistic ripple effect:
+
+- Italian: fava still means faba bean specifically, though fagiolo is used for Phaseolus beans.
+- French: fève can mean faba bean or refer to symbolic beans (e.g., fève des rois in galette).
+- Spanish: haba = faba bean; frijol or judía = Phaseolus types.
+- Portuguese: fava = faba bean; feijão = Phaseolus.
+
+So yes — faba was first applied to the actual faba bean, and only later did its descendants stretch semantically to cover other legumes. It's a beautiful case of linguistic anchoring to agricultural reality. Want me to trace how faba shows up in medieval Latin texts or early botanical glossaries?
+
 Origins and cultural flow
 
 - Early cultivation: Likely domesticated in the Eastern Mediterranean/Levant deep prehistory, faba beans (Vicia faba) move with early agriculture into North Africa and Europe, becoming a cold-season staple before New World pulses arrive.
