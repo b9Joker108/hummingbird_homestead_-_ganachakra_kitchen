@@ -1,3 +1,30 @@
+---
+title: "Mor Milagai (மோர் மிளகாய் / mōr miḷakāy)"
+subtitle: "South Indian Sun-Dried Buttermilk Chillies"
+author: "Beauford"
+date: "2025-09-21"
+version: "1.0"
+layout: "chapter"
+slug: "mor-milagai-south-indian-sun-dried-buttermilk-chillies"
+summary: "A comprehensive research report tracing the history, regional variants, solo-scale protocols, and usage of Mor Milagai in Indic foodways."
+categories:
+  - "Homesteading"
+  - "Preservation"
+  - "Fermentation"
+  - "South Indian Cuisine"
+tags:
+  - "Mor Milagai"
+  - "மோர் மிளகாய்"
+  - "mōr miḷakāy"
+  - "Buttermilk Chillies"
+  - "Solo Cooking"
+  - "Tamil Cuisine"
+  - "Foodways"
+references:
+  - title: "Archana’s Kitchen – Mor Milagai Recipe"
+    url: "https://www.archanaskitchen.com/recipe/mor-milagai-recipe-south-indian-sun-dried-chillies"
+    type: "web"
+---
 
 # Mor Milagai (மோர் மிளகாய் / mōr miḷakāy) #
 
