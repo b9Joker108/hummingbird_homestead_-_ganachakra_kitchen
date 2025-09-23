@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This comprehensive survey provides a scientifically-grounded protocol for cleaning and conditioning unglazed, food-grade terracotta vessels used in micro-batch lacto-fermentation. Based on extensive research into traditional practices, food safety standards, and materials science, this protocol offers two complementary cleaning tracks: **patina-preserving** (using calcium hydroxide) and **patina-reset** (using hydrogen peroxide).
+This comprehensive survey provides a scientifically-grounded protocol for cleaning and conditioning unglazed, food-grade terracotta vessels used in micro-batch lacto-fermentation. Based on extensive research into traditional practices, food safety standards, and materials science, this protocol offers two complementary cleaning tracks: **patina-preserving** (using food-grade calcium hydroxide, eg: 'pickling lime') and **patina-reset** (using food-grade hydrogen peroxide).
 
 ---
 
