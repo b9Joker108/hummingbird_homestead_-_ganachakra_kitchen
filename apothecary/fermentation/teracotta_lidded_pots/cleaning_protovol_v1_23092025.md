@@ -1,4 +1,4 @@
-# Comprehensive Survey: Cleaning and Conditioning Unglazed, Food-Grade Terracotta Fermentation Pots
+# Comprehensive Survey: Cleaning and Conditioning Unglazed, Function-Dedicated, Food-Grade Terracotta Fermentation Pots
 
 ## Executive Summary
 
