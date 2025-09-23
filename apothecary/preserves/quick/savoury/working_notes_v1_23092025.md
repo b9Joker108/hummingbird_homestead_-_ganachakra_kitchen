@@ -593,3 +593,124 @@ This gives you a tiered oil strategy: EVOO as the backbone, macadamia and avocad
 
 Would you like me to now map these oils into a preservation matrix — e.g. “pulse × oil × spice × acid” — so you can generate dozens of unique jars systematically for your one‑month fasting protocol?
 
+**Does the olive oil need to be extra virgin? A condiment oil, yes, extra virgin, but for a preserve?**
+
+That’s a really astute distinction, Beauford. The answer depends on what you’re optimising for: flavour, stability, cost, and ethos.
+
+---
+
+1. Extra Virgin Olive Oil (EVOO)
+- Pros:  
+  - Highest in natural antioxidants (polyphenols, tocopherols) → slows rancidity.  
+  - Complex flavour → elevates preserves (beans, veg, herbs).  
+  - Minimal processing → aligns with your pre‑industrial, Permaculture ethos.  
+- Cons:  
+  - More expensive.  
+  - Stronger flavour may dominate if you want the spices or vinegar to lead.  
+  - Clouds/solidifies in fridge (harmless, but textural).
+
+---
+
+2. Virgin or “Pure” Olive Oil (refined blends)
+- Pros:  
+  - Cheaper, lighter flavour.  
+  - Still stable due to MUFA content.  
+- Cons:  
+  - Refining strips antioxidants → less oxidative stability than EVOO.  
+  - Industrial processing (heat, solvents) → doesn’t fit your “pre‑industrial” criterion.  
+  - Nutrient profile diminished compared to EVOO.
+
+---
+
+3. Practical preservation context
+- For short‑term, fridge‑only jars (7–10 days):  
+  - You don’t need EVOO for safety — any olive oil will do.  
+  - But EVOO’s antioxidants give you a small buffer against rancidity, and its flavour complexity makes each jar more interesting.  
+- For bulk buying and frugality:  
+  - Many homesteaders in Australia buy 2–4 L tins of Australian EVOO direct from growers. This gives you both quality and economy (often $8–10/L in season).  
+  - Decant into 250–500 ml dark bottles for daily use → prevents waste and oxidation.  
+
+---
+
+4. Ethos alignment
+Since you’ve emphasised pre-industrial, natural, sustainable oils, EVOO is the defensible choice. Refined “pure” olive oil is a post‑industrial product — cheaper, yes, but it compromises on both nutrient density and ethos.  
+
+---
+
+✅ Conclusion:  
+For condiment use, EVOO is non-negotiable. For your quick, fridge-life preserves, EVOO is still the best fit: it’s stable, antioxidant-rich, and aligns with your apothecary ethos. The cost can be managed by buying in bulk tins and decanting. If you want a lighter flavour in some jars, blend EVOO with a neutral but still natural oil (like macadamia or avocado) rather than dropping to refined olive oil.  
+
+---
+
+Would you like me to sketch a buying and decanting protocol for EVOO in Melbourne — how to source bulk tins cheaply, store them without waste, and rotate them through your apothecary so you always have fresh, stable oil on hand?
+
+**BTW, re: all the oils you mentioned, I currently hold. Interestingly, you failed to mention sweet almond oil and hemp-seed oil! Others?**
+
+Excellent catch, Beauford — you’re right, I didn’t bring sweet almond or hemp seed oil into the preservation conversation. Let’s fold them in, and then widen the lens to other pre‑industrial, mechanically obtained oils that fit your apothecary ethos.  
+
+---
+
+Sweet Almond Oil (Prunus amygdalus dulcis)
+- Lineage: Pre‑industrial nut oil, cold‑pressed from almonds.  
+- Nutrient profile: High in monounsaturated fats (oleic acid), moderate polyunsaturates, vitamin E.  
+- Stability: More stable than hemp, less than olive/macadamia. Shelf life ~6–12 months unopened, shorter once opened.  
+- Flavor: Mild, slightly nutty, unobtrusive.  
+- Preservation use:  
+  - Works as a neutral carrier for delicate preserves (white beans, zucchini, fennel).  
+  - Less antioxidant protection than EVOO, so best in small jars consumed within 5–7 days.  
+- TBL: Almonds are water‑intensive crops; in Australia, most are grown in the Murray–Darling Basin, which raises sustainability concerns. Economically viable if bought in small bottles for variety, but not ideal as a bulk preservation oil.  
+
+---
+
+Hemp Seed Oil (Cannabis sativa, low-THC food grade)
+- Lineage: Ancient oilseed, cold-pressed.  
+- Nutrient profile: Extremely high in polyunsaturated fats (over 80% PUFA), with an excellent omega-6:omega-3 ratio (~2–3:1). Rich in vitamin E.  
+- Stability: Poor oxidative stability — shelf life ~6 months unopened, much shorter once opened. Must be refrigerated.  
+- Flavor: Distinct grassy, nutty, sometimes bitter.  
+- Preservation use:  
+  - Not recommended as a base oil for preservation — oxidises too quickly.  
+  - Best reserved for finishing oil: drizzle over beans or veg after opening a jar.  
+  - If used in a preserve, keep to micro‑jars (125 ml), acidify solids well, and consume within 3–4 days.  
+- TBL: Hemp is a low‑input, sustainable crop in Australia, with excellent soil and biodiversity benefits. Economically, hemp oil is pricier and waste‑prone if not used quickly.  
+
+---
+
+Other pre‑industrial oils worth noting
+- Hazelnut oil: Cold-pressed, aromatic, MUFA-rich, but expensive and oxidises faster than olive/macadamia. Best for micro‑jars.  
+- Walnut oil: High PUFA, delicate, short shelf life. Like hemp, better as a finishing oil than a preservation medium.  
+- Pistachio oil: Rare, expensive, but aligns with your “apothecary” ethos for micro‑batch luxury jars.  
+- Poppyseed oil: Traditional in Europe, but PUFA‑heavy and unstable.  
+- Mustard seed oil (cold-pressed, food-grade): Used in South Asia; pungent, antimicrobial properties, but niche availability in Australia.  
+- Flaxseed (linseed) oil: Very high omega-3, but extremely unstable. Only for finishing, never for preservation.  
+
+---
+
+Tiered strategy for your apothecary
+- Core preservation oils (bulk, stable, pre-industrial):  
+  - Australian EVOO  
+  - Macadamia oil  
+  - Avocado oil  
+- Accent oils (small bottles, variety, short shelf life):  
+  - Sesame (untoasted)  
+  - Coconut (virgin)  
+  - Sweet almond (neutral, mild)  
+- Finishing oils (not for preservation, only drizzle):  
+  - Hemp seed  
+  - Walnut  
+  - Flaxseed  
+
+---
+
+✅ This way, you’re not wasting delicate oils by trying to preserve with them. You use stable oils for the jars, and unstable but nutrient‑dense oils as finishing touches when you open a jar. That balances frugality, health, and Permaculture ethos.  
+
+---
+
+Would you like me to design a two‑tier oil usage protocol for your one‑month fasting plan — i.e. which oils to use for preserving in jars vs. which to reserve for finishing after opening — so you get maximum nutrition and zero waste?  
+
+---
+
+Sources:  
+[1] Eat Hawkers – Hemp Seed Oil in Australian food culture  
+[2] FSANZ – Hemp seeds as food in Australia  
+[3] AWO – Organic Sweet Almond Oil
+
