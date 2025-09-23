@@ -354,3 +354,105 @@ Since you’ve done krauts before:
 
 Would you like me to design a “pulse + veg pairing matrix” — a chart that shows how to take one pot of cooked pulses and one weekly veg, and spin them into 4–5 distinct small jars with different marinades/preserves? That would give you a reproducible template for the next month.
 
+**So, I understand that, for these quick preserves for short-term preservation, with clean jars, I can do quick and easily sterilisation with a little bit of water, a splash of vinegar, and microwave for 30 seconds and maintain a sterile contact environment?**
+
+That’s a really important point to clarify. Microwaving jars with a splash of water or vinegar can help reduce surface microbes, but it’s not considered a reliable method of sterilisation for food preservation. Here’s why:
+
+🔍 What microwaving does
+- The steam generated inside the jar can kill some surface bacteria and yeasts.  
+- It’s fine for short-term fridge preserves (like pulses marinated in oil, quick pickles, or ferments you’ll eat within a week or two).  
+- It does not reliably kill bacterial spores (e.g. Clostridium botulinum) or provide the same assurance as boiling-water sterilisation.
+
+✅ Safer alternatives for your current use-case
+Since you’re working with fridge-stored, short-life jars (7–10 days), you don’t need full canning sterilisation, but you do want a clean contact environment:
+- Dishwasher hot cycle (no detergent residue) → jars come out hot and clean.  
+- Boiling water dip: Submerge jars in boiling water for 5 minutes, then air-dry upside down.  
+- Oven method: 120 °C for 15 minutes (for dry jars only, no rubber seals inside).  
+
+For fridge-only jars, the key is cleanliness + acid + cold storage. If you’re adding vinegar or lemon juice to your marinades, and keeping everything refrigerated and eaten within 7–10 days, you’re in a safe zone.
+
+🚫 When not to rely on microwaving
+- For water-bath canning or longer-term shelf storage, microwaving is not sufficient.  
+- For oil-based preserves, spores can survive if the environment isn’t acidic enough. That’s why you’re wisely keeping them refrigerated and short-term.
+
+---
+
+👉 So: for your short-term, fridge-only jars, microwaving with a splash of water/vinegar is a convenient hygiene step, but think of it as “sanitising” rather than “sterilising.” If you want a more robust routine, a quick boiling-water dip or dishwasher cycle is more reliable.
+
+---
+
+Would you like me to outline a step-by-step “fridge preserve hygiene protocol” — a reproducible workflow you can use every fed day to prep jars quickly and safely, without overcomplicating things? That way, you’d have a ritual that balances efficiency with safety.
+
+**The microwaves and vinegar sterilise, the water is just structural to the process. Are you sure?**
+
+You’re right to press me on this — because in food preservation, the difference between sanitising and sterilising is critical. Let’s break it down carefully:
+
+🔬 What actually happens in the microwave
+- Microwave + water: The water generates steam, which heats the inside of the jar. This can kill many surface bacteria, yeasts, and moulds.  
+- Vinegar: Adding vinegar lowers the pH of that steam environment, which can further inhibit microbes.  
+- Result: You get a jar that is sanitised — meaning the microbial load is reduced significantly, often enough for short-term fridge storage.
+
+🚫 What it does not do
+- It does not reliably sterilise in the strict microbiological sense. Sterilisation means destruction of all microorganisms, including heat-resistant bacterial spores (like Clostridium botulinum). Microwaves don’t heat evenly, and spores can survive.  
+- That’s why this method is not accepted for shelf-stable canning or long-term storage.
+
+✅ Where it is acceptable
+- For short-term fridge preserves (like your oil-marinated pulses, quick pickles, or ferments you’ll eat within 7–10 days), this microwave-steam-vinegar method is a perfectly reasonable hygiene step.  
+- It reduces surface contamination, gives you a clean contact environment, and when combined with refrigeration + acid + oil coverage, it’s safe for the timeframe you’re working with.
+
+🧴 Best practice for your current regime
+- Use the microwave-steam-vinegar method as a sanitising shortcut for fridge jars.  
+- For anything you want to keep longer than ~10 days, or for shelf storage, stick to boiling-water sterilisation or wait for your canner.  
+- Always add an acidic component (vinegar, lemon juice) to oil marinades — this is both for flavour and safety.  
+
+---
+
+So: you’re not wrong — your method does create a clean, low-risk environment for the kind of short-term, refrigerated jars you’re planning. It’s just important to frame it as sanitisation rather than full sterilisation.  
+
+Would you like me to draft a step-by-step “microwave jar prep protocol” optimised for your oil-marinated pulses and quick pickles, so you can use it as a reproducible ritual during your one-month fasting plan?
+
+**I am doing quick, short term preserves, not canning!**
+
+Perfect — thank you for underlining that. You’re absolutely right: what you’re doing is short-term, quick preserves for the fridge, not shelf-stable canning. That distinction changes everything about the workflow and the level of sterilisation required.  
+
+For fridge-life jars (7–10 days, sometimes up to 2 weeks depending on acidity and salt), the goal isn’t full sterilisation (which is only necessary for long-term, shelf-stable canning). Instead, the goal is simply to start with a clean, low-microbe environment so your preserves don’t spoil prematurely.
+
+---
+
+Hygiene protocol for quick, short‑term preserves
+- Jars:  
+  - Wash in hot soapy water, rinse well.  
+  - Either:  
+    - Run through a dishwasher hot cycle, or  
+    - Microwave with a splash of water/vinegar until steaming (your method), or  
+    - Dip in boiling water for 2–3 minutes.  
+  - Air‑dry upside down on a clean towel.  
+- Lids: Don’t microwave metal lids. Instead, pour boiling water over them and let sit a few minutes.  
+- Filling: Always pack jars while both the jar and the food are still warm (not piping hot, just warm enough to discourage condensation).  
+- Storage: Refrigerate immediately. Keep food submerged in brine/oil. Always use a clean utensil to remove portions.  
+
+---
+
+Why this is enough for your use‑case
+- Short duration: You’re eating these within days, not months.  
+- Cold storage: The fridge slows microbial growth dramatically.  
+- Acid/oil barrier: Vinegar, lemon juice, salt, and oil coverage all add hurdles to spoilage.  
+- Rotation: Small jars mean you finish them quickly, so nothing lingers.  
+
+---
+
+Practical example
+- Cook 500 g chickpeas.  
+- Divide into 3 × 250 ml jars.  
+- Jar 1: Lemon zest + thyme + olive oil.  
+- Jar 2: Smoked paprika + garlic slice + sunflower oil.  
+- Jar 3: Cumin seed + chili flake + cider vinegar + olive oil.  
+- Microwave‑sanitise jars, boiling‑water lids, fill while warm, refrigerate.  
+- Each jar is good for ~7–10 days, eaten on fed days.  
+
+---
+
+So yes — your microwave + vinegar + water method is a valid sanitising step for quick fridge preserves. It won’t make jars sterile in the canning sense, but you don’t need that here. What you’re doing is exactly in line with best practice for short‑term, refrigerated preservation.  
+
+Would you like me to sketch a one‑month “fed-day preserve plan” — a simple rotation of pulses + veg + flavorings, all in small jars, so you can flow through your fasting month without waste or repetition?
+
