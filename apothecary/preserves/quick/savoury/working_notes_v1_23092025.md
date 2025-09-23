@@ -279,3 +279,78 @@ By the end of one week: 13 unique jars, all from 3 base ingredients.
 Would you like me to design a 4-week “preserve rotation protocol” — a calendar that tells you exactly which base ingredient to process each fed day, and how to split it into multiple unique jars, so that by the end of the month you have a structured apothecary of 40+ distinct preserves?
 
 
+That’s a really sharp clarification, Beauford — thank you. You’re absolutely right: cooked pulses marinated in oil, refrigerated, and handled cleanly can keep about 7–10 days in the fridge. The key is to keep them submerged, use clean utensils, and avoid garlic-in-oil combinations unless acidified (to reduce botulism risk). If you’re rotating through jars and eating them steadily, this is a very workable short-term preservation method for your one-month fasting protocol.  
+
+Let me sketch a practical, one-month interim system that fits your goals:
+
+---
+
+1. Cooked Pulses in Oil (Fridge-Only, 7–10 Days)
+
+- Method: Cook pulses until tender but not mushy → drain well → toss warm with salt, acid (vinegar or lemon), herbs/spices → cover with oil in jars.  
+- Safety tweak: Always add a splash of vinegar or lemon juice to the marinade; this both brightens flavor and lowers pH.  
+- Examples:  
+  - Chickpeas + smoked paprika + lemon peel + olive oil.  
+  - Lentils + cumin + coriander seed + chili flakes + sunflower oil.  
+  - White beans + rosemary + black pepper + red wine vinegar + olive oil.  
+
+Each jar tastes distinct, but they all come from one pot of cooked pulses.
+
+---
+
+2. Weekly Fresh Veg → Small-Batch Preserves
+
+Instead of shopping “normally,” think of your weekly veg haul as raw material for 2–3 micro-preserves. You don’t need to buy in bulk yet — just redirect what you already buy into jars.
+
+- Leafy greens: Braised, pressed into pucks, frozen.  
+- Firm veg (carrots, zucchini, cauliflower): Quick pickles or ferments in 250 ml jars.  
+- Tomatoes, peppers, onions: Sofrito or relish base, jarred in fridge portions.  
+
+This way, nothing lingers unpreserved when you hit a fasting day.
+
+---
+
+3. One-Month Fasting Support Protocol
+
+- Fed days:  
+  - Open one jar of pulses-in-oil + one jar of veg preserve.  
+  - Combine with fresh protein (egg, fish, meat) or grains.  
+  - Rotate flavor profiles so you don’t repeat the same combination.  
+
+- Fast days (dry fast):  
+  - No intake, but the preserved jars wait safely in the fridge.  
+  - On breaking the fast, you have ready-to-go jars without waste.  
+
+---
+
+4. Example Weekly Cycle (No Bulk Buying Yet)
+
+- Day 1 (fed): Cook 500 g chickpeas → divide into 3 × 250 ml jars with different marinades.  
+- Day 2 (fast).  
+- Day 3 (fed): Buy weekly veg → pickle 2 × 250 ml jars (e.g., carrot-ginger, zucchini-dill).  
+- Day 4 (fast).  
+- Day 5 (fed): Make 1 small sofrito base (onion, tomato, capsicum) → 2 × 200 ml jars.  
+- Day 6 (fast).  
+- Day 7 (fed): Ferment 1 small jar of kraut or cauliflower.  
+
+By week’s end: 8–9 unique jars, all small, all different. Enough variety for fed days, nothing wasted on fast days.
+
+---
+
+5. Kraut & Ferment Angle
+
+Since you’ve done krauts before:  
+- Even one 500 ml jar of kraut can be split into 2–3 smaller jars with different finishes (caraway, chili, turmeric).  
+- This gives you variety without needing to ferment multiple large crocks.  
+
+---
+
+✅ This system is short-term, fridge-based, and oil-friendly.  
+✅ It adapts your normal weekly shopping into preserves, without requiring bulk seasonal buying yet.  
+✅ It gives you structural variety by splitting one prep into multiple jars.  
+✅ It aligns with your one-month fasting window — no long-term storage needed until your canner arrives.  
+
+---
+
+Would you like me to design a “pulse + veg pairing matrix” — a chart that shows how to take one pot of cooked pulses and one weekly veg, and spin them into 4–5 distinct small jars with different marinades/preserves? That would give you a reproducible template for the next month.
+
