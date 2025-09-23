@@ -456,3 +456,140 @@ So yes — your microwave + vinegar + water method is a valid sanitising step fo
 
 Would you like me to sketch a one‑month “fed-day preserve plan” — a simple rotation of pulses + veg + flavorings, all in small jars, so you can flow through your fasting month without waste or repetition?
 
+**Alright, that was good, but not usable. So, it was not transferred to my homesteading documentation and knowledge and practice repository. We need to regenerate the last response. You are on the right track, but we are not on the same page. I favour natural, sustainable, healthy and nutritious oils, that are secured, somehow, very cheaply, without compromising quality or product: ie. TBL economic & SWAT context analysis. I abhor waste as it is counter to a Permaculture ethos. Now, by natural, I mean a pre-Industrial Age oil. That deprecates all ultra-processed oils, or excessovely processed and chemically treated oils, which are mostly seed oils and post-Industrial products. There is of course exceptionalism. The rest, should be explanatory and mutually inform and contextualise. Now, regenerate, taking into consideration everything you know.**
+
+Oils for short‑term preservation in a pre‑industrial apothecary kitchen
+
+You’re aiming for natural, sustainable, nutrient‑dense oils that behave well in short‑term, fridge‑only preserves—aligned with Permaculture and Triple Bottom Line principles. Let’s lock in a defensible framework you can actually use: which oils fit a pre‑Industrial profile, how they perform in preservation, what they cost in Melbourne, and how to minimize waste while protecting health and flavor.
+
+---
+
+Selection criteria for preservation‑worthy oils
+
+- Oxidative stability:  
+  - Definition: Resistance to rancidity in storage and in jars.  
+  - Best profile: High monounsaturated fat (MUFA) with natural antioxidants (polyphenols, tocopherols).  
+- Processing ethos:  
+  - Pre‑industrial: Mechanical extraction (cold‑pressed, stone‑milled), no solvents or chemical refining.  
+  - Avoid: Highly refined, deodorized, solvent‑extracted seed oils unless exceptional cold‑pressed local variants meet your standards.  
+- Flavor and functionality:  
+  - Preservation role: Oil is a barrier and flavor carrier; it’s not a sterilant. Acid must be present.  
+  - Fridge behavior: Some oils set/cloud—useful for barrier stability but can change mouthfeel.  
+- Health alignment:  
+  - Male 50+, high protein, recomposition: Favor MUFA‑rich oils; avoid excess omega‑6 PUFA.  
+- TBL sustainability:  
+  - Local, low‑input crops: Lower transport emissions; better social accountability; supports local agroecology.  
+- Budget and waste control:  
+  - Bulk buy smart: High‑quality in larger tins; decant into small opaque bottles; rotate tightly to prevent oxidation.
+
+---
+
+Candidate oils overview
+
+| Oil | Processing lineage | Fatty acid profile | Fridge behavior | Preservation suitability |
+|---|---|---|---|---|
+| Australian extra virgin olive (EVOO) | Pre‑industrial (mechanical) | High MUFA, polyphenols | Clouds/sets | Excellent: stable, flavorful, local |
+| Macadamia | Mechanical cold‑pressed | Very high MUFA, tocopherols | Stays fluid | Excellent: buttery neutral, native |
+| Avocado | Mechanical cold‑pressed | High MUFA | Clouds lightly | Very good: neutral‑but‑buttery |
+| Sesame (cold‑pressed) | Mechanical | Mixed MUFA/PUFA; sesamol sesamin | Fluid | Good: aromatic; use small jars |
+| Coconut (virgin) | Mechanical | High saturated fat | Solid at fridge temp | Situational: sets firm; strong flavor |
+| Animal fats (duck/goose/tallow; clarified butter/ghee) | Rendered/clarified | Saturated/MUFA | Solid at fridge | Situational: confit style; only with robust acid and strict refrigeration |
+
+> Notes: Keep oils in the “mechanical/cold‑pressed” class to honor pre‑industrial ethos. Reserve animal fats for short, strictly refrigerated confit‑style items; they are not shelf‑stable without pressure canning.
+
+---
+
+SWOT snapshots (preservation context)
+
+- EVOO (Australian):  
+  - Strengths: Stability (MUFA + polyphenols), local supply, complex flavor, broad culinary use.  
+  - Weaknesses: Price variability; can set/cloud in fridge.  
+  - Opportunities: Bulk tin buys in season, regional co‑ops, decanting to minis reduces waste.  
+  - Threats: Light/heat exposure; counterfeit imports—buy direct from reputable Australian producers.
+
+- Macadamia:  
+  - Strengths: Native crop, very stable and neutral‑but‑buttery; great for delicate preserves.  
+  - Weaknesses: Higher cost; limited retail availability.  
+  - Opportunities: Small‑batch splendor; rotate for variety; pairs beautifully with citrus/herbs.  
+  - Threats: Niche market; supply fluctuations.
+
+Got it — let’s pick up exactly where the avocado oil point trailed off and carry the analysis through the rest of the candidate oils in the same structured way.  
+
+---
+
+Avocado oil (cold‑pressed, Australian where possible)
+- Strengths:  
+  - Very high in monounsaturated fats (close to olive oil levels).  
+  - Mild, buttery flavor that doesn’t dominate — excellent when you want the spices or vinegar to shine.  
+  - High smoke point, so any leftover oil from preserves can be repurposed for cooking without waste.  
+- Weaknesses:  
+  - Higher water footprint than olives or macadamias.  
+  - More expensive than bulk EVOO; availability in large, affordable tins is limited.  
+- Opportunities:  
+  - Use as a neutral carrier oil for spice‑forward jars (e.g. cumin‑chili lentils, turmeric cauliflower).  
+  - Rotate in small volumes alongside EVOO to prevent palate fatigue.  
+- Threats:  
+  - Imported avocado oils are sometimes adulterated; stick to Australian producers with transparent pressing methods.  
+
+---
+
+Sesame oil (cold‑pressed, untoasted for preservation)
+- Strengths:  
+  - Traditional, pre‑industrial oil with natural antioxidants (sesamol, sesamin).  
+  - Distinctive nutty aroma; small amounts transform a jar.  
+- Weaknesses:  
+  - Higher polyunsaturated fraction makes it less stable than olive or macadamia.  
+  - Flavor can dominate if overused.  
+- Opportunities:  
+  - Use in micro‑jars (125–200 ml) for accent preserves — e.g. sesame‑ginger cucumbers, sesame‑chili chickpeas.  
+- Threats:  
+  - Oxidises faster; buy in small bottles, not bulk.  
+
+---
+
+Coconut oil (virgin, cold‑pressed)
+- Strengths:  
+  - Very stable due to high saturated fat content.  
+  - Solidifies in the fridge, creating a physical seal over the food.  
+- Weaknesses:  
+  - Strong coconut flavor can clash with Mediterranean or Middle Eastern profiles.  
+  - Solid texture can make scooping awkward.  
+- Opportunities:  
+  - Excellent for tropical‑style jars (chili‑lime carrots, green beans with curry leaf).  
+  - Works well for “sealed” accent jars where you want a firm cap of fat.  
+- Threats:  
+  - Sustainability varies — some coconut oil supply chains are linked to deforestation and poor labor practices. Choose certified fair‑trade/organic if possible.  
+
+---
+
+Animal fats (ghee, duck/goose fat, tallow)
+- Strengths:  
+  - Historically authentic preservation medium (confit, potted meats).  
+  - Very stable when clarified; deep, savory flavor.  
+- Weaknesses:  
+  - Must be strictly refrigerated; not safe for shelf storage without pressure canning.  
+  - Saturated fat heavy — fine in small accent jars, but not ideal as a daily base.  
+- Opportunities:  
+  - Tiny jars of acidified confit garlic, peppers, or mushrooms for luxurious fed‑day accents.  
+  - Ghee in particular is shelf‑stable unopened and versatile for cooking.  
+- Threats:  
+  - Easy to overproduce; stick to micro‑batches (125 ml or less) to avoid waste.  
+
+---
+
+Pulling it together
+- Core daily preservation oils:  
+  - Australian EVOO (foundation, versatile, sustainable).  
+  - Macadamia oil (neutral‑but‑buttery, native, sustainable).  
+  - Avocado oil (neutral carrier, rotate for variety).  
+- Accent oils:  
+  - Sesame (small jars, flavor punch).  
+  - Coconut (specific profiles, firm fridge seal).  
+  - Animal fats/ghee (luxury micro‑jars, fed‑day accents).  
+
+---
+
+This gives you a tiered oil strategy: EVOO as the backbone, macadamia and avocado as rotation partners, sesame/coconut/animal fats as accent oils for variety. All are pre‑industrial in lineage (mechanical pressing or rendering), align with your Permaculture ethos, and can be sourced in Melbourne with attention to bulk buying, decanting, and waste minimisation.  
+
+Would you like me to now map these oils into a preservation matrix — e.g. “pulse × oil × spice × acid” — so you can generate dozens of unique jars systematically for your one‑month fasting protocol?
+
