@@ -19,13 +19,13 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 
 ## 2. Candidate Cleaning Agents
 
-### A. Pickling Lime (Calcium Hydroxide, Ca(OH)â‚‚)
+### A. Pickling Lime (Calcium Hydroxide, Ca(OH)₂)
 
 **Mode of Action**: Strong alkalinity (pH 12.4) denatures proteins, disrupts biofilms, saponifies residual fats through hydroxide ion activity.
 
 **Traditional Rationale**:
 - Provides curation, not sterilisation
-- Leaves beneficial floric patinaâ€”a colonising microbial ecology that seasons the pot
+- Leaves beneficial floric patina colonising microbial ecology that seasons the pot
 - Develops terroir-like continuity over repeated use, contributing subtle flavour and microbial character
 
 **Advantages**:
@@ -36,7 +36,7 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 - Economical and readily available
 
 **Limitations**:
-- Residual alkalinity can suppress LAB if inadequately rinsed
+- Residual alkalinity can suppress Lactic Acid Bacteria (LAB) if inadequately rinsed
 - Requires multiple hot water rinses plus optional vinegar neutralisation
 - Can leave temporary alkaline residue in porous material
 
@@ -47,12 +47,12 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 
 ### B. Hydrogen Peroxide (Food-Grade, 3% working solution)
 
-**Mode of Action**: Potent oxidiser producing hydroxyl radicals that penetrate pores, destroying bacteria, yeasts, moulds, and spores through oxidative cellular damage.
+**Mode of Action**: Potent oxidiser producing hydroxyl radicals that penetrate pores, destroying bacteria, yeasts, moulds and spores through oxidative cellular damage.
 
 **Modern Rationale**:
 - Provides complete microbial reset to baseline
-- Leaves no microbial continuityâ€”pot becomes blank slate
-- Decomposes completely into water and oxygen (Hâ‚‚Oâ‚‚ â†’ Hâ‚‚O + Â½Oâ‚‚)
+- Leaves no microbial continuity; pot becomes blank slate
+- Decomposes completely into water and oxygen
 
 **Advantages**:
 - Completely residue-free decomposition
@@ -80,7 +80,7 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 - Risk of thermal shock requires temperature tempering
 - Effective for routine maintenance cleaning
 
-**Dilute Vinegar (5% acetic acid)**:
+**Dilute Cleaning Vinegar (5% acetic acid)**:
 - Excellent for dissolving mineral efflorescence
 - Neutralises residual lime alkalinity
 - pH buffering capability
@@ -115,7 +115,7 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 - **Detergents/Surfactants**: Persist in pores, inhibit LAB, impart off-flavours
 - **Chlorine Bleach**: Leaves chloride residues, odour entrapment, material stress
 - **Essential Oils/Scented Cleaners**: Hydrophobic films, flavour taint, antimicrobial residues
-- **Oils/Fats as Cleaners**: Block pores, create anaerobic pockets
+- **Oils/Fats as Cleaners/Conditioners**: Block pores, create anaerobic pockets
 - **Aggressive Abrasives**: Micro-scoring harbours contaminants
 
 ### Material Incompatibilities
@@ -132,7 +132,7 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 | After contamination (mould, kahm yeast) | Hydrogen peroxide reset | Complete elimination of problematic microorganisms |
 | Routine between short ferments | Pickling lime wash | Preserves beneficial microbial continuity |
 | Mineral efflorescence only | Dilute vinegar rinse | Targeted mineral dissolution |
-| New or long-idle pot | Initial lime wash or Hâ‚‚Oâ‚‚ reset, then rehydration | Establishes clean baseline |
+| New or long-idle pot | Initial lime wash or food grade hydrogen peroxide (3%) reset, then rehydration | Establishes clean baseline |
 | Troubleshooting failed ferments | Hydrogen peroxide reset | Eliminates unknown contamination sources |
 | Traditional/artisanal approach | Pickling lime maintenance | Maintains authentic fermentation character |
 
@@ -163,8 +163,8 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 
 **Procedure**:
 1. **Pre-cleaning**: Remove residues with warm water and soft brush
-2. **Oxidative sanitisation**: Apply 3% Hâ‚‚Oâ‚‚ ensuring full contact for 10-15 minutes
-3. **Single rinse**: One thorough rinse with boiled/cooled water
+2. **Oxidative sanitisation**: Apply 3% hydrogen peroxide‚ ensuring full contact for 10-15 minutes
+3. **Single rinse**: One thorough rinse with pre-boiled and cooled water
 4. **Drying**: Complete air-drying in ventilated space (24-48 hours)
 5. **Rehydration**: Brief water soak before use to stabilise absorption
 
@@ -201,7 +201,7 @@ This comprehensive survey provides a scientifically-grounded protocol for cleani
 Research demonstrates that calcium hydroxide at 15-20% moisture content effectively reduces microbial populations while maintaining pH >12 for antimicrobial activity. Studies show optimal disinfection occurs with adequate hydration and contact time, with effectiveness decreasing as pH drops below 11 due to carbonation.
 
 ### Hydrogen Peroxide Decomposition
-Food safety research confirms hydrogen peroxide rapidly decomposes into water and oxygen through catalase activity and thermal degradation. Residual levels in food-contact surfaces become negligible within minutes, ensuring no toxic carryover. The compound's oxidative mechanism effectively destroys vegetative bacteria, yeasts, moulds, and spores.
+Food safety research confirms hydrogen peroxide rapidly decomposes into water and oxygen through catalase activity and thermal degradation. Residual levels in food-contact surfaces become negligible within minutes, ensuring no toxic carryover. The compound's oxidative mechanism effectively destroys vegetative bacteria, yeasts, moulds and spores.
 
 ### Clay Pot Microbiology
 Studies on traditional fermentation vessels demonstrate that clay pots develop beneficial microbial biofilms that contribute to fermentation success. The porosity allows selective microbial colonisation while preventing pathogen establishment through competitive exclusion and pH modification.
