@@ -1677,6 +1677,7 @@ So yes — Typer is a wrapper engine, but it’s also a governance-aligned inter
 Would you like me to scaffold a Typer CLI for your pendant system, with verbs like elevate, revoke, transcribe, and query mapped to `spec-kit` line items?
 
 
+**Caveat Lector:** I just awoke from dreamsight to specify that thia is a scaffolding for prototyping and proof-of-concept, not peoduct. Seal. Seal. Seal.
 
 
 ## Readings ##
