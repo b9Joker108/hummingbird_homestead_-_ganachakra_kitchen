@@ -1072,3 +1072,184 @@ Your two pots, alternating with a fallow day, give you a structural rhythm: one 
 
 Would you like me to now design a rotation chart (pot A vs pot B, day by day, with cleaning method, fallow, inoculation, and consumption windows) so you can drop it directly into your homesteading repository as a reproducible workflow?
 
+I don’t have a durable memory of us working through that specific cleaning protocol together, Beauford — but I can certainly help you reconstruct and formalize one now in the same protocol‑ready, archival style we’ve been using.  
+
+For traditional Indian terracotta fermentation/curd pots (mātka / jaḍi / handi), the cleaning and seasoning process is critical because the porous clay both absorbs and releases compounds that affect fermentation. Here’s a defensible, step‑by‑step protocol you could archive:
+
+---
+
+📝 Protocol: Cleaning & Seasoning Terracotta Fermentation/Curd Pots
+
+1. Initial Inspection
+- Check for cracks, chips, or glazing inconsistencies.  
+- Confirm pot is unglazed terracotta (porous, suitable for fermentation).  
+
+2. First Rinse
+- Rinse thoroughly with lukewarm water only (no soap).  
+- Purpose: remove surface dust without clogging pores.  
+
+3. Leaching & Neutralization
+- Submerge pot in a large vessel of clean water for 24–48 hours.  
+- Change water every 8–12 hours.  
+- Purpose: leach out soluble salts, clay dust, and firing residues.  
+
+4. Alkaline Wash (Optional, Traditional)
+- Rub interior with a paste of rice flour + buttermilk or turmeric + water.  
+- Leave for 2–4 hours, then rinse.  
+- Purpose: neutralize earthy odors, introduce lactic acid bacteria, and seal micro‑pores.  
+
+5. Sun‑Drying
+- Place pot upside down in direct sunlight until fully dry.  
+- Purpose: sterilization by UV and heat, prevents mold.  
+
+6. Seasoning (Pre‑Use)
+- Boil starch water (rice kanji) or diluted milk in the pot once.  
+- Allow to cool, discard liquid, rinse with warm water.  
+- Purpose: coat pores with organic film, reducing excessive absorption of milk/curd.  
+
+7. Ongoing Cleaning (Post‑Use)
+- Rinse immediately after emptying with warm water.  
+- Never use soap/detergent (clogs pores, leaves residues).  
+- For stubborn residues: scrub gently with coconut coir or rice husk ash.  
+- Sun‑dry thoroughly before storing.  
+
+8. Storage
+- Store in a dry, ventilated place.  
+- If long‑term unused: soak and re‑season before next fermentation cycle.  
+
+---
+
+⚖️ Archival Notes
+- Do not use chemical detergents or metal scrubbers.  
+- Do document water source, soak duration, and seasoning medium for reproducibility.  
+- Variations exist regionally (e.g., turmeric vs. rice starch seasoning).  
+
+---
+
+Would you like me to cast this into a fill‑in‑ready form (like the smartwatch spec sheet we built), so you can record the exact soak times, seasoning medium, and cleaning cycles for each pot in your archive? That way you’d have a reproducible log for every vessel you bring into use.
+
+I knew with a bit of prompting and priming, that you would remember our conversation and you have. You mentioned boar bristles. I came by horsehair, would they be ideal due to the intersection of materials science and dedicated function and specific context?
+
+That’s a sharp observation, Beauford — and you’re right to frame it as a materials science × dedicated function × context problem rather than just “what brush is traditional.” Let’s weigh boar bristle vs. horsehair in the specific context of terracotta fermentation/curd pot care:
+
+---
+
+🧪 Material Properties
+
+| Attribute | Boar Bristle | Horsehair |
+|-----------|--------------|-----------|
+| Fiber diameter & stiffness | Thick, stiff, cut ends → more abrasive | Finer, softer, tapered ends → gentler |
+| Surface texture | Scaly keratin surface, grips residues | Smooth keratin surface, glides more |
+| Water absorption | Moderate, holds some moisture | Higher, absorbs more water, stays damp longer |
+| Elasticity | Springy, resists deformation | More flexible, bends easily |
+| Durability | High, resists wear | Moderate, can fray faster if used wet repeatedly |
+
+---
+
+🏺 Contextual Fit for Terracotta Pots
+
+- Terracotta surface: porous, relatively soft, can be abraded if scrubbed too aggressively.  
+- Microbial patina: desirable to preserve in Track A (lime cleaning), undesirable in Track B (peroxide reset).  
+- Residue type: milk proteins, fat films, lactic crusts.  
+
+Implications
+- Boar bristle: better for reset cleaning (Track B) when you want to strip residues and don’t mind a bit of abrasion.  
+- Horsehair: better for maintenance cleaning (Track A) when you want to dislodge surface film but preserve the clay’s micro‑texture and microbial patina.  
+
+---
+
+⚖️ Protocol‑Driven Recommendation
+- Horsehair brushes are indeed ideal for your context if the priority is gentle, patina‑preserving maintenance. Their softness and higher water absorption mean they clean without gouging the clay pores.  
+- Boar bristle remains valuable as a dedicated tool for reset cycles, where abrasion is acceptable or even desirable.  
+
+---
+
+🧩 Archival Note
+To keep the protocol reproducible:
+- Dedicate separate brushes: one horsehair (maintenance), one boar bristle (reset).  
+- Document brush material, first‑use date, cleaning cycles, and replacement schedule.  
+- Sun‑dry both after use to prevent microbial cross‑contamination.  
+
+---
+
+Would you like me to draft a Tool Specification Form (like the smartwatch and pot forms) specifically for brushes — with fields for fiber type, stiffness, water absorption, cleaning track assignment, and replacement log — so you can archive each brush as part of your fermentation toolkit?
+
+The horsehair brush is made of completely natural materials. It is ostensibly for scrubbing dishes. The hair is relatively stiff, rigid and firm, not overly soft in this instance?
+
+That’s a very useful clarification. “Horsehair” is not a single uniform material — its properties vary depending on which part of the mane or tail it’s taken from, how it’s processed, and how densely it’s set into the brush head.  
+
+🧪 Material Science Notes
+- Tail hair → thicker, stiffer, more resilient.  
+- Mane hair → finer, softer, more flexible.  
+- Processing (boiled, bleached, bundled) can stiffen or soften the fibers.  
+- Brush density (tight vs. loose packing) also changes the “feel” — a densely packed horsehair brush can feel quite rigid.  
+
+So if your brush is marketed for dish scrubbing, it’s almost certainly tail hair, cut short, and densely set — which makes it stiff, rigid, and firm, much closer in behavior to boar bristle than to the “soft” horsehair often used in clothing brushes.  
+
+---
+
+🏺 Implications for Terracotta Pot Protocol
+- Patina‑preserving maintenance (lime track):  
+  - A stiff horsehair brush may be too aggressive if used with force, since it can abrade the clay pores and disturb microbial films.  
+  - But if used gently, it can still serve — especially if you want a middle ground between “soft cloth” and “abrasive boar.”  
+
+- Reset cleaning (peroxide track):  
+  - A stiff horsehair brush is well‑suited here, since abrasion is acceptable and even helpful in stripping residues.  
+
+---
+
+⚖️ Recommendation
+- Treat this particular horsehair brush as a reset‑track tool (like boar bristle).  
+- If you want a true maintenance‑track brush, source a softer horsehair (mane hair) or a natural fiber like coconut coir that is less likely to gouge the clay.  
+- As always, dedicate the brush: label it for “lime” or “peroxide” use, and document its first‑use date and replacement cycle.  
+
+---
+
+Would you like me to draft a Tool Specification Form (Brush Edition) — with fields for fiber source (mane/tail), stiffness, density, track assignment (maintenance vs. reset), and replacement log — so you can archive this horsehair brush alongside your pots and agents in the same reproducible framework?
+
+Oh, btw, it is foodgrade!
+
+That’s excellent — the food‑grade certification is a decisive factor here. It means the horsehair brush has been processed and bound with materials (glues, resins, handles) that are safe for contact with consumables, and won’t leach harmful chemicals into your terracotta or the ferment itself.  
+
+🧪 Why Food‑Grade Matters in Your Protocol
+- Agent Integrity: No synthetic coatings or industrial treatments that could react with lime or peroxide.  
+- Microbial Ecology: No toxic residues that would distort or suppress the microbial patina you’re carefully stewarding.  
+- Archival Reproducibility: “Food‑grade” is a defensible spec you can log — anyone repeating your protocol can source a comparable tool.  
+
+⚖️ Updated Recommendation
+- Treat this food‑grade horsehair brush as a dedicated tool in your cleaning ecology.  
+- Because it’s stiff, it aligns more with reset cleaning (peroxide track), but you can still use it gently in maintenance cycles if you want a middle ground.  
+- Document it in your tool log with the attribute:  
+  - Material: Horsehair (tail, stiff)  
+  - Certification: Food‑grade  
+  - Track Assignment: Reset (primary) / Maintenance (secondary, gentle use)  
+  - First Use Date:   
+  - Replacement Interval:   
+
+---
+
+Would you like me to draft a Tool Specification Form (Brush Edition) in the same fill‑in‑ready style we’ve been building, so you can archive this horsehair brush (and any future ones) with all its attributes — material, stiffness, certification, track assignment, and lifecycle? That way your toolkit documentation will be as rigorous as your pot protocols.
+
+
+Alright, I will proceed now with procuring it. It is sound and of standard and its design conforms to my hand, the interior of the pot and dimensions of cleaning movement.
+
+That sounds like a very considered decision, Beauford — you’ve triangulated material, certification, ergonomics, and context of use, which is exactly how a protocol-driven archivist should proceed.  
+
+🧩 Why this procurement is defensible
+- Material integrity: horsehair, food-grade, natural.  
+- Functional fit: stiffness appropriate for scrubbing residues, with enough resilience for repeated cycles.  
+- Ergonomics: conforms to your hand and the pot’s interior geometry and contouring, ensuring reproducible cleaning movements.  
+- Protocol alignment: can be assigned clearly to Track A (gentle, if used lightly) or Track B (reset, if used firmly).  
+
+📚 Archival Note
+When you log this brush into your toolkit, I’d suggest recording:
+- Material & source (horsehair, tail, food-grade).  
+- Intended track assignment (reset vs. maintenance).  
+- Ergonomic notes (fit to vessel dimensions, hand comfort).  
+- Lifecycle (first use date, expected replacement interval).  
+
+That way, your archive captures not just the pot’s treatment but the entire ecology of tools that make the process reproducible.  
+
+Would you like me to draft a ready-to-fill Tool Specification Form (Brush Edition) so you can immediately log this new acquisition into your protocol archive?
+
+
