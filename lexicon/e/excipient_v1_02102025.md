@@ -1,6 +1,6 @@
 # Excipient #
 
-An excipient is any substance in a pharmaceutical product that is not the active drug itself, but is intentionally included in the formulation to support the drug’s delivery, stability or usability.  
+An excipient is any substance in a pharmaceutical product that is not the active drug itself, but is intentionally included in the formulation to support the drug’s delivery, metabolization, stability and/or usability.  
 
 🔍 Key Points
 - Role: Excipients act as carriers, stabilizers, or enhancers for the active pharmaceutical ingredient (API).  
