@@ -28,4 +28,30 @@
 
 - Pears (Pyrus communis): roughly 2.2 g of pectin in a medium pear; these soluble fibres enhance satiety, moderate glycaemic response, and support gut fermentation
 
-- 
+
+
+
+Dried rose petals contain both soluble and insoluble dietary fiber. Like other plant-based foods, they consist of a mix of fiber types, but research shows that insoluble fiber is particularly prominent. 
+
+Insoluble fiber
+
+Insoluble fiber, which does not dissolve in water, is the most abundant type in rose petals.
+
+Cellulose and hemicellulose: A study on the cell wall composition of oil-bearing roses showed that insoluble fibers like cellulose and hemicellulose are significant components of rose petals, particularly in the later stages of flower development.
+
+Digestive health: This type of fiber adds bulk to stool, helping to promote regular bowel movements and prevent constipation.
+
+Potential anti-obesity effects: Research on "rose pomace"—the fibrous byproduct of essential oil extraction—suggests that its insoluble dietary fiber may have an anti-obesity effect and could help improve insulin sensitivity. 
+
+Soluble fiber
+
+Rose petals also contain some soluble fiber, although in smaller amounts than insoluble fiber. 
+
+Pectin: Rose petals are a natural source of pectin. However, some recipes for rose petal jam specifically note that roses are low in pectin and that additional pectin is needed to help the jam set properly.
+
+Digestion and gut health: Soluble fiber forms a gel-like substance in water that slows digestion. It can also be fermented by gut bacteria, which influences how cells burn glucose. 
+
+The significance of both fiber types
+
+Dried rose petals contribute to a balanced fiber intake, which is important for overall health. The specific types of fiber present offer a range of benefits, from supporting digestive regularity with insoluble fiber to supporting gut health and slowing sugar absorption with soluble fiber. 
+
