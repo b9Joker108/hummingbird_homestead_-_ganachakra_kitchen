@@ -1,8 +1,6 @@
+File: xxx
+
 # Electric Drill Bits: An Introduction #
-
-will wood, ceramic and metal electric drill bits also work for stone and perspex and plastic?
-
-Wood, ceramic, and metal drill bits generally are not ideal for drilling stone, perspex, or plastic because each material requires different drill bit designs and materials for clean and safe drilling.
 
 - **Wood drill bits** are designed to cut through soft materials and have brad points that may damage or chip hard plastics or stone surfaces.
 - **Ceramic drill bits** often refer to carbide-tipped masonry bits designed for drilling into hard materials like tile, brick, or stone. These are suitable for stone and ceramic but not optimized for plastic or perspex, which may crack under such bits[3][4][7].
