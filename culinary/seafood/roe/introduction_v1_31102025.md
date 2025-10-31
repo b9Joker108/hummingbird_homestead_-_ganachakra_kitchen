@@ -2,7 +2,7 @@ File: xxx
 
 # Roe: An Introduction #
 
-One of the most memorable restaurant meals I have ever had was in the early days of Pearl's openning Richmond. I started with a entree from the dessert menue of traditional handmade rose Persian 'fairyfloss' and requested them to make an entree of assorted fish roe, which they furnished, for my main. I was on a fulltime three (3) month project placement withba subsidiary of BP and we were on a team-building Christmas lunch before leave for Christmas. I ate the roe individually. Most of them were quite large like berries and there were many different kinds of generous amount and they adorned some fish and fruit like salad. The rose and roe commingling was special. It transported me by each literal juice explosion throughout the entirety of my mouth. For dessert proper, I had a small cheeseplatter and macchiato coffee.
+One of the most memorable restaurant meals I have ever had was in the early days of Pearl's openning in Richmond. I started with a entree from the dessert menue of traditional handmade rose Persian 'fairyfloss' and requested them to make an entree of assorted fish roe, which they furnished, for my main. I was on a fulltime three (3) month project placement withba subsidiary of BP and we were on a team-building Christmas lunch before leave for Christmas. I ate the roe individually. Most of them were quite large like berries and there were many different kinds of generous amount and they adorned some fish and fruit like salad. The rose and roe commingling was special. It transported me by each literal juice explosion throughout the entirety of my mouth. For dessert proper, I had a small cheeseplatter and macchiato coffee.
 
 # Melbourne #
 
