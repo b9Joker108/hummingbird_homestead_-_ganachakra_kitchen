@@ -370,9 +370,9 @@ Culinary highlights:
 
 So while their small size makes them ideal bait, whitebait galaxiids have a well-established role on the plate, prized for their delicate flavour and tender texture.
 
-For procuring the obscure in Melbourne endeavour:
+For procuring the sublimely fresh at goid prices and possibly the obscure in Melbourne endeavour:
 
-Fish Pier
+* Fish Pier
 
 Unit 6, 440 Dynon Road
 West Melbourne VIC 3003
@@ -380,6 +380,8 @@ West Melbourne VIC 3003
 Ph: 03 9191 9262
 Fax: 03 8678 3817
 Email: admin@fishpier.com.au
+
+* Gem Pier Seafood: Willy (preferred) and South Melb
 
 # References #
 
