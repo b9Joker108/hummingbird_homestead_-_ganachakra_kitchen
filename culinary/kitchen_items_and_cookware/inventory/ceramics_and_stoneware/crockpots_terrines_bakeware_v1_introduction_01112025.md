@@ -117,3 +117,54 @@ Recommended archival corrections and label template (bilingual labelling ready t
 
 If you wish, I will commit this as a raw GFM file named KS‑CROCK‑ARCHIVE.md in your Homestead Kitchen repository content block and generate a compact printable bilingual label layout (single‑column) suitable for 60 mm × 40 mm adhesive tags. Which would you prefer next: commit the .md file content as shown, or produce the printable label layout?
 
+Update: Oven suitability report
+
+---
+
+Summary
+- Finding: The product label includes an oven icon indicating the crockpot is suitable for oven use in addition to electric ceramic stove, electric stove, and gas stove.  
+- Action: Archive record and label templates must be updated to reflect oven suitability, and operational cautions should be expanded to cover oven‑specific use and safety.
+
+---
+
+Bilingual statement to add to archived metadata and the product label
+- 中文: 可用于烤箱  
+- English: Suitable for oven use
+
+---
+
+Revised compact identification block (bilingual, paste‑ready)
+- 产品名称: 康舒耐热陶瓷炖锅 — Product name: Kangshu Heat‑Resistant Ceramic Crockpot  
+- 容量: 4 L — Capacity: 4 L  
+- 加热方式: 电陶炉; 电炉; 燃气炉; 烤箱 — Heating methods: Electric ceramic stove; Electric stove; Gas stove; Oven  
+- 电磁炉: 不适用（图标划去） — Induction cooker: Not suitable (icon crossed out)  
+- 电器炉在1200W以内使用 — Use electric appliances up to 1200 W
+
+---
+
+Operational implications for archival and user guidance
+- Include oven‑use guidance on the product page and printed label: preheat policy, maximum internal oven temperature if available, recommended placement (middle rack), and handling gloves type (silicone/oven mitts rather than thin disposable gloves).  
+- Explicitly warn against placing the ceramic directly on exposed flame if instruction differs for gas stoves versus oven racks; prefer using a trivet or oven‑safe tray for even heat distribution and to protect the pot base.  
+- Retain manufacturer claimed thermal tolerance (450–500°C) in archival notes but mark it as manufacturer claim pending verification from SGS/FDA/third‑party test reports.
+
+---
+
+Safety and preservation notes for archival use
+- For archival cooking tests, use incremental temperature ramps (e.g., 100°C steps) and photograph for provenance.  
+- Do not expose to rapid cooling after high‑temperature oven use; allow gradual cooling to limit thermal shock despite rated resistance.  
+- Record any glaze crazing, crazes propagation, or base deformation after oven cycles in the object log.
+
+---
+
+Label and repository corrections (applied)
+- Removed unrelated glove entry from certificate text.  
+- Added explicit bilingual oven suitability line.  
+- Retained crossed‑out induction icon statement.  
+- Added “Capacity: 4 L” line to identification.
+
+---
+
+Final archival note
+- Preserve scans/photos of the icon array emphasizing the oven icon and the crossed‑out induction icon for UX provenance.  
+- Flag the manufacturer thermal rating and FDA claim for documentary verification; attach SGS/FDA reports to the archival record when available.
+
