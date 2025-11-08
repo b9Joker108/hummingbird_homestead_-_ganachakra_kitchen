@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 # Repurposing Dodgy Android TV Boxes as Linux Devices
 
-The market is flooded with ARM-based streaming TV boxes that typically run outdated and insecure versions of Android. While these devices can be used for their intended streaming purposes, they are often poorly optimized and frequently misrepresent their hardware specifications. This raises an important question: can these boxes be converted into Linux single-board computers (SBCs) and serve as budget alternatives to Raspberry Pi devices? According to Oleksii’s Tech on YouTube, the answer is “... sort of ...”:
+The market is flooded with ARM-based streaming TV boxes that typically run outdated and insecure versions of Android. While these devices can be used for their intended streaming purposes, they are often poorly optimized and frequently misrepresent their hardware specifications. This raises an important question: May these boxes be converted into GNU/Linux single-board computers (SBCs) and serve as cost-friendly alternatives to Raspberry Pi devices? According to channel: [Oleksii’s Tech @ YouTube](https://www.youtube.com/@OleksiisTech), the answer is “... sort of ...”:
 
 [![](https://img.youtube.com/vi/b1UIIlYLM4I/default.jpg)](https://youtu.be/b1UIIlYLM4I)
 
