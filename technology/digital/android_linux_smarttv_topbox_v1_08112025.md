@@ -12,27 +12,27 @@ The market is flooded with ARM-based streaming TV boxes that typically run outda
 
 A common example is the X96Q clone Android \[GNU/Linux] TV topbox, which Oleksii, based in Ukraine, purchased for circa USD(?) $10.00. This device was advertised as featuring a quad-core Cortex-A53 AllWinner H313 SoC, 2 GB of RAM, and 16 GB of eMMC Flash storage. However, upon inspection, it was found to contain a Rockchip RK3229 SoC with significantly lower performance, only 1 GB of RAM, and 8 GB of eMMC Flash. This discrepancy highlights a widespread issue of misleading hardware specifications in these advertised devices.
 
-Despite these limitations, the topbox was still capable of running a GNU/Linux, specifically [Armbian](https://en.wikipedia.org/w/index.php?title=Armbian&oldid=1307667137), a popular Linux distribution for ARM devices. Oleksii used the Rk322x-box minimal Armbian image, which allowed the device to boot directly from an SD card. This was a fortunate outcome, as some Android TV boxes require more complex procedures to boot from external media.
+Despite these limitations, the topbox was still capable of running a GNU/Linux, specifically [Armbian](https://en.wikipedia.org/w/index.php?title=Armbian&oldid=1307667137), a popular distribution for repurposing ARM devices. Oleksii used the Rk322x-box minimal Armbian image, which allowed the device to boot directly from an SD card. This was a fortunate outcome, as some Android \[GNU/Linux] TV topboxes require more complex procedures to boot from external media.
 
 ---
 
 ## Installing Linux and Performance Considerations
 
-To successfully install Linux on these devices, it is crucial first to identify the actual hardware inside the box. Once the correct SoC is known, an appropriate Armbian image can be obtained. In the case of the X96Q clone, the Rockchip RK3229-compatible image was used.
+To successfully liberate these devices, one must nuke the extant OS and install a distribution of GNU/Linux (or their ilk) on these devices, it is crucial first to forensicly identify the actual hardware inside the topbox. Once the correct SoC is known, an appropriate Armbian GNU/Linux image may be secured. In the case of the X96Q clone, the Rockchip RK3229-compatible image was used.
 
-While the device could run an Armbian desktop environment, performance was poor. The quad-core Cortex-A7 CPU struggled with desktop applications, making the experience subpar. The limited RAM and storage further constrained usability.
+Whilst the device may run an Armbian GNU/Linux desktop environment, performance was poor. The quad-core Cortex-A7 CPU struggled with desktop applications, making the experience subpar. The limited RAM and storage further constrained usability.
 
 ---
 
 ## Practical Uses for Repurposed TV Boxes
 
-Given their modest specifications, these repurposed Android TV boxes are best suited for light server tasks rather than desktop computing. Their low power consumption and built-in Ethernet make them ideal for running services such as:
+Given their modest specifications, these repurposed Android \[GNU/Linux] TV topboxes are best suited for light server tasks rather than desktop computing. Their low power consumption and built-in Ethernet make them ideal for running services such as:
 
 - **Pi-Hole** (network-wide ad blocking)
 - **Samba** (file sharing)
 - **IRC bouncers** (persistent IRC connections)
 
-Using these devices in such roles not only provides a cost-effective solution but also helps reduce electronic waste by giving otherwise discarded hardware a second life.
+Using these devices in such roles not only provides a cost-effective solution but also helps reduce electronic waste by giving otherwise discarded hardware a new life, role and purpose.
 
 ---
 
