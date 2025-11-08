@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/technology/digital/android_linux_smarttv_topbox_v1_08112025.md
 
 # Repurposing Dodgy Android TV Boxes as Linux Devices
 
