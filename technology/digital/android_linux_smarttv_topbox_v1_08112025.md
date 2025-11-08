@@ -10,9 +10,9 @@ The market is flooded with ARM-based streaming TV boxes that typically run outda
 
 ## The Reality Behind the Hardware
 
-A common example is the X96Q clone Android \[GNU/Linux] TV box, which Oleksii, based in Ukraine, purchased for circa USD(?) $10.00. This device was advertised as featuring a quad-core Cortex-A53 AllWinner H313 SoC, 2 GB of RAM, and 16 GB of eMMC Flash storage. However, upon inspection, it was found to contain a Rockchip RK3229 SoC with significantly lower performance, only 1 GB of RAM, and 8 GB of eMMC Flash. This discrepancy highlights a widespread issue of misleading hardware specifications in these devices.
+A common example is the X96Q clone Android \[GNU/Linux] TV topbox, which Oleksii, based in Ukraine, purchased for circa USD(?) $10.00. This device was advertised as featuring a quad-core Cortex-A53 AllWinner H313 SoC, 2 GB of RAM, and 16 GB of eMMC Flash storage. However, upon inspection, it was found to contain a Rockchip RK3229 SoC with significantly lower performance, only 1 GB of RAM, and 8 GB of eMMC Flash. This discrepancy highlights a widespread issue of misleading hardware specifications in these advertised devices.
 
-Despite these limitations, the box was still capable of running Linux, specifically Armbian, a popular Linux distribution for ARM devices. Oleksii used the Rk322x-box minimal Armbian image, which allowed the device to boot directly from an SD card. This was a fortunate outcome, as some Android TV boxes require more complex procedures to boot from external media.
+Despite these limitations, the topbox was still capable of running a GNU/Linux, specifically [Armbian](https://en.wikipedia.org/w/index.php?title=Armbian&oldid=1307667137), a popular Linux distribution for ARM devices. Oleksii used the Rk322x-box minimal Armbian image, which allowed the device to boot directly from an SD card. This was a fortunate outcome, as some Android TV boxes require more complex procedures to boot from external media.
 
 ---
 
@@ -62,4 +62,5 @@ By carefully selecting and preparing these inexpensive Android TV boxes, hobbyis
 # References #
 
 * https://hackaday.com/2025/11/03/repurposing-dodgy-android-tv-boxes-as-linux-boxes/ (accessed: Saturday, November 08, 2025)
+* https://en.wikipedia.org/w/index.php?title=Armbian&oldid=1307667137 
 
