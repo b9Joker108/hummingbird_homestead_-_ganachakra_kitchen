@@ -1,3 +1,6 @@
+<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+<div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
+
 <a href="assets/images/drum_panel_with_nagaraja_muchalinda_sada_1st_century_bce-1st_century_ce.india_dhulikatta_stupa_karimnagar_district_telanga.jpg">
   <img
     src="assets/images/drum_panel_with_nagaraja_muchalinda_sada_1st_century_bce-1st_century_ce.india_dhulikatta_stupa_karimnagar_district_telanga.jpg"
