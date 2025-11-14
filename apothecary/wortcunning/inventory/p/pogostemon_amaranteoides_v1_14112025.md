@@ -137,6 +137,9 @@ If you want, I can:
 
 * de Candolle, Alphonse (1848). 'Prodromus Systematis Naturalis Regni Vegetabilis: Sive Enumeratio Contracta Ordinum, Generum, Specierumque, Plantarum, Hucusque, Cognitarium, Juxta Methodi Naturalis Normas Digesta'. Vol. 12. Paris, France: Sumptibus Victoris Masson. Source: https://archive.org/details/mobot31753003013361 (accessed: Friday, November 14, 2025)
 
+![Pogostemon amaranthoides](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/plants/pogostemon_amaranthoides_image_1.jpg)
+
+
 Overview
 
 短冠刺蕊草 — five characters forming a Chinese plant name. Below I give for each character: pronunciation (Mandarin, pinyin + tone), primary meanings in botanical/vernacular context, stroke count, the character’s Kangxi radical and its semantic role, decomposition into components (radical + phonetic or subcomponents), brief etymology/formation type (pictograph, ideograph, phonetic‑semantic compound), and common usages or related compounds.
