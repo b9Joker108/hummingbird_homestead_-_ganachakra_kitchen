@@ -1,5 +1,10 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/wortcunning/inventory/p/pogostemon_amaranteoides_v1_14112025.md
 
+# Pogostemon amaranteoides #
+
+Bangla: উদ্ভিদের প্রজাতি ; 
+
+
 ![de Candolle Prodromus vol.12 p.153](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/de_candolle_-_alphonse_1848._prodromus_systematis_naturalis_regni_vegetabilis_vol12_p153.jpg)
 
 [de Candolle](https://en.wikipedia.org/w/index.php?title=Alphonse_Pyramus_de_Candolle&oldid=1297851491) (1848: p. 153) states:
