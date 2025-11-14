@@ -2,9 +2,9 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 ![Pogostemon amaranthoides](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/plants/pogostemon_amaranthoides_image_2.jpg)
 
-# Pogostemon amarant\[h]eoides #
+# Pogostemon amarant\[he]oides #
 
-Latin: Pogostemon amarant\[h]eoides; Chinese: 短冠刺蕊草;  
+Latin: Pogostemon amarant\[he]oides; Chinese: 短冠刺蕊草;  
 
 
 ![de Candolle Prodromus vol.12 p.153](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/de_candolle_-_alphonse_1848._prodromus_systematis_naturalis_regni_vegetabilis_vol12_p153.jpg)
