@@ -74,7 +74,7 @@ Citations:
 
 No, it seems like Mohi, is actually a Nepali and Hindi derived word for 'buttermilk' and the true Bhutanese term is: དརཝ་ (Nishida, 2020: p. 37)?
 
-You are correct: "Mohi" (also spelled "mahi" or "mohi") is a loanword from Nepali and Hindi for buttermilk, and is widely used in Bhutanese vernacular, especially in regions with Nepali influence. However, the indigenous Dzongkha/Tibetan term for buttermilk, and the one used in traditional Bhutanese cheesemaking, is indeed "དརཝ་" (transliterated in Wylie as "dar ra wa" or simply "darwa")[2].
+You are correct: "Mohi" (also spelled "mahi" or "mohi") is a loanword from Nepali and Hindi for buttermilk, and is widely used in Bhutanese vernacular, especially in regions with Nepali influence. However, the indigenous Dzongkha/Tibetan term for buttermilk, and the one used in traditional Bhutanese cheesemaking, is indeed "དརཝ་" (transliterated in Wylie as "dar wa" or simply "darwa")[2].
 
 - "Mohi" refers specifically to buttermilk in both everyday and cheesemaking contexts, though it is not originally a native Bhutanese word.
 - The proper Dzongkha (and Classical Tibetan) word for buttermilk as used in Bhutan is: དརཝ་ ("darwa" in Wylie transliteration).
