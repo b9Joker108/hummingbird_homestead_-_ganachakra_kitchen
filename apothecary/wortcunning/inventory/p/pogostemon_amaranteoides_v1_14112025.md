@@ -1,5 +1,7 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/wortcunning/inventory/p/pogostemon_amaranteoides_v1_14112025.md
 
+![De Candolle Prodromus vol.12 p.153](assets/images/de_candolle,_alphonse_1848._prodromus_systematis_naturalis_regni_vegetabilis'_vol_12_p_153.jpg)
+
 [de Candolle](https://en.wikipedia.org/w/index.php?title=Alphonse_Pyramus_de_Candolle&oldid=1297851491) (1848: p. 153) states:
 
 > 10. P. amaranteoides, tenuissime pubescens vel glabratus, foliis amplis ovatis oblongisve inciso-serratis basi angustatis, verticillastris subaequalibus interrupt spicatis paniculatis, bracteis minutis subnullis, calycis puberuli dentibus brevibus lanceolatis. — In Himalaya prope Simla (herb. Hook.!), in mont. Khasiya et Assam (Griff.!). Habitus P. Heyneani. Folia 4–6-pollicaria, membranacea. Flores illis P. Heyneanae minores. Bracteae raro oculo nudo conspicuae. (v.s.)
