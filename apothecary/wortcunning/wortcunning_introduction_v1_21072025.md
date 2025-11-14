@@ -303,4 +303,6 @@ Wortcunning thus signifies not only technical mastery of medicinal plants, but e
 ## Chinese Materia Medica ##
 
 * https://en.wikibooks.org/wiki/Traditional_Chinese_Medicine/Usage_Of_Single_Herbs
+* ISO 18662-1:2017(en): 'Traditional Chinese Medicine — Vocabulary — Part 1: Chinese Materia Medica'. Refer: https://www.iso.org/obp/ui/es/#iso:std:iso:18662:-1:ed-1:v1:en (accessed: Friday, November 14, 2025)
+  
 
