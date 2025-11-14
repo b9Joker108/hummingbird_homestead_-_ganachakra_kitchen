@@ -1,5 +1,5 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/README.md
 
-It may be useful, wise and furure-proofing, to move towards using the following:
+It may be useful, wise and future-proofing, to move towards using and integ$ating the following:
 
-https://git-lfs.com/
+https://git-lfs.com/ (accessed: Friday, November 14, 2025)
