@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/wortcunning/inventory/p/pogostemon_amaranteoides_v1_14112025.md
 
-ggggg
+[de Candolle](https://en.wikipedia.org/w/index.php?title=Alphonse_Pyramus_de_Candolle&oldid=1297851491) (1848: p. 153) states:
 
 > 10. P. amaranteoides, tenuissime pubescens vel glabratus, foliis amplis ovatis oblongisve inciso-serratis basi angustatis, verticillastris subaequalibus interrupt spicatis paniculatis, bracteis minutis subnullis, calycis puberuli dentibus brevibus lanceolatis. — In Himalaya prope Simla (herb. Hook.!), in mont. Khasiya et Assam (Griff.!). Habitus P. Heyneani. Folia 4–6-pollicaria, membranacea. Flores illis P. Heyneanae minores. Bracteae raro oculo nudo conspicuae. (v.s.)
 
@@ -124,3 +124,8 @@ If you want, I can:
 - produce a literal word‑for‑word gloss line beneath the original Latin;
 - render a modern annotated translation into precise English suitable for archival metadata;
 - map the historical collector abbreviations to full collector/herbarium names and supply likely herbarium codes and specimen citations.
+
+# References #
+
+* de Candolle, Alphonse (1848). 'Prodromus Systematis Naturalis Regni Vegetabilis: Sive Enumeratio Contracta Ordinum, Generum, Specierumque, Plantarum, Hucusque, Cognitarium, Juxta Methodi Naturalis Normas Digesta'. Vol. 12. Paris, France: Sumptibus Victoris Masson. Source: https://archive.org/details/mobot31753003013361 (accessed: Friday, November 14, 2025)
+
