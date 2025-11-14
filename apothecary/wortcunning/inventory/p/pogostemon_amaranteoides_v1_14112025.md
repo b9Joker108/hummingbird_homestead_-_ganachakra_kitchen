@@ -1,5 +1,7 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/wortcunning/inventory/p/pogostemon_amaranteoides_v1_14112025.md
 
+![Pogostemon amaranthoides](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/plants/pogostemon_amaranthoides_image_2.jpg)
+
 # Pogostemon amaranteoides #
 
 Latin: Pogostemon amaranteoides; Chinese: 短冠刺蕊草;  
