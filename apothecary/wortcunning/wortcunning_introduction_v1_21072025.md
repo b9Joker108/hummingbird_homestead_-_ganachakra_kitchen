@@ -305,4 +305,16 @@ Wortcunning thus signifies not only technical mastery of medicinal plants, but e
 * https://en.wikibooks.org/wiki/Traditional_Chinese_Medicine/Usage_Of_Single_Herbs
 * ISO 18662-1:2017(en): 'Traditional Chinese Medicine — Vocabulary — Part 1: Chinese Materia Medica'. Refer: https://www.iso.org/obp/ui/es/#iso:std:iso:18662:-1:ed-1:v1:en (accessed: Friday, November 14, 2025)
   
+Dàguān Běncǎo (大觀本草), which translates to the "Dàguān Materia Medica", is a significant edition of a foundational Chinese pharmaceutical text, originally compiled by Táng Shènwēi (唐慎微) during the Song Dynasty.
+The original work was titled Jīngshǐ zhènglèi bì jí běncǎo (經史證類備急本草), or the "Classified Materia Medica for Urgent Use from the Classics and Histories," commonly shortened to Zhènglèi běncǎo.
+
+The "Dàguān" version refers specifically to an official, imperial revision of this text:
+
+* Original Compilation: Táng Shènwēi (唐慎微) compiled the original Zhènglèi běncǎo during the Northern Song dynasty.
+
+* The Dàguān Edition: In the second year of the Dàguān era (1108 CE), the work was officially reviewed, edited, and expanded by Ài Chéng (艾晟) under imperial order. This revised version was published under the new name Jīngshǐ zhènglèi dàguān běncǎo (經史證類大觀本草), marking its status as the first officially commissioned and printed edition of the text.
+
+* Later Revisions: The book underwent further official revisions, notably the Zhènghé Běncǎo edition in 1116 CE.
+This materia medica was a landmark text in the history of Traditional Chinese Medicine (TCM). It integrated the contents of previous official pharmacopoeias, collected a vast amount of medicinal knowledge, folk remedies, and information from historical and philosophical texts. It documented 1,558 different medicinal substances and served as a critical reference for future pharmacologists, including Lǐ Shízhēn (李時珍) when he compiled the monumental Běncǎo Gāngmù (Compendium of Materia Medica) during the Ming Dynasty.
+
 
