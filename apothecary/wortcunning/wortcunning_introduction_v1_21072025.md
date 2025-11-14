@@ -300,3 +300,7 @@ Certainly—here is an extended, scholarly account of **wortcunning**: its histo
 
 Wortcunning thus signifies not only technical mastery of medicinal plants, but embeddedness in landscape, custom, and ritual—the living armature of folk, rural, and ritual healing traditions. It was (and remains) both a way of knowing and a way of being in the more-than-human world.
 
+## Chinese Materia Medica ##
+
+* https://en.wikibooks.org/wiki/Traditional_Chinese_Medicine/Usage_Of_Single_Herbs
+
