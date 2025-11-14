@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 # Datshi: Bhutanese Soft Cheese #
 
-I am interested in making Bhutanese Cheese, particularly: 'Datshi' (Tibetan & Dzongkha: དར་ཚིལ་; Wylie: dar tshil) which I understand was traditionally made from Himalayan Yak milk, but now is also often just made from lowland cow milk. I watched a Bhutanese lady make what she called "Datshi", but it was a modern and derivative process of making Indian panir, with cow milk heated till warm on a hob element, then she added white vinegar and gathered the curds together in a ball with hands in the whey of the pot on the hob with element heating. That may be what is, now, often used in Bhutanese households, but that isn't the traditional method. I understand that Datshi is traditionally made from buttermilk, not milk proper, and vinegar, of any kind, is of course not used. I am interested in producing small batches, for one, of the traditional product in my homestead kitchen to use in recipes, as I understand when cooked with, it has a different texture, flavour and culinary properties and qualities to modern processes of making Indian panir.
+I am interested in making Bhutanese Cheese, particularly: 'Datshi' (Tibetan & Dzongkha: དར་ཚིལ་; Wylie: dar tshil) (Nishida, 2020: p. 37) which I understand was traditionally made from Himalayan Yak milk, but now is also often just made from lowland cow milk. I watched a Bhutanese lady make what she called "Datshi", but it was a modern and derivative process of making Indian panir, with cow milk heated till warm on a hob element, then she added white vinegar and gathered the curds together in a ball with hands in the whey of the pot on the hob with element heating. That may be what is, now, often used in Bhutanese households, but that isn't the traditional method. I understand that Datshi is traditionally made from buttermilk, not milk proper, and vinegar, of any kind, is of course not used. I am interested in producing small batches, for one, of the traditional product in my homestead kitchen to use in recipes, as I understand when cooked with, it has a different texture, flavour and culinary properties and qualities to modern processes of making Indian panir.
 
 The traditional Bhutanese cheese Datshi is indeed distinct from Indian paneer and follows an artisanal process generally using fermented milk products rather than fresh milk and acidulation (vinegar). 
 
@@ -72,7 +72,7 @@ Citations:
 [13] Kewa Datshi (Bhutanese Dish) Recipe https://www.allrecipes.com/recipe/258879/kewa-datshi-bhutanese-dish/
 
 
-No, it seems like Mohi, is actually a Nepali and Hindi derived word for 'buttermilk' and the true Bhutanese term is: དརཝ་ (Nishidav 2020: p. xxx)?
+No, it seems like Mohi, is actually a Nepali and Hindi derived word for 'buttermilk' and the true Bhutanese term is: དརཝ་ (Nishida, 2020: p. 37)?
 
 You are correct: "Mohi" (also spelled "mahi" or "mohi") is a loanword from Nepali and Hindi for buttermilk, and is widely used in Bhutanese vernacular, especially in regions with Nepali influence. However, the indigenous Dzongkha/Tibetan term for buttermilk, and the one used in traditional Bhutanese cheesemaking, is indeed "དརཝ་" (transliterated in Wylie as "dar ra wa" or simply "darwa")[2].
 
@@ -99,4 +99,4 @@ Citations:
 
 # References #
 
-* Nishida, Fuminobu (Japanese: 西田 文信) (2020). 'Dzongkha Expressions (Japanese: ゾンカ語表現集): ILCAA Intensive Language Course 2019 “Dzongkha” Textbook 3'. Fuchu, Tokyo, Japan: 'Research Institute for Languages and Cultures of Asia and Africa \[ILCAA]' (Japanese: アジア・アフリカ言語文化研究所), 'Tokyo University of Foreign Studies' (Japanese: 東京外国語大学). Source: https://www.aa.tufs.ac.jp/wp-content/uploads/2024/02/2019dzongkha3.pdf (accessed: Saturday, November 15, 2025)
+* Nishida, Prof. Fuminobu (Japanese: 西田 文信) (2020). 'Dzongkha Expressions (Japanese: ゾンカ語表現集): ILCAA Intensive Language Course 2019 “Dzongkha” Textbook 3'. Fuchu, Tokyo, Japan: 'Research Institute for Languages and Cultures of Asia and Africa \[ILCAA]' (Japanese: アジア・アフリカ言語文化研究所), 'Tokyo University of Foreign Studies' (Japanese: 東京外国語大学). Source: https://www.aa.tufs.ac.jp/wp-content/uploads/2024/02/2019dzongkha3.pdf (accessed: Saturday, November 15, 2025)
