@@ -11,7 +11,7 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 Systematic explication (word‑by‑word, phrase, clause, sentence, paragraph)
 
 Heading and number
-* \10.
+* 10.
   * ordinal number in the species list: this is the tenth species entry in the treatment.
 
 * P.
