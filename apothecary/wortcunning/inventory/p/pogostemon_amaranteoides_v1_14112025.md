@@ -11,11 +11,11 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 Systematic explication (word‑by‑word, phrase, clause, sentence, paragraph)
 
 Heading and number
-- 10.
-  - ordinal number in the species list: this is the tenth species entry in the treatment.
+* 10.
+  * ordinal number in the species list: this is the tenth species entry in the treatment.
 
-- P.
-  - abbreviation of the generic name; in context this is Pogostemon (or another genus beginning with P. used in that work); the full genus is understood from the surrounding treatment.
+* P.
+  * abbreviation of the generic name; in context this is Pogostemon (or another genus beginning with P. used in that work); the full genus is understood from the surrounding treatment.
 
 - amaranteoides
   - specific epithet. Formed from “Amaranthus” (or resembling Amaranthus) + the suffix “-oides” meaning “resembling” → “resembling Amaranthus”; spelled here as amaranteoides (orthography preserved from the original).
