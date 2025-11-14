@@ -273,3 +273,108 @@ Usage and bibliographic note
 - Suggested first‑mention format: 短冠刺蕊草 (duǎn guān cì ruǐ cǎo).  
 - If required, append IPA for phonetic precision and Wade‑Giles for historical citations.
 
+## Alternate Chinese Name: 马鹿菜 ##
+
+Term
+马鹿菜
+
+---
+
+Basic readings and phonetics
+- Hanyu Pinyin: mǎ lù cài  
+- Tones (numbers): ma3 lu4 cai4  
+- IPA (Standard Mandarin, Beijing): /ma³⁵ lu⁵¹ tsʰaɪ̯⁵¹/
+
+---
+
+Literal gloss
+- 马 mǎ — “horse”  
+- 鹿 lù — “deer”  
+- 菜 cài — “vegetable; herb; edible plant; greens; (collective) plant used as food or herb”  
+Literal compositional meaning: “horse‑deer herb/vegetable.” In Chinese plant names this kind of compound often encodes appearance, use, or folklore (e.g., leaf shape like a horse/deer part, eaten by horses/deer, or named after a place/person with those characters).
+
+---
+
+Character‑by‑character details
+
+1. 马 (mǎ)  
+   - Radical: 马 (horse radical, U+9A6C)  
+   - Stroke count: 3 (simplified modern glyph)  
+   - Core senses: horse; equine; used in compounds to indicate horse‑like shape or association with horses.  
+   - Formation: pictophonetic historically pictorial of a horse; here purely semantic.
+
+2. 鹿 (lù)  
+   - Radical: 鹿 (deer radical, U+9E7F)  
+   - Stroke count: 11 (modern)  
+   - Core senses: deer; often used in plant names to indicate spotted patterning, antler‑like lobes, or habitats where deer feed.  
+   - Formation: pictograph/phonetic compound reflecting the animal.
+
+3. 菜 (cài)  
+   - Radical: 艹 (grass/plant radical) + 采/菜 historical elements (U+83DC)  
+   - Stroke count: 11 (modern)  
+   - Core senses: vegetable; edible greens; also general term for plants/herbs in common speech and many botanical vernacular names.
+
+---
+
+Radical decomposition and formation notes
+- 马 and 鹿 are logographic pictorial roots; neither carries the plant radical 艹, so the compound is a lexical name rather than a literal phonetic‑semantic character for a plant.  
+- 菜 contains 艹 (plant/grass) as its semantic radical, signaling the compound’s botanical/culinary domain.
+
+---
+
+Semantic possibilities and name formation patterns
+Chinese common names often follow patterns:
+- metaphoric resemblance: e.g., leaf shape resembles a horse’s ear or deer antler → “马鹿…”  
+- animal association: plant eaten by or associated with animals (e.g., palatable to horses or deer)  
+- compounded historical names: two animal characters may come from a dialectal or phonetic corruption of an older name or a place name (马鹿 might be a phonetic rendering of a local ethnic/place name)  
+- medicinal/culinary note: 菜 signals edible or herbaceous use (often in food or folk materia medica).
+
+Thus 马鹿菜 could mean any of:
+- “herb with leaves/inflorescence resembling horse+deer feature,”  
+- “herb eaten by horses and deer,”  
+- “a dialectal/phonetic plant name preserved as 馬鹿菜,” or  
+- “folk name in a region (e.g., southern dialect) for a plant used as vegetable/medicine.”
+
+---
+
+Script variants and regional forms
+- Simplified vs Traditional: 馬鹿菜 (traditional) → 马鹿菜 (simplified). Both forms are semantically identical.  
+- Alternate pronunciations: in some southern dialects the characters may be read differently; recorded folk names sometimes differ between Mandarin transcription and local languages.
+
+---
+
+Probable botanical referents and caution
+- Without a specimen, locality, or context (culinary, pharmacopoeia entry, morphology), it is not possible to uniquely map 马鹿菜 to a single Linnaean taxon. Many vernacular names are polysemous regionally and may refer to different species.  
+- Common‑name candidates: names of the form X鹿菜 occur for several families (Compositae, Lamiaceae, Rubiaceae, etc.) depending on region. Do not assert identity without primary sources.  
+- Recommended verification sources: Flora of China, Chinese Virtual Herbarium (CVH), local provincial floras, Chinese Materia Medica (本草), and specimen label transcriptions from PE/KUN/IBSC herbaria.
+
+---
+
+How to verify historically and academically (step‑by‑step)
+1. Search Flora of China (online) for “马鹿菜” and for the pinyin string “mǎlùcài” in vernacular fields.  
+2. Query the Chinese Virtual Herbarium (CVH) for specimen labels that include 马鹿菜; filter by locality if known.  
+3. Search classical materia medica texts and modern pharmacopoeias (中药典, 本草纲目索引) for the string 马鹿菜 and for related synonyms.  
+4. Use CNKI or Google Scholar with quotes: "马鹿菜" and also alternative forms "馬鹿菜" + botanical keywords (食用, 本草, 药用).  
+5. If you have a scanned label or image, extract surrounding context (collector, locality, description) to disambiguate which species the folk name mapped to historically.
+
+---
+
+Recommended metadata entry for your archive
+- vernacularName.chinese: 马鹿菜  
+- pinyin: mǎ lù cài  
+- literalGloss: “horse‑deer herb/vegetable”  
+- usageNote: "folk/vernacular name; may be culinary or medicinal. Verify against Flora of China, CVH, or local materia medica before asserting Linnaean identity."  
+- verificationChecklist: [Flora of China: ], [CVH: ], [Provincial Flora: ], [Herbarium label: ]  
+- suggestedDisplay: 馬鹿菜 (traditional) — 马鹿菜 (simplified) (duǎn guān cì ruǐ cǎo)  <-- replace pinyin with this name's pinyin when used
+
+---
+
+Example rapid hypothesis (use only as a lead to check)
+- If you find 马鹿菜 in a materia medica entry that lists usage and morphological notes (leaf shape, taste, habitat), compare those characters with your specimen. This will resolve identity far more reliably than lexical comparison alone.
+
+---
+
+If you want, I can now:
+- draft the exact search queries (in both Chinese and pinyin) you should paste into Flora of China, CVH, and CNKI; or  
+- search for occurrences of 马鹿菜 in digitised Chinese texts and herbarium labels and report back candidate taxa and citations (I will list the exact sources to check). Which do you prefer?
+
