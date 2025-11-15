@@ -214,7 +214,7 @@ The Bhutan Foundation’s Small Grants Program proudly supports this transformat
 
 * Source: https://www.bhutanfound.org/empowering-dagalas-yak-herders-through-cheese-making-and-livelihood-diversification/ (accessed: Sunday, November 16, 2025)
 
-I don't remember the source, but a foreign person travelling amongst the traditional peoples of the Himalaya, said they were truly the people of the yak. The yak as a pack beast-of-burden and as the yak furnished all their fundamental subsistence requirements at altitude, that is the two (2) essential macronutrients of the human diet, fat and protein. The commentator said everythink smelt of yak. Just as early Asian records state that Western people were defined by their smell and exuding dairy cow milk from their pores was so marked to the Asian peoples who then did not consume cow dairy.
+I don't remember the source, but a foreign person travelling amongst the traditional peoples of the Himalaya, said they were truly the people of the yak. The yak as a pack beast-of-burden and as the yak furnished all their fundamental subsistence requirements at altitude, that is the two (2) essential macronutrients of the human diet, fat and protein. The commentator said everything smelt of yak and that the scent was ubiquitous: Just as early Asian records state that Western people were defined by their smell of exuding dairy cow milk from their pores was so marked to the Asian peoples who then did not consume cow dairy.
 
 That’s a vivid ethnographic observation — and it aligns with what anthropologists and travelers have often noted about Himalayan pastoral cultures.  
 
