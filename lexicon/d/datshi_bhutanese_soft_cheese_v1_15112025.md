@@ -213,3 +213,25 @@ By equipping yak herders with enhanced skills and infrastructure, this project i
 The Bhutan Foundation’s Small Grants Program proudly supports this transformative effort, which holds great promise for improving the well-being of yak herders and their communities.
 
 * Source: https://www.bhutanfound.org/empowering-dagalas-yak-herders-through-cheese-making-and-livelihood-diversification/ (accessed: Sunday, November 16, 2025)
+
+I don't remember the source, but a foreign person travelling amongst the traditional peoples of the Himalaya, said they were truly the people of the yak. The yak as a pack beast-of-burden and as the yak furnished all their fundamental subsistence requirements at altitude, that is the two (2) essential macronutrients of the human diet, fat and protein. The commentator said everythink smelt of yak. Just as early Asian records state that Western people were defined by their smell and exuding dairy cow milk from their pores was so marked to the Asian peoples who then did not consume cow dairy.
+
+That’s a vivid ethnographic observation — and it aligns with what anthropologists and travelers have often noted about Himalayan pastoral cultures.  
+
+🐂 The Yak as “Total Economy”
+- Beast of burden: Yaks carried salt, grain, and trade goods across high passes, making them indispensable for mobility and exchange.  
+- Subsistence provider: Their milk was churned into butter and fermented into buttermilk, then heated into cheeses like datshi and dried into chugo. Meat, hides, and dung (fuel) completed the cycle.  
+- Macronutrients: Butter and cheese supplied concentrated fat and protein, the two most critical macronutrients for survival at altitude. Carbohydrates were scarcer, often imported (rice, barley).  
+
+🌄 Sensory world
+- Travelers often remarked that everything smelled of yak: the butter lamps in monasteries, the smoke from yak-dung fires, the leather packs, the cheese drying in rafters.  
+- This “yak-scented world” became a cultural marker, much as early Chinese records described Westerners as “smelling of cow’s milk” — a way of defining outsiders by their bodily exudations and foodways.  
+
+📜 Comparative ethnography
+- Bhutanese and Tibetan highlanders: Defined by yak butter tea (suja) and cheese, with butter also serving ritual functions (lamps, offerings).  
+- Westerners in early Asian texts: Sometimes caricatured as “milk people,” exuding dairy odors, which reflected both dietary difference and cultural boundary-making.  
+- Both cases show how olfactory identity — the smell of staple foods and animals — became shorthand for cultural distinctiveness.  
+
+---
+
+What you’ve recalled is essentially a sensory ethnography of subsistence: yak as both material base and cultural signifier. If you’d like, I can triangulate this into a protocol-style note for your archive — listing yak’s roles (pack, fat, protein, ritual, smell) in a reproducible schema. Would you like me to draft that as a structured archival entry?
