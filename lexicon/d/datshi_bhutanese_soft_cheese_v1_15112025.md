@@ -102,3 +102,83 @@ Citations:
 # References #
 
 * Nishida, Prof. Fuminobu (Japanese: 西田 文信) (2020). 'Dzongkha Expressions (Japanese: ゾンカ語表現集): ILCAA Intensive Language Course 2019 “Dzongkha” Textbook 3'. Fuchu, Tokyo, Japan: 'Research Institute for Languages and Cultures of Asia and Africa \[ILCAA]' (Japanese: アジア・アフリカ言語文化研究所), 'Tokyo University of Foreign Studies' (Japanese: 東京外国語大学). Source: https://www.aa.tufs.ac.jp/wp-content/uploads/2024/02/2019dzongkha3.pdf (accessed: Saturday, November 15, 2025)
+
+
+Overview
+This is a compact and reproducible recipe to churn two (2) litres of whole milk to make butter and collect the liquid buttermilk, then transform that buttermilk into traditional Bhutanese datshi (cheese) by heating and stirring in a contemporary kitchen. It follows the traditional sequence: make dahi/curd → churn to butter (yield butter + mohi/buttermilk) → heat buttermilk until coagulation to produce datshi. Expected final yields (approximate): butter 120–200 g; datshi 80–180 g depending on milk fat and how much solids remain in butter.
+
+---
+
+Equipment and ingredients
+- 2 L whole milk (fresh, not UHT if possible)  
+- Large heavy-bottomed saucepan or pot (3–4 L)  
+- Thermometer (instant-read)  
+- Clean glass or ceramic bowl (for cooling/holding curd)  
+- Electric whisk, stand mixer, or jar for hand-shaking (for churning)  
+- Fine-mesh strainer and cheesecloth (double-layer)  
+- Large saucepan for heating buttermilk (2–3 L)  
+- Wooden spoon or heatproof spatula for continuous stirring  
+- Slotted spoon or small sieve for collecting curd lumps  
+- Clean container for draining/forming datshi  
+- Salt to taste (optional)  
+- Ice water bath (bowl of iced water)  
+
+---
+
+Step 1 — Make curd (dahi) from 2 L milk
+1. Pour 2 L milk into the large saucepan and slowly heat to 35–40 °C (body温). Remove from heat.  
+2. Inoculate to set curd: either add 100–150 g plain live yogurt (starter) or 3–4 tbsp cultured buttermilk; stir gently to distribute.  
+3. Cover and keep warm (25–35 °C) for 8–12 hours until firm set (jelly-like). Alternatively, place in oven with light on or insulated cooler to maintain gentle warmth.  
+Notes: the traditional Bhutanese first step is to prepare dahi/curd from raw milk; this reproduces that at home.
+
+---
+
+Step 2 — Churn curd to make butter and collect buttermilk (mohi)
+1. Once set, break curd into chunks and transfer to a mixing bowl.  
+2. Use electric whisk or stand mixer at medium-high speed and whisk until the curd separates into butter lumps and liquid (buttermilk). This can take 3–8 minutes depending on equipment. If doing by hand, place curd in a jar and shake vigorously for 10–20 minutes.  
+3. Drain the liquid (buttermilk / mohi) through cheesecloth into a clean bowl; reserve in the fridge if not using immediately.  
+4. Rinse butter under cold running water and work out remaining buttermilk; shape and salt lightly if desired. Weigh or note butter yield (expect ~120–200 g from 2 L whole milk).  
+Notes: the liquid residue (mohi/buttermilk) is the feedstock for datshi and is central to the traditional method.
+
+---
+
+Step 3 — Prepare for making datshi from buttermilk
+- Use the buttermilk fresh or gently warmed; if chilled, bring it to room temperature.  
+- Measure volume: expect roughly 1.6–1.8 L of liquid after churning (varies by how dry the butter is). Top up with a little water or thin yogurt whey if volume is insufficient — traditional recipes accept modest dilution.
+
+---
+
+Step 4 — Heat-and-stir coagulation to produce datshi
+1. Transfer buttermilk (mohi) to the large saucepan. Place over medium-low heat. Attach thermometer.  
+2. Slowly bring the buttermilk to 70–85 °C while stirring constantly with a wooden spoon. Avoid rapid boil; maintain a gentle rolling simmer at most.  
+3. As the liquid heats, proteins will begin to coagulate into small curd clumps; keep stirring to agglomerate them into larger curds while preventing scorching on the bottom.  
+4. When curds form and separate from a clearer whey (appearance: small to medium curds floating in pale whey), reduce heat to low and continue stirring gently for 5–15 minutes to allow curds to firm. Typical coagulation begins around 70–80 °C depending on acidity and solids.  
+5. Use a slotted spoon or fine sieve to collect curd lumps (datshi). Transfer to cheesecloth-lined colander to drain; press lightly for a firmer texture. Season with salt if desired. Form into small balls or a loose crumbly cheese.  
+
+Cultural note: the traditional datshi is the clumped curds formed when the buttermilk is heated and stirred; drain and press to shape.
+
+---
+
+Timing and temperatures (quick reference)
+- Milk heating to inoculate: 35–40 °C.  
+- Set curd incubation: 8–12 h at ~25–35 °C.  
+- Churning: 3–20 min depending on method.  
+- Buttermilk heating for datshi: slowly to 70–85 °C; coagulation usually appears 70–80 °C.  
+- Continuous stirring required during entire heat-up and coagulation phase to avoid burning and to produce even curds.
+
+---
+
+Troubleshooting
+- No curd set after 12 h: starter inactive or milk overheated before inoculation; restart with fresh active yogurt starter.  
+- Butter fails to form: curd too fresh or not acidic enough; allow curd to rest longer or agitate more vigorously.  
+- Buttermilk won’t coagulate: acidity too low; add 1–2 tbsp of lemon juice or vinegar, or a small amount of yogurt to acidify, then heat gently — curds should form.  
+- Scorching on bottom: use heavy-bottom pot and constant stirring; reduce heat and use an oil-slick (thin layer) of water to keep curds moving.  
+- Texture too soft/watery: drain longer, press lightly, or heat a bit longer at low temperature to consolidate curds.
+
+---
+
+Yields, storage, and uses
+- Butter: use immediately or store in the fridge up to 1 week; freeze for long-term.  
+- Datshi: store refrigerated in airtight container 3–7 days; for traditional use, it is often added directly to dishes like ema datshi (chili-cheese). Reheat gently in stews or melt into sauces.  
+- Whey leftover after datshi: nutritious, usable for soups, rising bread, or fermentation starters.
+
