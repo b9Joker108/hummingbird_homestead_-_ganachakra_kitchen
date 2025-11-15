@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 # Amaranthus tricolour 'Peacock' #
 
-Chinese spinach (non-descript), Tampala, Joseph's coat, 苋菜, 汗菜, .... Telegu: నెమలి తోటకూర (IAST: nemali t\[h]ōṭakūra)
+Chinese spinach (red), Tampala, Joseph's coat, 苋菜, 汗菜, .... Telegu: నెమలి తోటకూర (IAST: nemali t\[h]ōṭakūra)
 
 ## Generic Amaranth Synonymns ##
 
