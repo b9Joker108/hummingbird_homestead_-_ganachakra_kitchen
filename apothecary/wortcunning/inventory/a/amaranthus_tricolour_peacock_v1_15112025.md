@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 ![Amaranthus tricolour 'Peacock'](https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/assets/images/plants/amaranthus_tricolor_peacock_photograph_(cc)_by_nc_sa_by_techieoldfox_jonathan_hiew.jpg)
 
-**Image:** Amaranthus tricolor 'Peacock', photograph by "techieoldfox" a handle of Jonathan Hiew. Image untitled and undated: (CC) BY-NC-SA. Source: xxx (accessed: Saturday, November 15, 2025)
+**Image:** Amaranthus tricolor 'Peacock', photograph by "techieoldfox" a handle of Jonathan Hiew. Image untitled and undated: (CC) BY-NC-SA. Source: https://tropical.theferns.info/viewtropical.php?id=Amaranthus+tricolor (accessed: Saturday, November 15, 2025)
 
 # Amaranthus tricolour 'Peacock' #
 
