@@ -182,3 +182,34 @@ Yields, storage, and uses
 - Datshi: store refrigerated in airtight container 3–7 days; for traditional use, it is often added directly to dishes like ema datshi (chili-cheese). Reheat gently in stews or melt into sauces.  
 - Whey leftover after datshi: nutritious, usable for soups, rising bread, or fermentation starters.
 
+Traditional practice summary
+Bhutanese herders used both yak and cow milk but rarely stored large volumes as raw milk for long — milk was transformed quickly into cultured and preserved forms (yogurt/curd, butter, and several types of cheese) to extend shelf life and support transport and trade.
+
+Why they transformed milk quickly
+- High-altitude, warm-season milking produced more milk than could be consumed fresh and refrigeration was absent, so fermentation and fat separation were the practical preservation strategies.  
+- Culturing (making dahi/curd) acidified the milk, making it less perishable and providing the feedstock for churning into butter and for heating the resultant buttermilk to form cheeses like datshi and chugo.  
+
+Typical products and workflows
+- Butter and mohi/buttermilk: fresh milk or curd was churned to yield butter (a valuable food and trade good) and the liquid buttermilk, which was then transformed into cheeses by heating or drying.  
+- Chugo (dried yak cheese) and fresh cheeses: yak milk was often processed into dense, shelf-stable cheeses or dried products for winter use and for market sale.  
+- Fermented curds/yogurt: used as both a direct food and a starter culture for subsequent batches, maintaining a chain of cultured transformation rather than prolonged storage of raw milk.
+
+Practical implication for a contemporary kitchen
+In reproducing traditional Bhutanese methods you should assume the historically normal pathway: convert raw milk quickly into a cultured product (curd/dahi) then churn or heat that curd/buttermilk into butter and cheeses, rather than expecting to store large quantities of raw milk safely for later use.
+
+### Empowering Yak Herders in Dagala through Cheese Production and Livelihood Diversification  
+**Supported by the Bhutan Foundation**
+
+The Dagala Yak Cooperative, operating under the Bhutan Yak Federation, consists of 39 households engaged in yak rearing, managing around 2,400 yaks. These semi-nomadic herders, living in the Dungdro and Wangdro chiwogs of Dagala Gewog in Thimphu District, depend largely on yak-derived products such as milk, meat, and wool, alongside some earnings from tourism. In 2022, despite facing challenges due to the region’s harsh climate and remote location, the cooperative achieved remarkable production figures: 177,876 liters of milk, 7.3 metric tons of butter, 0.5 metric tons of cheese, and 12 metric tons of chugo, a traditional dried yak cheese.
+
+To improve the livelihoods of these resilient herders, the Dagala Yak Cooperative partnered with the National Highland Development Center (NHDC) to initiate a project focused on diversifying livestock products and delivering vital training. This initiative is generously supported by the Bhutan Foundation’s Small Grants Program.
+
+Between August 15 and 24, 2024, 27 yak herders took part in an intensive 10-day training program on hygienic cheese processing. The training introduced them to the production of two premium yak cheeses, Tomme and Gumdel, which represent an innovative addition to their customary dairy practices. The participants warmly welcomed the training, with experienced herder Ms. Buthri, who has 33 years of experience, expressing enthusiasm about acquiring new skills and sharing this knowledge with her peers.
+
+Beyond training, the project includes establishing a specialized cheese-processing facility in Dagala Gewog. This facility, managed jointly by the NHDC and the district livestock sector, aims to produce high-quality cheeses that will help diversify income sources for cooperative members and stimulate the local economy.
+
+By equipping yak herders with enhanced skills and infrastructure, this project is fostering the sustainability of highland communities. The emphasis on value-added products like Tomme and Gumdel cheese is expected to open new economic avenues, lessen reliance on traditional income streams, and secure a more promising future for yak herders in Bhutan’s highlands.
+
+The Bhutan Foundation’s Small Grants Program proudly supports this transformative effort, which holds great promise for improving the well-being of yak herders and their communities.
+
+* Source: https://www.bhutanfound.org/empowering-dagalas-yak-herders-through-cheese-making-and-livelihood-diversification/ (accessed: Sunday, November 16, 2025)
