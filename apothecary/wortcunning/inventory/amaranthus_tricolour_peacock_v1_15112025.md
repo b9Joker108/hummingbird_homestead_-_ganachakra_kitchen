@@ -1,6 +1,6 @@
 File: xxx
 
-# Amaranthis tricolour 'Peacock' #
+# Amaranthus tricolour 'Peacock' #
 
 Chinese spinach, Tampala, Joseph's coat, 苋菜, 汗菜, ....
 
