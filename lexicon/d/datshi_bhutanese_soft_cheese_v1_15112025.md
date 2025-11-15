@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/lexicon/d/datshi_bhutanese_soft_cheese_v1_15112025.md
 
-![](https://youtu.be/2p65PcouUaA?feature=shared)
+![](https://youtube.com/watch?v=2p65PcouUaA&feature=shared)
 
 # Datshi: Bhutanese Soft Cheese #
 
