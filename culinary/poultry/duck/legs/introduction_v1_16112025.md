@@ -282,3 +282,40 @@ For your recipe log, you could catalogue this substitution as:
 👉 I’d recommend starting with a Hunter Valley Semillon or a Clare Valley dry Riesling for clean, bright braises, and keeping a local dry sherry-style fortified on hand for deeper, more rustic soy-braised duck legs.  
 
 Would you like me to draft a decision-tree protocol (grape → style → braise type) so you can quickly match whatever bottle you have on hand to the right dish?
+
+How about a Golden Oak Dry Apera?
+
+Golden Oak Dry Apera is actually a very pragmatic choice for your rustic 红烧鸭腿 (hóngshāo yātuǐ) braise. Let’s benchmark it:
+
+---
+
+🍶 Golden Oak Dry Apera – Profile
+- Style: Australian “Apera” (the local term for sherry-style fortified wine, since “Sherry” is protected under EU law).  
+- Dryness: The “Dry” version is neutral, lightly nutty and oxidative — close enough to Shaoxing’s functional role.  
+- Alcohol: ~18% ABV, so a splash goes a long way.  
+- Flavor impact: Mild oxidative notes, not too sweet, won’t clash with soy sauce, ginger and star anise.  
+- Packaging: 750mL, which makes it inexpensive and convenient for cooking.
+- Positioning: Budget everyday cooking fortified; not complex enough for sipping, but ideal for braises.
+
+---
+
+🥘 Application to Duck Braise
+- Use 20–25 ml (about 1½ tbsp) per two duck legs.  
+- Because it’s a bit lighter and less complex than premium fortifieds, balance with:  
+  - A touch more ginger and star anise for aromatic lift.  
+  - A pinch of brown sugar to round the edges.  
+- It keeps the rustic “peasant foodie” ethos intact: accessible, unfussy and effective.
+
+---
+
+📌 Archival Note
+For your recipe log, you could catalogue this substitution as:  
+金橡干型阿佩拉酒代替绍兴酒 (Jīnxiàng gān xíng Āpèilā jiǔ dàitì Shàoxīng jiǔ)  
+— “Golden Oak Dry Apera as substitute for Shaoxing wine.”
+
+---
+
+So yes — Golden Oak Dry Apera is a defensible, reproducible benchmark for rustic Chinese braising in Australia. It’s cheap, consistent and close enough in oxidative profile to carry the dish without distortion.  
+
+It is Palomino style: https://en.wikipedia.org/wiki/Palomino_(grape)
+
