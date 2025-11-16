@@ -216,3 +216,69 @@ Contextual Notes
 
 Would you like me to also provide a radical-by-radical breakdown of the characters (红, 烧, 鸭, 腿) for your archive, so you can document the etymology and semantic layering?
 
+The Chinese Rice wine was an interesting artisanal touch and I have cooked with it before (I purchased it under the counter in a Chinese food store) and I have taken note. But, presently, I have none and do not wish to use an inferior product or pay a nonsense price for quality. I live in Australia, that has many world-class winaries and excellent cooking wine or clearskins may be secured for a song. What grapes and styles of wine would suit?
+
+Perfectly put, Beauford — Shaoxing rice wine is artisanal, but the principle behind it is simple: a dry, slightly nutty, umami-rich wine that deepens braises without overwhelming them. Since you’re in Australia with access to excellent wineries and affordable clearskins, you can substitute intelligently with grape-based wines that mimic those qualities.
+
+---
+
+🍷 Wine Substitution Protocol for Chinese Braises
+
+Key qualities of Shaoxing wine
+- Dry, not sweet (though it has a mellow roundness)  
+- Nutty, oxidative notes (from aging in clay jars)  
+- Low tannin, moderate acidity (so it doesn’t clash with soy sauce or aromatics)  
+- Enhances umami rather than fruit-forwardness  
+
+---
+
+Suitable Australian Wine Styles
+
+- Dry Sherry-style wines (Fino, Amontillado, Oloroso)  
+  - Australian fortifieds often emulate these.  
+  - Nutty, oxidative, saline qualities are closest to Shaoxing.  
+  - Use sparingly (1–2 tbsp), as they can be intense.
+
+- Semillon (Hunter Valley, Barossa)  
+  - Young Semillon: crisp, citrusy, clean — good for lighter braises.  
+  - Aged Semillon: develops waxy, nutty notes, excellent for deeper soy-based braises.
+
+- Chardonnay (unoaked or lightly oaked)  
+  - Unoaked: clean acidity, neutral fruit, versatile.  
+  - Lightly oaked: subtle nuttiness, echoes Shaoxing’s oxidative character.  
+  - Avoid heavily oaked/buttery styles — too rich.
+
+- Dry Riesling (Clare Valley, Eden Valley)  
+  - Crisp acidity, mineral backbone.  
+  - Works well if you want a fresher, lighter braise.  
+  - Avoid off-dry or sweet Rieslings.
+
+- Neutral “cooking whites” / clearskins  
+  - Look for dry, low-aromatic whites (often labelled simply as “Dry White”).  
+  - These are inexpensive and perfectly serviceable for braising.
+
+---
+
+Styles to Avoid
+- Big reds (Shiraz, Cabernet): Too tannic, will clash with soy and aromatics.  
+- Sweet wines (Moscato, dessert styles): Overpowering sweetness.  
+- Heavily oaked whites: Butter/vanilla notes distort the rustic Chinese profile.
+
+---
+
+Practical Substitution Ratios
+- Use 30–40 ml (2–2½ tbsp) per two duck legs, as you would Shaoxing.  
+- If using fortified (sherry-style), cut back slightly (20–25 ml) and balance with a splash of water.  
+- Always taste the braising liquid after 20 minutes — adjust with sugar or vinegar to balance.
+
+---
+
+Archival Note
+For your recipe log, you could catalogue this substitution as:  
+澳洲干白酒代替绍兴酒 (Àozhōu gān bái jiǔ dàitì Shàoxīng jiǔ) — “Australian dry white wine as substitute for Shaoxing wine.”
+
+---
+
+👉 I’d recommend starting with a Hunter Valley Semillon or a Clare Valley dry Riesling for clean, bright braises, and keeping a local dry sherry-style fortified on hand for deeper, more rustic soy-braised duck legs.  
+
+Would you like me to draft a decision-tree protocol (grape → style → braise type) so you can quickly match whatever bottle you have on hand to the right dish?
