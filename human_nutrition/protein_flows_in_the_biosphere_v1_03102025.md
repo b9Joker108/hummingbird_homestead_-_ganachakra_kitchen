@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/human_nutrition/protein_flows_in_the_biosphere_v1_03102025.md
 
 This really should be better placed in the repo. I need a dedicated and structured subdirectory for functions, cli one-liners and shell scripts, etc. **TODO**
 ...
