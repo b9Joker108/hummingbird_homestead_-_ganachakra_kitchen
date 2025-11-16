@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/alcohol/cooking/sherry/palomino_v1_16112p25.md
 
 # Palomino: Dry Cooking Sherry ~ An Introduction #
 
