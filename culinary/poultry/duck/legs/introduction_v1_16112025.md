@@ -180,3 +180,39 @@ Notes for archival metadata (for your records)
 
 If you want, I can convert this into a compact checklist you can put into your archive (one-line steps plus temp/heat cues), or write a variant timed for oven use in your same ceramic pot. Which would you prefer?
 
+Excellent archival question. Let’s pin this down with philological precision.
+
+---
+
+Likely Chinese Naming
+The rustic braise I outlined corresponds most closely to the family of 红烧鸭腿 dishes.
+
+- Chinese characters: 红烧鸭腿  
+- Literal gloss: red-braised duck leg  
+  - 红 (hóng) = red (referring to the mahogany colour from soy sauce and sugar caramelization)  
+  - 烧 (shāo) = to braise, stew, or cook over heat with sauce  
+  - 鸭腿 (yā tuǐ) = duck leg  
+
+This is the canonical term used in home-style cookery and restaurant menus for soy-braised duck legs.
+
+---
+
+Academic Transcription (Hànyǔ Pīnyīn)
+- Hóngshāo yātuǐ  
+- Tone marks: hóng (2nd tone), shāo (1st tone), yā (1st tone), tuǐ (3rd tone)  
+- IPA (Mandarin): [xʊ̌ŋ ʂáʊ já tʰwèɪ]
+
+---
+
+Contextual Notes
+- Rustic/peasant framing: In rural contexts, this dish might simply be called 红烧鸭 (hóngshāo yā, “red-braised duck”), without specifying the cut. The leg designation (腿) is more precise and modern.  
+- Regional variants: In Sichuan, one might add chilies and call it 麻辣红烧鸭腿 (málà hóngshāo yātuǐ, “numbing-spicy red-braised duck leg”). In Jiangsu or Zhejiang, sweeter soy bases yield 苏式红烧鸭腿.  
+- Archival classification: This belongs to the broader culinary category of 红烧 (red-braising), a technique applied to pork belly (红烧肉), fish (红烧鱼), and duck alike.
+
+---
+
+✅ So the recipe you’re contemplating would be catalogued as:  
+红烧鸭腿 (Hóngshāo yātuǐ) — Red-braised duck leg  
+
+Would you like me to also provide a radical-by-radical breakdown of the characters (红, 烧, 鸭, 腿) for your archive, so you can document the etymology and semantic layering?
+
