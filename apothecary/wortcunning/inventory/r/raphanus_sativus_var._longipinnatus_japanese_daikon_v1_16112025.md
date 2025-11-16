@@ -41,6 +41,9 @@ Choose bright, unblemished leaves attached to firm daikon roots. Use within 2–
 
 Would you like a compact checklist (wash → trim → blanch/stir → dress) you can paste into your recipe archive?
 
+'Daikon Leaves Furikake' (Japanese: 大根の葉ふりかけ ; xxxx: xxxx)
+
+* https://www.justonecookbook.com/daikon-leaves-furikake/ (accessed: Sunday, November 16, 2025)
 
 # References #
 
