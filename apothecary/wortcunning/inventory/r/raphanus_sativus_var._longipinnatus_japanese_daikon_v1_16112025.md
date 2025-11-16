@@ -4,6 +4,10 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 ...
 
+# References #
+
+* https://chefjacooks.com/en/daikon-recipes/ (accessed: Sunday, November 16, 2025)
+
 ## Daikon Greens ##
 
 **Edibility and flavour**
@@ -38,4 +42,7 @@ Choose bright, unblemished leaves attached to firm daikon roots. Use within 2–
 Would you like a compact checklist (wash → trim → blanch/stir → dress) you can paste into your recipe archive?
 
 
+# References #
 
+* https://foodprint.org/blog/how-to-use-radish-greens-and-daikon-greens/ (accessed: Sunday, November 16, 2025)
+* 
