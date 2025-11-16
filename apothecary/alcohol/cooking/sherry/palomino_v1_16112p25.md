@@ -34,3 +34,41 @@ Citations:
 [8] An ode to Palomino: still wines made from old vine ... https://wineanorak.com/2021/09/12/an-ode-to-palomino-still-wines-made-from-old-vine-palomino-offer-a-new-narrative-for-this-neutral-industrialised-yet-historic-grape-variety/
 [9] Palomino (grape) https://en.wikipedia.org/wiki/Palomino_(grape)
 [10] Word on the Mexican grapevine https://www.jancisrobinson.com/articles/word-mexican-grapevine
+
+
+Is all Palomino sherry dry?
+
+Not all Palomino sherry is dry — but the vast majority of classic sherry styles made from Palomino grapes are.  
+
+---
+
+🥂 The Dry Core of Palomino Sherry
+- Base wine: All Palomino sherries begin as a neutral, dry white wine fermented to ~11–12% ABV.  
+- Fortification: They are fortified with grape spirit to ~15–18% ABV, then aged either biologically (under flor yeast) or oxidatively (without flor).  
+- Dry styles include:  
+  - Fino: Pale, bone dry, aged under flor.  
+  - Manzanilla: Bone dry, similar to Fino but lighter and saltier (aged in Sanlúcar).  
+  - Amontillado: Starts as Fino, then oxidatively aged; dry, nutty, caramel notes.  
+  - Oloroso: Entirely oxidative, dry, fuller-bodied, walnut/toffee notes.  
+  - Palo Cortado: Rare, combines Amontillado’s elegance with Oloroso’s richness; dry.  
+
+---
+
+🍬 Sweet Sherries (Not Palomino-Based)
+- Pedro Ximénez (PX) and Moscatel grapes are used for sweet sherries.  
+- These produce naturally sweet wines (raisiny, syrupy, dessert-like).  
+- Palomino is almost never used for sweet sherry because it is too neutral and low in sugar.
+
+---
+
+📌 Key Takeaway
+- Palomino = dry sherry styles (Fino, Manzanilla, Amontillado, Oloroso, Palo Cortado).  
+- Sweet sherries = PX or Moscatel grapes.  
+- If you see “Palomino style” on an Australian Apera (like Golden Oak Dry Apera), it signals a dry, nutty fortified modeled on Spanish Palomino sherries.
+
+---
+
+So: Palomino sherry is overwhelmingly dry, but not all sherry is dry. The sweet ones come from other grapes.  
+
+Would you like me to sketch a classification chart of sherry styles (dry vs. sweet, grape source, aging method) so you can archive the whole canon at a glance?  
+
