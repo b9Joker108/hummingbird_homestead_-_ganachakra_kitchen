@@ -90,3 +90,68 @@ Citations:
 [21] PRODUCTS - Clamms Seafood https://clamms.com.au/products/
 
 
+How can I adapt Gdańsk herring recipes for one person at home
+
+To adapt Gdańsk herring recipes for one person at home, especially with local wild-caught fish as a substitute, consider the following practical steps:
+
+### Adjust Portion Sizes and Ingredients
+- Use a single or couple of fillets of fish (e.g., Australian herring or sardines) to keep portions manageable.
+- Reduce marinade and sauce quantities proportionally—use tablespoons instead of cups for vinegar, oil, sour cream, and spices.
+- Slice onions, apples, and other accompaniments in small amounts to avoid waste but keep the flavor balance.
+
+### Simplify Preparation
+- For marinated herring (like “Śledź w Śmietanie”), soak one fillet in water or milk to moderate saltiness, then mix with a small spoonful of sour cream, finely chopped onion, and a little grated apple.
+- For “Rolmops,” wrap one fillet around thinly sliced pickled cucumber or onion and marinate in vinegar with a bay leaf and peppercorns overnight, using just a few drops of marinade.
+- Serve with a small boiled or steamed potato, which can be prepared individually or batch-cooked for several days.
+
+### Serve Intimately
+- Prepare a mini-platter combining two or three small herring-style dishes to simulate a smorgasbord, presenting variety without excess.
+- Accompany with small bites of rye bread or crispbread typical of the Baltic region to capture traditional textures.
+
+### Storage and Freshness
+- Herring dishes typically improve after a few hours or overnight marinade; make smaller batches but allow marinating time in a single small container.
+- Keep leftovers tightly sealed in the fridge, as flavors intensify and they last for 2-3 days.
+
+### Infuse Atmosphere
+- Use garnish like dill or fresh chives to evoke the Baltic culinary tradition.
+- Enjoy with a small glass of light beer, aquavit, or apple juice to mimic regional drinking customs and enhance the sensory experience.
+
+This scaled approach honors the essence of Gdańsk herring cuisine while being perfectly suited to a homestead lifestyle, without waste or complexity. It lets you explore tradition with local fish and simple preparation at an intimate scale.
+
+Can you find any cookbooks that cover this or online recipes
+
+Several resources with traditional Gdańsk and Polish Baltic herring recipes are available both online and in cookbooks. Here are options that include detailed recipes or entire cookbooks to explore:
+
+### Online Recipes
+- A detailed recipe for “Polish Herring in Sour Cream (Śledź w Śmietanie)” with ingredients and instructions suitable for small batches is available on PolishYourKitchen.com and Chef’s Pencil. These describe soaking salted herring and mixing with sour cream, onion, apple, and pepper, closely matching Gdańsk traditions[1][2].
+- Herring Tartare, a Gdańsk-inspired dish with herring, sour pickles, onions, and mayonnaise, including marinade details, is published on DW’s website and various Polish food blogs[3].
+- Kashubian Herring recipe with pickled herring marinated with onions, bay leaves, and allspice, then served with tomato paste and raisins, can be found at Gingeybites.com, which offers a good Baltic Polish variant[4].
+- Polish Herring Rolls, with cured fish combined with mushrooms, onions, and tomato paste, available on PolishFoodies.com, present a rich cultural version[5].
+
+### Cookbooks
+- "Polish Foodies Traditional Recipes Cookbook," the “Treasure Polish Recipes for Americans,” and “Authentic Polish Cooking” offer comprehensive Polish dishes including seafood and herring dishes, often scaled to family or party portions that can be adapted for one person[6].
+- Online Polish food sites often provide free recipes and tips for scaling down portions for single servings.
+
+### Recommendations for Your Needs
+- Use online recipes from PolishYourKitchen, Gingeybites, and DW for precise, adaptable single-person recipes.
+- Consider acquiring “The Ultimate Polish Cookbook” or “Polish Foodies Traditional Recipes Cookbook” for a thorough culinary reference with scalable recipes.
+- Adapt the recipes by reducing quantities for one serving and incorporating local wild-caught fish substitutes as previously discussed.
+
+These resources blend traditional Gdańsk culinary techniques with accessible preparation, perfect for honoring Baltic herring foodways in a homestead setting in Melbourne[1][3][4][5][6].
+
+Citations:
+[1] Polish Herring in Sour Cream {Śledź w Śmietanie} https://www.polishyourkitchen.com/polish-herring-in-sour-cream/
+[2] Polish Herring in Sour Cream (Śledź w Śmietanie) - Chef's Pencil https://www.chefspencil.com/sledz-w-smietanie-herring-in-sour-cream/
+[3] Herring Tartare – DW – 03/07/2019 https://www.dw.com/en/herring-tartare-from-gdansk/a-19415407
+[4] Falling in love with Polish herring + a recipe https://gingeybites.com/2020/01/kashubian-herring-recipe.html
+[5] Polish Herring Rolls Recipe - Śledzie Po Kociewsku https://polishfoodies.com/polish-herring-rolls-recipe/
+[6] The Absolute Best Polish Cookbooks https://polishfoodies.com/the-absolute-best-polish-cookbooks/
+[7] Food in War-Time http://pdfs.semanticscholar.org/dc79/b0606073679805a6a67529a5d0d0079c06ce.pdf
+[8] Promotion of cultural heritage — regional and traditional Polish meat products https://www.meatjournal.ru/jour/article/download/201/263
+[9] Review of the Butler’s edition of “German Cuisine: Refined, Soulful and Delicious (Mini Recipe-Book)” https://alimentariastudia.org/index.php/saj/article/download/7/6
+[10] Preserving Culinary Traditions. A Crowdsourced Digital Collection of
+  Cookbooks http://arxiv.org/pdf/2501.12786.pdf
+[11] Herring The Danish Way https://denmark.dk/people-and-culture/recipes/herring
+[12] Herring Salad Polish-Style (Salatka ze Sledzia) https://www.everydayhealthyrecipes.com/herring-salad-recipe/
+[13] "RYBA" (fish Polish style) recipe from the cookbook of Scott ... https://www.facebook.com/groups/1351735364879765/posts/7035653356487909/
+[14] Pan-fried Baltic herring, Scandinavian style! https://maku.kitchen/en/recipes/pan-fried-baltic-herring-scandinavian-style/
