@@ -4,5 +4,5 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 # Pin Cushion #
 
-I need to go second-hand/opp-shoppe/thift-shopping for a woolen jumper to process and repurpose into batting for my pot-holder project, whilst at it, I will look for two fabrics I like, that work together, to re-purpose for this pin cushion.
+I need to go second-hand/opp-shoppe/thift-shopping for a woolen jumper to process and repurpose into batting for my pot-holder project. Whilst at it, I will look for two fabrics I like, that work together with pattern and colour, appropriate for purpose, to re-purpose for this pin cushion.
 
