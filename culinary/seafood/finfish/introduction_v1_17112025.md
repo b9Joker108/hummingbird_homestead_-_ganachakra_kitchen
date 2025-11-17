@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/culinary/seafood/finfish/introduction_v1_17112025.md
 
 "Herring can be served cold, with onions, peppers, and tomato sauce, as a kind of antipasto. It can also be eaten simply, on toast, for breakfast. In Sweden just across the Baltic from Poland, and a major culinary and cultural influence, especially in the port city of Gdansk-several kinds of herring are often served at once, alongside many other dishes, at Christmas smorgasbords. Herring can also be served with chopped raw onions and olive oil alongside warm potatoes for lunch, which is how it is eaten at our favorite seaside restaurants in Jastarnia and Jurata, on the Polish Baltic coast. Perhaps for that reason, the very taste of it brings to mind the white sand, fresh wind, and pine trees of the Hel Peninsula, a spit of land that juts into the Baltic, east of Gdansk, and has some of the most beautiful beaches we've ever seen." I am interested in the traditional herring dishes of Gdansk and their foodways and how I may honour them yet adapt them to a homestead of one, in Melbourne, Australia.
 
