@@ -353,3 +353,7 @@ Here’s a reproducible, minimalist protocol adapted for your Fitzroy context an
 
 I went with the temperature and timing in the spirit of the law/lore but gently finessed. I seasoned AFTER the rendering phase in the order-of-ceremonies, as written, with: ground nutmeg, liberal proprietary 'Second House Products' Zaa'tar, finished with one coarsely freshly ground whole star anise in my mystically bound and ritual greenstone mortar-and-pestle, spritzed with orgasmic EVOO and sealed with the resplendent topshelf 'Lotus' coarse Celtic sea salt and rusty-nailed with some bottom-shelf freshly ground kosher cooking salt and black pepper.
 
+After offering and honouring as Ganachakra prashadam, the basic duck was of course not tender but I am not averse to employing my teeth. I am blessed to have them and I have them in many more ways than one. I know where I got the legs from, but not their provenance proper. Domestic ducks of course straddle the boundary with game fowl and are in general muscular and aethetic even though domesticated and this ancestral quality textures their substance. I of course, wanted to harvest the fat and the two (2) legs of the four (4) I ate at noon were enjoyable but not of standard. This was anticipated and expected and desired before I Push-the-Envelope.
+
+
+
