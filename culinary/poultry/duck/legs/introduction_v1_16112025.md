@@ -349,3 +349,7 @@ Here’s a reproducible, minimalist protocol adapted for your Fitzroy context an
 5. Serve
 - Ideal with bitter greens, mustardy lentils, or duck-fat potatoes if you’ve collected the drippings.
 
+**Subtext:**
+
+I went with the temperature and timing in the spirit of the law/lore but gently finessed. I seasoned AFTER the rendering phase with: ground nutmeg, liberal proprietary 'Second House Products' Zaa'tar, finished with one coarsely freshly ground whole star anise, spritzed with EVOO and sealed with topshelf Lotus coarse Celtic sea salt and some bottom-shelf freshly ground kosher cooking salt and black pepper.
+
