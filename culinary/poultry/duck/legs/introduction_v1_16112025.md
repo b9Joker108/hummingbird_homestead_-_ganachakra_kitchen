@@ -351,5 +351,5 @@ Here’s a reproducible, minimalist protocol adapted for your Fitzroy context an
 
 **Subtext:**
 
-I went with the temperature and timing in the spirit of the law/lore but gently finessed. I seasoned AFTER the rendering phase in the order-of-ceremonies, as written, with: ground nutmeg, liberal proprietary 'Second House Products' Zaa'tar, finished with one coarsely freshly ground whole star anise, spritzed with orgasmic EVOO and sealed with the resplendent topshelf 'Lotus' coarse Celtic sea salt and rusty-nailed with some bottom-shelf freshly ground kosher cooking salt and black pepper.
+I went with the temperature and timing in the spirit of the law/lore but gently finessed. I seasoned AFTER the rendering phase in the order-of-ceremonies, as written, with: ground nutmeg, liberal proprietary 'Second House Products' Zaa'tar, finished with one coarsely freshly ground whole star anise in my mystically bound and ritual greenstone mortar-and-pestle, spritzed with orgasmic EVOO and sealed with the resplendent topshelf 'Lotus' coarse Celtic sea salt and rusty-nailed with some bottom-shelf freshly ground kosher cooking salt and black pepper.
 
