@@ -319,3 +319,33 @@ So yes — Golden Oak Dry Apera is a defensible, reproducible benchmark for rust
 
 It is Palomino style: https://en.wikipedia.org/wiki/Palomino_(grape)
 
+# Simple Bake: Before Rareification & Sublimation ~ 'ReConOSInt'
+
+For four duck legs in an air-forced air fryer, the triangulated protocol is: low-temp render, high-temp crisp, rest. No marinade needed.
+
+Here’s a reproducible, minimalist protocol adapted for your Fitzroy context and scaled to four legs:
+
+---
+
+🔺 Triangulated Protocol: Air Fryer Duck Legs (x4)
+
+1. Prep (5 min)
+- Rinse and dry: Pat duck legs thoroughly dry with paper towels.
+- Prick skin: Use a sharp knife or skewer to prick the skin at a shallow angle (don’t pierce the meat). This promotes fat rendering.
+- Season: Liberally apply kosher salt and cracked black pepper. Optionally add a pinch of five-spice or thyme.
+
+2. Render Phase (Low Temp)
+- Preheat air fryer to 150°C (300°F).
+- Arrange legs skin-side up, spaced apart in the basket.
+- Cook for 12 minutes to begin rendering fat.
+
+3. Crisp Phase (High Temp)
+- Increase temp to 205°C (400°F).
+- Continue cooking for 8–10 minutes, or until skin is golden and crisp. Internal temp should reach ~74°C (165°F) minimum.
+
+4. Rest (5 min)
+- Remove and let rest on a rack or warm plate. Skin will tighten and juices redistribute.
+
+5. Serve
+- Ideal with bitter greens, mustardy lentils, or duck-fat potatoes if you’ve collected the drippings.
+
