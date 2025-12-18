@@ -1,6 +1,6 @@
 File: xxx
 
-# Hanseatic (English) #
+# Hanseatic League (English) #
 
 "Hanseatic" refers primarily to the medieval Hanseatic League, a powerful commercial and defensive network of merchant guilds and towns in Northern Europe (13th-17th centuries) that monopolized Baltic and North Sea trade, known for its wealth, cities like Hamburg, Lübeck, and Bremen, and significant influence on European commerce. It also denotes the elite families (Hanseaten) from these Free Hanseatic Cities, and modern entities like the Hapag-Lloyd Cruises expedition ships, maintaining a historical connection to maritime trade and Northern Europe. 
   
