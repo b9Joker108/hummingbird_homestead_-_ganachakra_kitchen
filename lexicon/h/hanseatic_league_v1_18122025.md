@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/lexicon/h/hanseatic_league_v1_18122025.md
 
 # Hanseatic League (English) #
 
