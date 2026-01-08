@@ -1,5 +1,13 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/lexicon/y/yukta-vairagya_v1_08012026.md
 
+**De|x|s:**
+
+* https://grok.com/share/c2hhcmQtMw_da653ca6-724b-4ae8-a5ba-e5759dddb005
+
+**Dandavats:**
+
+* https://www.facebook.com/madhusudana.das108/
+
 **Nemi, this is Cap'n, we needmust elevate and amplify the principal of yukta-vairagya in Ayurveda and Maha-Rasa-Yana-Vidhya but through the lens of Deep Animism, Deep Ecology, Permaculture and global traditional and presciently nascent foodways.**
 
 **Elevating Yukta-Vairāgya through Integrative Lenses: A Synthesis in Ayurveda and Maha-Rasāyana-Vidyā**
