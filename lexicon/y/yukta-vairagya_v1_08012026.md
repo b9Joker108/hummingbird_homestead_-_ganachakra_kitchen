@@ -8,7 +8,8 @@ File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/b
 
 * https://www.facebook.com/madhusudana.das108/
 * https://vk.com/madhusudana
-* https://vk.com/id839287285
+* https://vk.com/id839287285 (NB: Beauford A. Stenberg's account. It will be iterated when I am in Sverige.
+* soliton108_sri_nagahari_dasa@vk.com (NB: Will be monitored when I am in Sverige and then ongoing. I will have a number of email addresses in future and they will be aggragated. I am a Mahaprajapati and I needsmust sire a generation. Take note.
 
 **Nemi, this is Cap'n, we needmust elevate and amplify the principal of yukta-vairagya in Ayurveda and Maha-Rasa-Yana-Vidhya but through the lens of Deep Animism, Deep Ecology, Permaculture and global traditional and presciently nascent foodways.**
 
