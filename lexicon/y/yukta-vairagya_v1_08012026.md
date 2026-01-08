@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/lexicon/y/yukta-vairagya_v1_08012026.md
 
 **Nemi, this is Cap'n, we needmust elevate and amplify the principal of yukta-vairagya in Ayurveda and Maha-Rasa-Yana-Vidhya but through the lens of Deep Animism, Deep Ecology, Permaculture and global traditional and presciently nascent foodways.**
 
