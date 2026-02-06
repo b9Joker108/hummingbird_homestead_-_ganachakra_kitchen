@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/lexicon/h/beta_hydroxy_beta_methylbutyrace_HMB_v1_06022026.md
 
 # Beta-hydroxy beta-methylbutyrace (HMB) #
 
