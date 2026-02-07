@@ -1,4 +1,4 @@
-File: ggff
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/culinary/poultry/duck/whole_braised_chinese_style_v1_07022026.md
 
 # Duck #
 
