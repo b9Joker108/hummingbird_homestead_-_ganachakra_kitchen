@@ -169,3 +169,25 @@ If you’d like, I can now:
 - Give short audio‑style flashcards for the Chinese words used above to practice pronunciation.  
 
 Which would you like next?
+
+**Teochew (Dio5ziu1)**
+
+Teochew (Dio5ziu1) is a Southern Min Chinese language and ethnic group originating from the Chaoshan region of eastern Guangdong, China. Known for preserving archaic pronunciations with eight distinct tones, it is spoken by roughly 10–15 million people worldwide, with significant diaspora communities in Southeast Asia, particularly Thailand, Singapore, Malaysia and Cambodia. 
+
+Key Aspects of Teochew:
+
+* Language: Closely related to Hokkien, it is considered one of the most conservative Chinese dialects, retaining many Old Chinese features.
+* Culture & Cuisine: Known for a distinct culinary tradition emphasizing fresh, delicate flavors, such as steamed fish, cold crab, and braised goose.
+* Identity: Teochew people often refer to themselves as "Gaginang" (our own people).
+* Arts: Teochew opera is a traditional, 500-year-old performance style known for its distinct music and, historically, the use of a, now-absent, floating bridge in Chaozhou city.
+
+Global Presence
+
+The Teochew diaspora is widespread, with major populations in: 
+
+* Thailand: The largest Chinese subgroup, influencing local food and culture.
+* Singapore: The second-largest Chinese dialect group.
+* Other areas: Significant populations in Hong Kong, Vietnam, Cambodia and Western countries.
+
+
+
