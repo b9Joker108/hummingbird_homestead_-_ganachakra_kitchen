@@ -190,4 +190,39 @@ The Teochew diaspora is widespread, with major populations in:
 * Other areas: Significant populations in Hong Kong, Vietnam, Cambodia and Western countries.
 
 
+I am simmering a whole 2.2kg of duck.
+
+For a 2.2 kg whole duck gently simmered/poached, plan on roughly 1.5–2 hours at a bare simmer until the legs move easily and juices run clear, then finish with high dry heat if you want crisp skin.[1]
+
+### Simmering time and cues
+
+- Use enough seasoned liquid (stock, soy, aromatics, etc.) to fully submerge the duck.[1]
+- Bring just to a simmer, then keep it at the gentlest “blip” you can manage, not a rolling boil, to keep the meat tender.  
+- For ~2.2 kg, start checking around 1.5 hours; many master-stock style recipes give a range of 1.5–2 hours for a whole duck at this weight.[1][2]
+- Doneness cues:  
+  - A skewer in the thickest part of the thigh releases clear juices.  
+  - The leg joint moves freely when wiggled.  
+
+If in doubt and you can probe it, you want at least ~74–80 °C in the thigh for fully cooked, braise-style duck.[3][4][2]
+
+### If you want crisp skin after simmering
+
+Right after simmering, the skin will be soft. To crisp:
+
+1. Lift duck out, drain and dry the skin very well (air-dry 30–60 minutes if you have time, or put in front of a fan).  
+2. Roast on a rack at 190–200 °C for 20–30 minutes, or until the skin is as browned as you like; pre-roasted ducks of 2–2.3 kg typically take around 40 min/kg from raw, so 20–30 minutes from already-simmered is usually sufficient.[3][5]
+
+If you tell me what liquid/aromatics you’re using and whether you care more about broth vs meat texture, I can tighten the timing and finishing method.
+
+Citations:
+[1] How to cook a duck - by Darren Robertson https://darrenrobertsonfood.substack.com/p/how-to-cook-a-duck
+[2] 👩🏼‍🍳 Cooking instructions https://rosannaetc.com/post/whole-roast-duck/
+[3] How Long to Cook a Duck: The 2025 Definitive Guide https://eathealthy365.com/roasting-a-whole-duck-time-temp-crispy-skin-tips/
+[4] Foolproof method for cooking a roasted whole duck https://canardsdulacbrome.com/en/recettes/foolproof-method-cooking-roasted-whole-duck/
+[5] How to cook a whole Duck · Gressingham https://www.gressinghamduck.co.uk/how-to/how-to-roast-a-duck/
+[6] Whole Duck Cooking Time Calculator https://www.meatcookingtimecalculator.com/poultry/whole-duck
+[7] How Long Do I Cook A Bigger Roast Duck For? https://www.nigella.com/ask/how-long-do-i-cook-a-bigger-roast-duck-for
+[8] Duck Series: Roast Duck with potatoes and gravy https://www.karenreallylikesfood.com/2017/01/duck-series-roast-duck-with-potatoes-and-gravy.html
+[9] Roast Duck Recipe https://juliasalbum.com/how-to-cook-duck/
+[10] Domestic duck camp oven recipes and methods https://www.facebook.com/groups/AustralianCampOvenRecipesAnTips/posts/2127757510708870/
 
