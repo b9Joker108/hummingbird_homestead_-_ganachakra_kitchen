@@ -1,3 +1,40 @@
+```yaml
+---
+title: Duck Stock/Broth v1
+created: 2026-02-08
+updated: 2026-02-08
+tags:
+  - culinary/poultry/duck
+  - stock
+  - broth
+  - recipe-notes
+  - version-1
+  - homesteading
+aliases:
+  - duck broth rules
+  - duck stock guidelines
+  - first whole duck broth
+description: |
+  Practical rules for processing and using rich duck broth/stock from the first successful whole-duck simmer-then-broil hack. Covers defatting, storage, aromatics, reduction, and kitchen uses.
+source: Grok conversation • post-simmer stock cooling phase
+version: "1"
+---
+
+```
+
+### Why these fields?
+- `title` → overrides the H1 for Dataview, graph view, etc.
+- `created` / `updated` → standard Obsidian date format (YYYY-MM-DD) for sorting/queries.
+- Hierarchical tag `culinary/poultry/duck` → matches your folder structure and makes Dataview/folder queries easy.
+- `aliases` → lets you link to it from anywhere with nicer names.
+- `description` → shows up nicely in Dataview tables or hover previews.
+- `source` + `version` → useful for your homestead/kitchen log style.
+
+If you use any of the popular recipe plugins (Recipe View, Cooking, etc.) and want extra fields like `yield`, `cook_time`, etc., just let me know and I’ll add them.
+
+Drop it in, and your note is now fully Obsidian-native. Happy homesteading! 🦆✨
+
+
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/culinary/poultry/duck/stock_broth_v1_08022026.md
 
 # Duck broth/stock #
