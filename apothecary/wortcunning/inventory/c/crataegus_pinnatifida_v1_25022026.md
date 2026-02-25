@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/apothecary/wortcunning/inventory/c/crataegus_pinnatifida_v1_25022026.md
 
-# Crataegus pinnatifida (Chinese: [山楂](https://en.wiktionary.org/w/index.php?title=%E5%B1%B1%E6%A5%82&oldid=87970734) ) #
+# Crataegus pinnatifida or Chinese Mountain Hawthorn (Chinese: [山楂](https://en.wiktionary.org/w/index.php?title=%E5%B1%B1%E6%A5%82&oldid=87970734) ) #
 
 **Crataegus pinnatifida: I have the sliced dried berry, what can I do with it?**
 
