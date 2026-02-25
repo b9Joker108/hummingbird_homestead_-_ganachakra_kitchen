@@ -117,7 +117,7 @@ Citations:
 
 **Glyph Origin and Structure**
 
-楂 is pictophonetic (形声字 xíngshēngzì):  
+楂 is pictophonetic ([形](https://en.wiktionary.org/w/index.php?title=%E5%BD%A2&oldid=88769376)[声](https://en.wiktionary.org/w/index.php?title=%E5%A3%B0&oldid=89629704)[字](https://en.wiktionary.org/w/index.php?title=%E5%AD%97&oldid=88250647) xíngshēngzì):  
 - **Semantic radical**: 木 (mù, "tree/wood"), left side, classifying it as arboreal—a standard tag for fruits, timber species, or woody plants (cf. 桃 peach, 梅 plum). [4]
 - **Phonetic component**: 查 (chá; alt. 査), right side (9 strokes total for 楂). Chá derives from 木 + 土 ("earth/soil") + 日 ("sun"), evoking "surveyed wood" or "rooted tree," with Old Chinese *dzraːʔ yielding modern /ʈ͡ʂʰä³⁵/ (chá²) or /ʈ͡ʂä⁵⁵/ (zhā¹). The chá > zhā voicing shift reflects Middle Chinese palatalization (dzrae > zhā). [6][4]
 This decomposition mirrors Hanzi logic: visual "tree" cues function, phonetic hints pronunciation across compounds.
