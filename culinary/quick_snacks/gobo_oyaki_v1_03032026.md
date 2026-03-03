@@ -1,4 +1,6 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_homestead_-_ganachakra_kitchen/blob/main/culinary/quick_snacks/gobo_oyaki_v1_03032026.md
+
+# Gobo Oyaki or Gobo-yaki; Grated Burdock Pancake #
 
 Since the pancake (often called Gobo Oyaki or Gobo-yaki) is the winner, here is a streamlined way to make them extra satisfying. Because your burdock is already grated and frozen, it will soften beautifully into the batter.
 The "Crispy-Chewy" Ratio
